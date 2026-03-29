@@ -1,3 +1,6 @@
 data/embeddings/*.npz
 data/raw/
 models/
+data/embeddings/*.npz
+data/raw/
+models/
