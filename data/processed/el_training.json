@@ -1,0 +1,3434 @@
+[
+  {
+    "question": "Who are the authors of the paper 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering'?",
+    "mention": "TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering",
+    "span_start": 34,
+    "span_end": 144,
+    "entity_id": "4cf85f9436bb8b5b1c68715f44d6b67254413ef8",
+    "entity_name": "TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering"
+  },
+  {
+    "question": "Where was the paper 'Introduction to Information Retrieval' published?",
+    "mention": "Introduction to Information Retrieval",
+    "span_start": 21,
+    "span_end": 58,
+    "entity_id": "d75fa50ee884164cdd92c7933ffb00aa6f3a41f3",
+    "entity_name": "Introduction to Information Retrieval"
+  },
+  {
+    "question": "What papers by Ankur Bapna were published in arXiv.org?",
+    "mention": "Ankur Bapna",
+    "span_start": 15,
+    "span_end": 26,
+    "entity_id": "12295226",
+    "entity_name": "Ankur Bapna"
+  },
+  {
+    "question": "What papers by Ankur Bapna were published in arXiv.org?",
+    "mention": "arXiv.org",
+    "span_start": 45,
+    "span_end": 54,
+    "entity_id": "venue_arxiv.org",
+    "entity_name": "arXiv.org"
+  },
+  {
+    "question": "Where was the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning' published?",
+    "mention": "Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning",
+    "span_start": 21,
+    "span_end": 100,
+    "entity_id": "4715230901b765a2638edd61f8aa91da25a29590",
+    "entity_name": "Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning"
+  },
+  {
+    "question": "Who are the authors of the paper 'Book Reviews: Foundations of Statistical Natural Language Processing'?",
+    "mention": "Book Reviews: Foundations of Statistical Natural Language Processing",
+    "span_start": 34,
+    "span_end": 102,
+    "entity_id": "084c55d6432265785e3ff86a2e900a49d501c00a",
+    "entity_name": "Book Reviews: Foundations of Statistical Natural Language Processing"
+  },
+  {
+    "question": "When was the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey' published?",
+    "mention": "Graph Neural Networks for Intelligent Transportation Systems: A Survey",
+    "span_start": 20,
+    "span_end": 90,
+    "entity_id": "116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8",
+    "entity_name": "Graph Neural Networks for Intelligent Transportation Systems: A Survey"
+  },
+  {
+    "question": "Who are the authors of the paper 'Evaluating Large Language Models in Class-Level Code Generation'?",
+    "mention": "Evaluating Large Language Models in Class-Level Code Generation",
+    "span_start": 34,
+    "span_end": 97,
+    "entity_id": "b617b4f744bcb077a94328392fc8c630e17e4af0",
+    "entity_name": "Evaluating Large Language Models in Class-Level Code Generation"
+  },
+  {
+    "question": "Where was the paper 'Joint Embedding of Words and Labels for Text Classification' published?",
+    "mention": "Joint Embedding of Words and Labels for Text Classification",
+    "span_start": 21,
+    "span_end": 80,
+    "entity_id": "4cfd53606ee76aedc2cf1ae39a64223adc25e4c8",
+    "entity_name": "Joint Embedding of Words and Labels for Text Classification"
+  },
+  {
+    "question": "Where was the paper 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models' published?",
+    "mention": "Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models",
+    "span_start": 21,
+    "span_end": 159,
+    "entity_id": "94a47bf3bb8fffaabe75c6aa2b4b1b211b3e40d1",
+    "entity_name": "Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models"
+  },
+  {
+    "question": "What papers by M. Chen were published in Annual Meeting of the Association for Computational Linguistics?",
+    "mention": "M. Chen",
+    "span_start": 15,
+    "span_end": 22,
+    "entity_id": "48623026",
+    "entity_name": "M. Chen"
+  },
+  {
+    "question": "What papers by M. Chen were published in Annual Meeting of the Association for Computational Linguistics?",
+    "mention": "Annual Meeting of the Association for Computational Linguistics",
+    "span_start": 41,
+    "span_end": 104,
+    "entity_id": "venue_annual_meeting_of_the_association_for_computational_linguistics",
+    "entity_name": "Annual Meeting of the Association for Computational Linguistics"
+  },
+  {
+    "question": "Where was the paper 'POMO: Policy Optimization with Multiple Optima for Reinforcement Learning' published?",
+    "mention": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning",
+    "span_start": 21,
+    "span_end": 94,
+    "entity_id": "246a68fcf2bcd1db8f0184129b63123d1f98eaa3",
+    "entity_name": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning"
+  },
+  {
+    "question": "Which paper has more citations: 'A Simple and Effective Pruning Approach for Large Language Models' or 'Introduction to Information Retrieval and Quantum Mechanics'?",
+    "mention": "A Simple and Effective Pruning Approach for Large Language Models",
+    "span_start": 33,
+    "span_end": 98,
+    "entity_id": "7d22ad3573101337bca2091fb0114b377c4f3db6",
+    "entity_name": "A Simple and Effective Pruning Approach for Large Language Models"
+  },
+  {
+    "question": "Which paper has more citations: 'A Simple and Effective Pruning Approach for Large Language Models' or 'Introduction to Information Retrieval and Quantum Mechanics'?",
+    "mention": "Introduction to Information Retrieval and Quantum Mechanics",
+    "span_start": 104,
+    "span_end": 163,
+    "entity_id": "6cb234e38f7104fcd73bff04f41bfb37c96e2317",
+    "entity_name": "Introduction to Information Retrieval and Quantum Mechanics"
+  },
+  {
+    "question": "What papers by Siddhant Garg were published in Conference on Empirical Methods in Natural Language Processing?",
+    "mention": "Siddhant Garg",
+    "span_start": 15,
+    "span_end": 28,
+    "entity_id": "2295877",
+    "entity_name": "Siddhant Garg"
+  },
+  {
+    "question": "What papers by Siddhant Garg were published in Conference on Empirical Methods in Natural Language Processing?",
+    "mention": "Conference on Empirical Methods in Natural Language Processing",
+    "span_start": 47,
+    "span_end": 109,
+    "entity_id": "venue_conference_on_empirical_methods_in_natural_language_processing",
+    "entity_name": "Conference on Empirical Methods in Natural Language Processing"
+  },
+  {
+    "question": "Which paper has more citations: 'On the concept of relevance in legal information retrieval' or 'Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection'?",
+    "mention": "On the concept of relevance in legal information retrieval",
+    "span_start": 33,
+    "span_end": 91,
+    "entity_id": "26afce2b127e6291d87dba76391343a65b0bca8b",
+    "entity_name": "On the concept of relevance in legal information retrieval"
+  },
+  {
+    "question": "Which paper has more citations: 'On the concept of relevance in legal information retrieval' or 'Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection'?",
+    "mention": "Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection",
+    "span_start": 97,
+    "span_end": 179,
+    "entity_id": "76e8fc64da0e52287ef317c4b9a77cb1455a7342",
+    "entity_name": "Phase-Shifting Coder: Predicting Accurate Orientation in Oriented Object Detection"
+  },
+  {
+    "question": "When was the paper 'Neural Machine Translation for Low-resource Languages: A Survey' published?",
+    "mention": "Neural Machine Translation for Low-resource Languages: A Survey",
+    "span_start": 20,
+    "span_end": 83,
+    "entity_id": "50c38435e38c227e9e8917f67aa6e0aca915b544",
+    "entity_name": "Neural Machine Translation for Low-resource Languages: A Survey"
+  },
+  {
+    "question": "What is the most cited paper published in Conference of the Association for Machine Translation in the Americas?",
+    "mention": "Conference of the Association for Machine Translation in the Americas",
+    "span_start": 42,
+    "span_end": 111,
+    "entity_id": "venue_conference_of_the_association_for_machine_translation_in_the_americas",
+    "entity_name": "Conference of the Association for Machine Translation in the Americas"
+  },
+  {
+    "question": "When was the paper 'BERT applications in natural language processing: a review' published?",
+    "mention": "BERT applications in natural language processing: a review",
+    "span_start": 20,
+    "span_end": 78,
+    "entity_id": "a710cd1bd3c9ac374e79daed5b0442ce5cc364fa",
+    "entity_name": "BERT applications in natural language processing: a review"
+  },
+  {
+    "question": "Who are the authors of the paper 'A Transformer-Based Siamese Network for Change Detection'?",
+    "mention": "A Transformer-Based Siamese Network for Change Detection",
+    "span_start": 34,
+    "span_end": 90,
+    "entity_id": "ef3b15260a610473c95662f5df2c195ac19f64d6",
+    "entity_name": "A Transformer-Based Siamese Network for Change Detection"
+  },
+  {
+    "question": "Who are the authors of the paper 'Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification'?",
+    "mention": "Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification",
+    "span_start": 34,
+    "span_end": 172,
+    "entity_id": "6c59c85cb393f69b4c2b70846359b2fc1611fc08",
+    "entity_name": "Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification"
+  },
+  {
+    "question": "When was the paper 'Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation' published?",
+    "mention": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
+    "span_start": 20,
+    "span_end": 100,
+    "entity_id": "cd773d9b82f8331f5b2910ec2f52388aafb6dbfd",
+    "entity_name": "Rich feature hierarchies for accurate object detection and semantic segmentation"
+  },
+  {
+    "question": "When was the paper 'Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets' published?",
+    "mention": "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets",
+    "span_start": 20,
+    "span_end": 140,
+    "entity_id": "347bac45298f37cd83c3e79d99b826dc65a70c46",
+    "entity_name": "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets"
+  },
+  {
+    "question": "What is the most cited paper published in arXiv.org?",
+    "mention": "arXiv.org",
+    "span_start": 42,
+    "span_end": 51,
+    "entity_id": "venue_arxiv.org",
+    "entity_name": "arXiv.org"
+  },
+  {
+    "question": "Which paper has more citations: 'SIGN: Scalable Inception Graph Neural Networks' or 'PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks'?",
+    "mention": "SIGN: Scalable Inception Graph Neural Networks",
+    "span_start": 33,
+    "span_end": 79,
+    "entity_id": "993377a3fc8334558463b82053904e3d684f29c0",
+    "entity_name": "SIGN: Scalable Inception Graph Neural Networks"
+  },
+  {
+    "question": "Which paper has more citations: 'SIGN: Scalable Inception Graph Neural Networks' or 'PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks'?",
+    "mention": "PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks",
+    "span_start": 85,
+    "span_end": 168,
+    "entity_id": "a8ae2d8232db04d88cf622e5fabd11da3163aa8f",
+    "entity_name": "PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks"
+  },
+  {
+    "question": "Which papers cite 'Image BERT Pre-training with Online Tokenizer' and are about Computer Science?",
+    "mention": "Image BERT Pre-training with Online Tokenizer",
+    "span_start": 19,
+    "span_end": 64,
+    "entity_id": "ff169d09a933756e8798021dbf9e24a0bbfd9b38",
+    "entity_name": "Image BERT Pre-training with Online Tokenizer"
+  },
+  {
+    "question": "Which papers cite 'Image BERT Pre-training with Online Tokenizer' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 80,
+    "span_end": 96,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "mention": "A literature review on question answering techniques, paradigms and systems",
+    "span_start": 20,
+    "span_end": 95,
+    "entity_id": "bf4f4ebd43ac87431fdf978988c2a90b1034e994",
+    "entity_name": "A literature review on question answering techniques, paradigms and systems"
+  },
+  {
+    "question": "When was the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures' published?",
+    "mention": "Learned Image Compression with Mixed Transformer-CNN Architectures",
+    "span_start": 20,
+    "span_end": 86,
+    "entity_id": "a23a4b04c487585792ecf45bce4ea43aa71bac2f",
+    "entity_name": "Learned Image Compression with Mixed Transformer-CNN Architectures"
+  },
+  {
+    "question": "Which papers cite 'Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking' and are about Computer Science?",
+    "mention": "Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking",
+    "span_start": 19,
+    "span_end": 100,
+    "entity_id": "932d4aab28cc74158e85fabaf9601ab635a02b92",
+    "entity_name": "Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking"
+  },
+  {
+    "question": "Which papers cite 'Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 116,
+    "span_end": 132,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Comparison between Multinomial and Bernoulli Na\u00efve Bayes for Text Classification' or 'Hierarchy-Aware Global Model for Hierarchical Text Classification'?",
+    "mention": "Comparison between Multinomial and Bernoulli Na\u00efve Bayes for Text Classification",
+    "span_start": 33,
+    "span_end": 113,
+    "entity_id": "79723af0e87b274403df5bcfc299eebfbc741a23",
+    "entity_name": "Comparison between Multinomial and Bernoulli Na\u00efve Bayes for Text Classification"
+  },
+  {
+    "question": "Which paper has more citations: 'Comparison between Multinomial and Bernoulli Na\u00efve Bayes for Text Classification' or 'Hierarchy-Aware Global Model for Hierarchical Text Classification'?",
+    "mention": "Hierarchy-Aware Global Model for Hierarchical Text Classification",
+    "span_start": 119,
+    "span_end": 184,
+    "entity_id": "25467372b8517c6431319aef9d65ae1fa87c8581",
+    "entity_name": "Hierarchy-Aware Global Model for Hierarchical Text Classification"
+  },
+  {
+    "question": "Who are the authors of the paper 'Deep Transfer Learning with Joint Adaptation Networks'?",
+    "mention": "Deep Transfer Learning with Joint Adaptation Networks",
+    "span_start": 34,
+    "span_end": 87,
+    "entity_id": "ae9e5e72aefd19b81c1fe75d7baf6c0bedad75e5",
+    "entity_name": "Deep Transfer Learning with Joint Adaptation Networks"
+  },
+  {
+    "question": "Which papers cite 'The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation' and are about Computer Science?",
+    "mention": "The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation",
+    "span_start": 19,
+    "span_end": 99,
+    "entity_id": "bb669de2fce407df2f5cb2f8c51dedee3f467e04",
+    "entity_name": "The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation"
+  },
+  {
+    "question": "Which papers cite 'The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 115,
+    "span_end": 131,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Extracting Names From Arabic Text for Question-Answering Systems' or 'A contrastive framework for enhancing Knowledge Graph Question Answering: Alleviating exposure bias'?",
+    "mention": "Extracting Names From Arabic Text for Question-Answering Systems",
+    "span_start": 33,
+    "span_end": 97,
+    "entity_id": "7aca030cc1fbb8dfecdc908857fb284476517f84",
+    "entity_name": "Extracting Names From Arabic Text for Question-Answering Systems"
+  },
+  {
+    "question": "Which paper has more citations: 'Extracting Names From Arabic Text for Question-Answering Systems' or 'A contrastive framework for enhancing Knowledge Graph Question Answering: Alleviating exposure bias'?",
+    "mention": "A contrastive framework for enhancing Knowledge Graph Question Answering: Alleviating exposure bias",
+    "span_start": 103,
+    "span_end": 202,
+    "entity_id": "b2c0327ab007aa25a78b04df25783a15d9d94d57",
+    "entity_name": "A contrastive framework for enhancing Knowledge Graph Question Answering: Alleviating exposure bias"
+  },
+  {
+    "question": "When was the paper 'Book Reviews: Foundations of Statistical Natural Language Processing' published?",
+    "mention": "Book Reviews: Foundations of Statistical Natural Language Processing",
+    "span_start": 20,
+    "span_end": 88,
+    "entity_id": "084c55d6432265785e3ff86a2e900a49d501c00a",
+    "entity_name": "Book Reviews: Foundations of Statistical Natural Language Processing"
+  },
+  {
+    "question": "Who are the authors of the paper 'Experience of neural machine translation between Indian languages'?",
+    "mention": "Experience of neural machine translation between Indian languages",
+    "span_start": 34,
+    "span_end": 99,
+    "entity_id": "4c4bb371db4c3be64d023cb51360a4bca2ff0d90",
+    "entity_name": "Experience of neural machine translation between Indian languages"
+  },
+  {
+    "question": "Which paper has more citations: 'Rainbow: Combining Improvements in Deep Reinforcement Learning' or 'Query Expansion Techniques for Information Retrieval: a Survey'?",
+    "mention": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+    "span_start": 33,
+    "span_end": 95,
+    "entity_id": "0ab3f7ecbdc5a33565a234215604a6ca9d155a33",
+    "entity_name": "Rainbow: Combining Improvements in Deep Reinforcement Learning"
+  },
+  {
+    "question": "Which paper has more citations: 'Rainbow: Combining Improvements in Deep Reinforcement Learning' or 'Query Expansion Techniques for Information Retrieval: a Survey'?",
+    "mention": "Query Expansion Techniques for Information Retrieval: a Survey",
+    "span_start": 101,
+    "span_end": 163,
+    "entity_id": "9130ed011369ee8c4853b562309289488fb5949a",
+    "entity_name": "Query Expansion Techniques for Information Retrieval: a Survey"
+  },
+  {
+    "question": "Which paper has more citations: 'Deep Reinforcement Learning for Dialogue Generation' or 'Large Language Models Cannot Self-Correct Reasoning Yet'?",
+    "mention": "Deep Reinforcement Learning for Dialogue Generation",
+    "span_start": 33,
+    "span_end": 84,
+    "entity_id": "1298dae5751fb06184f6b067d1503bde8037bdb7",
+    "entity_name": "Deep Reinforcement Learning for Dialogue Generation"
+  },
+  {
+    "question": "Which paper has more citations: 'Deep Reinforcement Learning for Dialogue Generation' or 'Large Language Models Cannot Self-Correct Reasoning Yet'?",
+    "mention": "Large Language Models Cannot Self-Correct Reasoning Yet",
+    "span_start": 90,
+    "span_end": 145,
+    "entity_id": "6d4bacb69923e1e94fb4de468b939ce6db32fb51",
+    "entity_name": "Large Language Models Cannot Self-Correct Reasoning Yet"
+  },
+  {
+    "question": "Which papers cite 'Sparse R-CNN: End-to-End Object Detection with Learnable Proposals' and are about Computer Science?",
+    "mention": "Sparse R-CNN: End-to-End Object Detection with Learnable Proposals",
+    "span_start": 19,
+    "span_end": 85,
+    "entity_id": "6d5f423164cd5ef9324281652987c8a65009e98e",
+    "entity_name": "Sparse R-CNN: End-to-End Object Detection with Learnable Proposals"
+  },
+  {
+    "question": "Which papers cite 'Sparse R-CNN: End-to-End Object Detection with Learnable Proposals' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 101,
+    "span_end": 117,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'POMO: Policy Optimization with Multiple Optima for Reinforcement Learning'?",
+    "mention": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning",
+    "span_start": 34,
+    "span_end": 107,
+    "entity_id": "246a68fcf2bcd1db8f0184129b63123d1f98eaa3",
+    "entity_name": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning"
+  },
+  {
+    "question": "Which papers cite 'Naive (Bayes) at Forty: The Independence Assumption in Information Retrieval' and are about Computer Science?",
+    "mention": "Naive (Bayes) at Forty: The Independence Assumption in Information Retrieval",
+    "span_start": 19,
+    "span_end": 95,
+    "entity_id": "44e915a220ce74badf755aae870fa0b69ee2b82a",
+    "entity_name": "Naive (Bayes) at Forty: The Independence Assumption in Information Retrieval"
+  },
+  {
+    "question": "Which papers cite 'Naive (Bayes) at Forty: The Independence Assumption in Information Retrieval' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 111,
+    "span_end": 127,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Introduction to Information Retrieval' or 'Unsupervised Dense Information Retrieval with Contrastive Learning'?",
+    "mention": "Introduction to Information Retrieval",
+    "span_start": 33,
+    "span_end": 70,
+    "entity_id": "d75fa50ee884164cdd92c7933ffb00aa6f3a41f3",
+    "entity_name": "Introduction to Information Retrieval"
+  },
+  {
+    "question": "Which paper has more citations: 'Introduction to Information Retrieval' or 'Unsupervised Dense Information Retrieval with Contrastive Learning'?",
+    "mention": "Unsupervised Dense Information Retrieval with Contrastive Learning",
+    "span_start": 76,
+    "span_end": 142,
+    "entity_id": "4f4a409f701f7552d45c46a5b0fea69dca6f8e84",
+    "entity_name": "Unsupervised Dense Information Retrieval with Contrastive Learning"
+  },
+  {
+    "question": "What is the most cited paper published in Information Processing & Management?",
+    "mention": "Information Processing & Management",
+    "span_start": 42,
+    "span_end": 77,
+    "entity_id": "venue_information_processing_&_management",
+    "entity_name": "Information Processing & Management"
+  },
+  {
+    "question": "Who are the authors of the paper 'A Survey on Deep Transfer Learning and Beyond'?",
+    "mention": "A Survey on Deep Transfer Learning and Beyond",
+    "span_start": 34,
+    "span_end": 79,
+    "entity_id": "c0aa6607ae32b019830dd3777d3d4f850f72ccf6",
+    "entity_name": "A Survey on Deep Transfer Learning and Beyond"
+  },
+  {
+    "question": "Which papers cite 'Decoupling Representation Learning from Reinforcement Learning' and are about Computer Science?",
+    "mention": "Decoupling Representation Learning from Reinforcement Learning",
+    "span_start": 19,
+    "span_end": 81,
+    "entity_id": "17985b57240bfaea02a6098a7a34e71e780180eb",
+    "entity_name": "Decoupling Representation Learning from Reinforcement Learning"
+  },
+  {
+    "question": "Which papers cite 'Decoupling Representation Learning from Reinforcement Learning' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 97,
+    "span_end": 113,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'Deep Transfer Learning with Joint Adaptation Networks' published?",
+    "mention": "Deep Transfer Learning with Joint Adaptation Networks",
+    "span_start": 20,
+    "span_end": 73,
+    "entity_id": "ae9e5e72aefd19b81c1fe75d7baf6c0bedad75e5",
+    "entity_name": "Deep Transfer Learning with Joint Adaptation Networks"
+  },
+  {
+    "question": "Which paper has more citations: 'Soft-NMS \u2014 Improving Object Detection with One Line of Code' or 'Natural language processing in-and-for design research'?",
+    "mention": "Soft-NMS \u2014 Improving Object Detection with One Line of Code",
+    "span_start": 33,
+    "span_end": 92,
+    "entity_id": "53c0aa8d33d240197caff824a6225fb223c1181c",
+    "entity_name": "Soft-NMS \u2014 Improving Object Detection with One Line of Code"
+  },
+  {
+    "question": "Which paper has more citations: 'Soft-NMS \u2014 Improving Object Detection with One Line of Code' or 'Natural language processing in-and-for design research'?",
+    "mention": "Natural language processing in-and-for design research",
+    "span_start": 98,
+    "span_end": 152,
+    "entity_id": "3340eb22592d5a3e86c82ee95f4420354ba3c07d",
+    "entity_name": "Natural language processing in-and-for design research"
+  },
+  {
+    "question": "Which papers cite 'Building a Multimodal Entity Linking Dataset From Tweets' and are about Computer Science?",
+    "mention": "Building a Multimodal Entity Linking Dataset From Tweets",
+    "span_start": 19,
+    "span_end": 75,
+    "entity_id": "860ff0f3639af33108b4ed1b50ae1f17133368e5",
+    "entity_name": "Building a Multimodal Entity Linking Dataset From Tweets"
+  },
+  {
+    "question": "Which papers cite 'Building a Multimodal Entity Linking Dataset From Tweets' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 91,
+    "span_end": 107,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification' published?",
+    "mention": "Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification",
+    "span_start": 20,
+    "span_end": 158,
+    "entity_id": "6c59c85cb393f69b4c2b70846359b2fc1611fc08",
+    "entity_name": "Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification"
+  },
+  {
+    "question": "Where was the paper 'BERT applications in natural language processing: a review' published?",
+    "mention": "BERT applications in natural language processing: a review",
+    "span_start": 21,
+    "span_end": 79,
+    "entity_id": "a710cd1bd3c9ac374e79daed5b0442ce5cc364fa",
+    "entity_name": "BERT applications in natural language processing: a review"
+  },
+  {
+    "question": "How many papers has Quoc V. Le published in this dataset?",
+    "mention": "Quoc V. Le",
+    "span_start": 20,
+    "span_end": 30,
+    "entity_id": "1397917613",
+    "entity_name": "Quoc V. Le"
+  },
+  {
+    "question": "Which papers cite 'Distant Learning for Entity Linking with Automatic Noise Detection' and are about Computer Science?",
+    "mention": "Distant Learning for Entity Linking with Automatic Noise Detection",
+    "span_start": 19,
+    "span_end": 85,
+    "entity_id": "667be5223925a043ed7905b8d030f526fcbcb455",
+    "entity_name": "Distant Learning for Entity Linking with Automatic Noise Detection"
+  },
+  {
+    "question": "Which papers cite 'Distant Learning for Entity Linking with Automatic Noise Detection' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 101,
+    "span_end": 117,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Deep convolutional recurrent neural network with attention mechanism for robust speech emotion recognition' and are about Computer Science?",
+    "mention": "Deep convolutional recurrent neural network with attention mechanism for robust speech emotion recognition",
+    "span_start": 19,
+    "span_end": 125,
+    "entity_id": "87e112f11f906c56a01ea4f8157ffc71101695bb",
+    "entity_name": "Deep convolutional recurrent neural network with attention mechanism for robust speech emotion recognition"
+  },
+  {
+    "question": "Which papers cite 'Deep convolutional recurrent neural network with attention mechanism for robust speech emotion recognition' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 141,
+    "span_end": 157,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "How many papers has Fran\u00e7ois Chollet published in this dataset?",
+    "mention": "Fran\u00e7ois Chollet",
+    "span_start": 20,
+    "span_end": 36,
+    "entity_id": "1565641737",
+    "entity_name": "Fran\u00e7ois Chollet"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective' or 'Beyond Part Models: Person Retrieval with Refined Part Pooling'?",
+    "mention": "A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective",
+    "span_start": 33,
+    "span_end": 137,
+    "entity_id": "741a7faf9dbefd418cda878c61c5b839ecc02977",
+    "entity_name": "A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective' or 'Beyond Part Models: Person Retrieval with Refined Part Pooling'?",
+    "mention": "Beyond Part Models: Person Retrieval with Refined Part Pooling",
+    "span_start": 143,
+    "span_end": 205,
+    "entity_id": "753d2a35c9edf5dfcac4ef3a6adc993b657b01f0",
+    "entity_name": "Beyond Part Models: Person Retrieval with Refined Part Pooling"
+  },
+  {
+    "question": "Which papers cite 'nnFormer: Interleaved Transformer for Volumetric Segmentation' and are about Computer Science?",
+    "mention": "nnFormer: Interleaved Transformer for Volumetric Segmentation",
+    "span_start": 19,
+    "span_end": 80,
+    "entity_id": "31444a27bb09e64cf252be9fa2349a5178307012",
+    "entity_name": "nnFormer: Interleaved Transformer for Volumetric Segmentation"
+  },
+  {
+    "question": "Which papers cite 'nnFormer: Interleaved Transformer for Volumetric Segmentation' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 96,
+    "span_end": 112,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "What is the most cited paper published in Conference on Empirical Methods in Natural Language Processing?",
+    "mention": "Conference on Empirical Methods in Natural Language Processing",
+    "span_start": 42,
+    "span_end": 104,
+    "entity_id": "venue_conference_on_empirical_methods_in_natural_language_processing",
+    "entity_name": "Conference on Empirical Methods in Natural Language Processing"
+  },
+  {
+    "question": "Where was the paper 'Experience of neural machine translation between Indian languages' published?",
+    "mention": "Experience of neural machine translation between Indian languages",
+    "span_start": 21,
+    "span_end": 86,
+    "entity_id": "4c4bb371db4c3be64d023cb51360a4bca2ff0d90",
+    "entity_name": "Experience of neural machine translation between Indian languages"
+  },
+  {
+    "question": "Which papers cite 'A novel multivariate filter method for feature selection in text classification problems' and are about Computer Science?",
+    "mention": "A novel multivariate filter method for feature selection in text classification problems",
+    "span_start": 19,
+    "span_end": 107,
+    "entity_id": "916fb3157438ec57db5867809b5bec624c0cc3de",
+    "entity_name": "A novel multivariate filter method for feature selection in text classification problems"
+  },
+  {
+    "question": "Which papers cite 'A novel multivariate filter method for feature selection in text classification problems' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 123,
+    "span_end": 139,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'A review On reinforcement learning: Introduction and applications in industrial process control'?",
+    "mention": "A review On reinforcement learning: Introduction and applications in industrial process control",
+    "span_start": 34,
+    "span_end": 129,
+    "entity_id": "bd21ae0360e410708c4d286ddb403aeecfd7a4b8",
+    "entity_name": "A review On reinforcement learning: Introduction and applications in industrial process control"
+  },
+  {
+    "question": "Which paper has more citations: 'Graph Convolutional Neural Networks for Web-Scale Recommender Systems' or 'Information Retrieval and Text Mining Technologies for Chemistry.'?",
+    "mention": "Graph Convolutional Neural Networks for Web-Scale Recommender Systems",
+    "span_start": 33,
+    "span_end": 102,
+    "entity_id": "6c96c2d4a3fbd572fef2d59cb856521ee1746789",
+    "entity_name": "Graph Convolutional Neural Networks for Web-Scale Recommender Systems"
+  },
+  {
+    "question": "Which paper has more citations: 'Graph Convolutional Neural Networks for Web-Scale Recommender Systems' or 'Information Retrieval and Text Mining Technologies for Chemistry.'?",
+    "mention": "Information Retrieval and Text Mining Technologies for Chemistry.",
+    "span_start": 108,
+    "span_end": 173,
+    "entity_id": "03995790bf86a1c34fd02c072d05a1ecfaa603cb",
+    "entity_name": "Information Retrieval and Text Mining Technologies for Chemistry."
+  },
+  {
+    "question": "Where was the paper 'Self-Improvement Programming for Temporal Knowledge Graph Question Answering' published?",
+    "mention": "Self-Improvement Programming for Temporal Knowledge Graph Question Answering",
+    "span_start": 21,
+    "span_end": 97,
+    "entity_id": "ddf0c2cd902cd77a8ab2813f15065359f17080b0",
+    "entity_name": "Self-Improvement Programming for Temporal Knowledge Graph Question Answering"
+  },
+  {
+    "question": "What papers by Peiyi Wang were published in Annual Meeting of the Association for Computational Linguistics?",
+    "mention": "Peiyi Wang",
+    "span_start": 15,
+    "span_end": 25,
+    "entity_id": "144202874",
+    "entity_name": "Peiyi Wang"
+  },
+  {
+    "question": "What papers by Peiyi Wang were published in Annual Meeting of the Association for Computational Linguistics?",
+    "mention": "Annual Meeting of the Association for Computational Linguistics",
+    "span_start": 44,
+    "span_end": 107,
+    "entity_id": "venue_annual_meeting_of_the_association_for_computational_linguistics",
+    "entity_name": "Annual Meeting of the Association for Computational Linguistics"
+  },
+  {
+    "question": "Which paper has more citations: 'Rethinking Graph Neural Networks for Anomaly Detection' or 'A survey on question answering systems over linked data and documents'?",
+    "mention": "Rethinking Graph Neural Networks for Anomaly Detection",
+    "span_start": 33,
+    "span_end": 87,
+    "entity_id": "53e80869c6582d7f95ef0a351170736afd1742d0",
+    "entity_name": "Rethinking Graph Neural Networks for Anomaly Detection"
+  },
+  {
+    "question": "Which paper has more citations: 'Rethinking Graph Neural Networks for Anomaly Detection' or 'A survey on question answering systems over linked data and documents'?",
+    "mention": "A survey on question answering systems over linked data and documents",
+    "span_start": 93,
+    "span_end": 162,
+    "entity_id": "b482e8e47ae39734e9750b948bc3249b51fa2c30",
+    "entity_name": "A survey on question answering systems over linked data and documents"
+  },
+  {
+    "question": "Which paper has more citations: 'Stable-Baselines3: Reliable Reinforcement Learning Implementations' or 'Document-Level Neural Machine Translation with Hierarchical Attention Networks'?",
+    "mention": "Stable-Baselines3: Reliable Reinforcement Learning Implementations",
+    "span_start": 33,
+    "span_end": 99,
+    "entity_id": "e3fc5b5627af62ee6981a02090cf6bae368202d7",
+    "entity_name": "Stable-Baselines3: Reliable Reinforcement Learning Implementations"
+  },
+  {
+    "question": "Which paper has more citations: 'Stable-Baselines3: Reliable Reinforcement Learning Implementations' or 'Document-Level Neural Machine Translation with Hierarchical Attention Networks'?",
+    "mention": "Document-Level Neural Machine Translation with Hierarchical Attention Networks",
+    "span_start": 105,
+    "span_end": 183,
+    "entity_id": "e20ff55e87e2b3ef02ae0529880bb705f5efbcae",
+    "entity_name": "Document-Level Neural Machine Translation with Hierarchical Attention Networks"
+  },
+  {
+    "question": "Where was the paper 'Deep Transfer Learning with Joint Adaptation Networks' published?",
+    "mention": "Deep Transfer Learning with Joint Adaptation Networks",
+    "span_start": 21,
+    "span_end": 74,
+    "entity_id": "ae9e5e72aefd19b81c1fe75d7baf6c0bedad75e5",
+    "entity_name": "Deep Transfer Learning with Joint Adaptation Networks"
+  },
+  {
+    "question": "Which paper has more citations: 'A survey on question answering technology from an information retrieval perspective' or 'Revisiting Pre-Trained Models for Chinese Natural Language Processing'?",
+    "mention": "A survey on question answering technology from an information retrieval perspective",
+    "span_start": 33,
+    "span_end": 116,
+    "entity_id": "d11923075c47f8fd2cee47b8d6ae2ad0e7c966e8",
+    "entity_name": "A survey on question answering technology from an information retrieval perspective"
+  },
+  {
+    "question": "Which paper has more citations: 'A survey on question answering technology from an information retrieval perspective' or 'Revisiting Pre-Trained Models for Chinese Natural Language Processing'?",
+    "mention": "Revisiting Pre-Trained Models for Chinese Natural Language Processing",
+    "span_start": 122,
+    "span_end": 191,
+    "entity_id": "d16ab5c19ed33a263b6412ac41a4ea1f068d254a",
+    "entity_name": "Revisiting Pre-Trained Models for Chinese Natural Language Processing"
+  },
+  {
+    "question": "Which papers cite 'Answer type validation in question answering systems' and are about Computer Science?",
+    "mention": "Answer type validation in question answering systems",
+    "span_start": 19,
+    "span_end": 71,
+    "entity_id": "aecd18023ebc134e1af078362053f74edf71237d",
+    "entity_name": "Answer type validation in question answering systems"
+  },
+  {
+    "question": "Which papers cite 'Answer type validation in question answering systems' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 87,
+    "span_end": 103,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Improving broad-coverage medical entity linking with semantic type prediction and large-scale datasets' and are about Medicine?",
+    "mention": "Improving broad-coverage medical entity linking with semantic type prediction and large-scale datasets",
+    "span_start": 19,
+    "span_end": 121,
+    "entity_id": "c96b229b4047df0ecd152f2a6d3e46416b1d94e7",
+    "entity_name": "Improving broad-coverage medical entity linking with semantic type prediction and large-scale datasets"
+  },
+  {
+    "question": "Which papers cite 'Improving broad-coverage medical entity linking with semantic type prediction and large-scale datasets' and are about Medicine?",
+    "mention": "Medicine",
+    "span_start": 137,
+    "span_end": 145,
+    "entity_id": "topic_medicine",
+    "entity_name": "Medicine"
+  },
+  {
+    "question": "Where was the paper 'Paradigm Shift in Natural Language Processing' published?",
+    "mention": "Paradigm Shift in Natural Language Processing",
+    "span_start": 21,
+    "span_end": 66,
+    "entity_id": "8a9fd97dafd664b8fd1ae4ed5ca5071adf9f20ba",
+    "entity_name": "Paradigm Shift in Natural Language Processing"
+  },
+  {
+    "question": "Where was the paper 'A review On reinforcement learning: Introduction and applications in industrial process control' published?",
+    "mention": "A review On reinforcement learning: Introduction and applications in industrial process control",
+    "span_start": 21,
+    "span_end": 116,
+    "entity_id": "bd21ae0360e410708c4d286ddb403aeecfd7a4b8",
+    "entity_name": "A review On reinforcement learning: Introduction and applications in industrial process control"
+  },
+  {
+    "question": "Where was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "mention": "Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection",
+    "span_start": 21,
+    "span_end": 123,
+    "entity_id": "cf490ef0613c5141f148e4b15ba2d8744e4db582",
+    "entity_name": "Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection"
+  },
+  {
+    "question": "Which papers cite 'A Survey on Evaluation of Large Language Models' and are about Computer Science?",
+    "mention": "A Survey on Evaluation of Large Language Models",
+    "span_start": 19,
+    "span_end": 66,
+    "entity_id": "888728745dbb769e29ed475d4f7661eebe1a71cf",
+    "entity_name": "A Survey on Evaluation of Large Language Models"
+  },
+  {
+    "question": "Which papers cite 'A Survey on Evaluation of Large Language Models' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 82,
+    "span_end": 98,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation' and are about Computer Science?",
+    "mention": "An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation",
+    "span_start": 19,
+    "span_end": 108,
+    "entity_id": "4e3c65511292a800b17be6653bd057e7a545a0b0",
+    "entity_name": "An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation"
+  },
+  {
+    "question": "Which papers cite 'An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 124,
+    "span_end": 140,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Detecting Pretraining Data from Large Language Models' and are about Computer Science?",
+    "mention": "Detecting Pretraining Data from Large Language Models",
+    "span_start": 19,
+    "span_end": 72,
+    "entity_id": "3422d5e0cdfdc935d6a84a1e3d3f96659265fe3a",
+    "entity_name": "Detecting Pretraining Data from Large Language Models"
+  },
+  {
+    "question": "Which papers cite 'Detecting Pretraining Data from Large Language Models' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 88,
+    "span_end": 104,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets'?",
+    "mention": "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets",
+    "span_start": 34,
+    "span_end": 154,
+    "entity_id": "347bac45298f37cd83c3e79d99b826dc65a70c46",
+    "entity_name": "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets"
+  },
+  {
+    "question": "Where was the paper 'Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets' published?",
+    "mention": "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets",
+    "span_start": 21,
+    "span_end": 141,
+    "entity_id": "347bac45298f37cd83c3e79d99b826dc65a70c46",
+    "entity_name": "Transfer Learning in Biomedical Natural Language Processing: An Evaluation of BERT and ELMo on Ten Benchmarking Datasets"
+  },
+  {
+    "question": "Who are the authors of the paper 'Expressive Power of Entity-Linking Frameworks'?",
+    "mention": "Expressive Power of Entity-Linking Frameworks",
+    "span_start": 34,
+    "span_end": 79,
+    "entity_id": "f5c1cfdd0286299288c8c291a59d4c5228446e2c",
+    "entity_name": "Expressive Power of Entity-Linking Frameworks"
+  },
+  {
+    "question": "Where was the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey' published?",
+    "mention": "Graph Neural Networks for Intelligent Transportation Systems: A Survey",
+    "span_start": 21,
+    "span_end": 91,
+    "entity_id": "116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8",
+    "entity_name": "Graph Neural Networks for Intelligent Transportation Systems: A Survey"
+  },
+  {
+    "question": "Which papers cite 'Combinatorial optimization and reasoning with graph neural networks' and are about Computer Science?",
+    "mention": "Combinatorial optimization and reasoning with graph neural networks",
+    "span_start": 19,
+    "span_end": 86,
+    "entity_id": "d596ac251729fc3647b08b51c5208fdf5414c7c1",
+    "entity_name": "Combinatorial optimization and reasoning with graph neural networks"
+  },
+  {
+    "question": "Which papers cite 'Combinatorial optimization and reasoning with graph neural networks' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 102,
+    "span_end": 118,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Fine-tuning large neural language models for biomedical natural language processing' or 'Query by humming: musical information retrieval in an audio database'?",
+    "mention": "Fine-tuning large neural language models for biomedical natural language processing",
+    "span_start": 33,
+    "span_end": 116,
+    "entity_id": "a9c5e23c5559bfc4d95dd166c1ed29fa026bbf2e",
+    "entity_name": "Fine-tuning large neural language models for biomedical natural language processing"
+  },
+  {
+    "question": "Which paper has more citations: 'Fine-tuning large neural language models for biomedical natural language processing' or 'Query by humming: musical information retrieval in an audio database'?",
+    "mention": "Query by humming: musical information retrieval in an audio database",
+    "span_start": 122,
+    "span_end": 190,
+    "entity_id": "88b98d7b20ede342fe471b2889ace70d082e4db7",
+    "entity_name": "Query by humming: musical information retrieval in an audio database"
+  },
+  {
+    "question": "Which paper has more citations: 'Better & Faster Large Language Models via Multi-token Prediction' or 'MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval'?",
+    "mention": "Better & Faster Large Language Models via Multi-token Prediction",
+    "span_start": 33,
+    "span_end": 97,
+    "entity_id": "b9c289f141c54ab465a885fb7be7936d98e8c853",
+    "entity_name": "Better & Faster Large Language Models via Multi-token Prediction"
+  },
+  {
+    "question": "Which paper has more citations: 'Better & Faster Large Language Models via Multi-token Prediction' or 'MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval'?",
+    "mention": "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval",
+    "span_start": 103,
+    "span_end": 192,
+    "entity_id": "db823feb54c132aacfbd97196fa994f06a388628",
+    "entity_name": "MILES: Visual BERT Pre-training with Injected Language Semantics for Video-text Retrieval"
+  },
+  {
+    "question": "Which papers cite 'Large Language Models are not Fair Evaluators' and are about Computer Science?",
+    "mention": "Large Language Models are not Fair Evaluators",
+    "span_start": 19,
+    "span_end": 64,
+    "entity_id": "38d64919ba526868a850a0e5f6239d4c474b7e7e",
+    "entity_name": "Large Language Models are not Fair Evaluators"
+  },
+  {
+    "question": "Which papers cite 'Large Language Models are not Fair Evaluators' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 80,
+    "span_end": 96,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'Book Reviews: Foundations of Statistical Natural Language Processing' published?",
+    "mention": "Book Reviews: Foundations of Statistical Natural Language Processing",
+    "span_start": 21,
+    "span_end": 89,
+    "entity_id": "084c55d6432265785e3ff86a2e900a49d501c00a",
+    "entity_name": "Book Reviews: Foundations of Statistical Natural Language Processing"
+  },
+  {
+    "question": "Which paper has more citations: 'FriendsQA: Open-Domain Question Answering on TV Show Transcripts' or 'Off-Policy Deep Reinforcement Learning without Exploration'?",
+    "mention": "FriendsQA: Open-Domain Question Answering on TV Show Transcripts",
+    "span_start": 33,
+    "span_end": 97,
+    "entity_id": "c2fa95fd90665aeef031fe3cc1b5f5572e4fe16c",
+    "entity_name": "FriendsQA: Open-Domain Question Answering on TV Show Transcripts"
+  },
+  {
+    "question": "Which paper has more citations: 'FriendsQA: Open-Domain Question Answering on TV Show Transcripts' or 'Off-Policy Deep Reinforcement Learning without Exploration'?",
+    "mention": "Off-Policy Deep Reinforcement Learning without Exploration",
+    "span_start": 103,
+    "span_end": 161,
+    "entity_id": "5285cb8faada5de8a92a47622950f6cfd476ac1d",
+    "entity_name": "Off-Policy Deep Reinforcement Learning without Exploration"
+  },
+  {
+    "question": "When was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "mention": "Better & Faster Large Language Models via Multi-token Prediction",
+    "span_start": 20,
+    "span_end": 84,
+    "entity_id": "b9c289f141c54ab465a885fb7be7936d98e8c853",
+    "entity_name": "Better & Faster Large Language Models via Multi-token Prediction"
+  },
+  {
+    "question": "Who are the authors of the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures'?",
+    "mention": "Learned Image Compression with Mixed Transformer-CNN Architectures",
+    "span_start": 34,
+    "span_end": 100,
+    "entity_id": "a23a4b04c487585792ecf45bce4ea43aa71bac2f",
+    "entity_name": "Learned Image Compression with Mixed Transformer-CNN Architectures"
+  },
+  {
+    "question": "When was the paper 'Joint Embedding of Words and Labels for Text Classification' published?",
+    "mention": "Joint Embedding of Words and Labels for Text Classification",
+    "span_start": 20,
+    "span_end": 79,
+    "entity_id": "4cfd53606ee76aedc2cf1ae39a64223adc25e4c8",
+    "entity_name": "Joint Embedding of Words and Labels for Text Classification"
+  },
+  {
+    "question": "What papers by Adam Stooke were published in International Conference on Machine Learning?",
+    "mention": "Adam Stooke",
+    "span_start": 15,
+    "span_end": 26,
+    "entity_id": "47541311",
+    "entity_name": "Adam Stooke"
+  },
+  {
+    "question": "What papers by Adam Stooke were published in International Conference on Machine Learning?",
+    "mention": "International Conference on Machine Learning",
+    "span_start": 45,
+    "span_end": 89,
+    "entity_id": "venue_international_conference_on_machine_learning",
+    "entity_name": "International Conference on Machine Learning"
+  },
+  {
+    "question": "Who are the authors of the paper 'Paradigm Shift in Natural Language Processing'?",
+    "mention": "Paradigm Shift in Natural Language Processing",
+    "span_start": 34,
+    "span_end": 79,
+    "entity_id": "8a9fd97dafd664b8fd1ae4ed5ca5071adf9f20ba",
+    "entity_name": "Paradigm Shift in Natural Language Processing"
+  },
+  {
+    "question": "Which papers cite 'Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective' and are about Computer Science?",
+    "mention": "Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective",
+    "span_start": 19,
+    "span_end": 100,
+    "entity_id": "064c71e4bf43e49e3a7cefc29b570c60cbfcfc4f",
+    "entity_name": "Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective"
+  },
+  {
+    "question": "Which papers cite 'Analyzing the Expressive Power of Graph Neural Networks in a Spectral Perspective' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 116,
+    "span_end": 132,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'Graph neural networks' published?",
+    "mention": "Graph neural networks",
+    "span_start": 20,
+    "span_end": 41,
+    "entity_id": "6c7b4505634d7dc16fb1596864644a481eea3acb",
+    "entity_name": "Graph neural networks"
+  },
+  {
+    "question": "Who are the authors of the paper 'Introduction to Information Retrieval'?",
+    "mention": "Introduction to Information Retrieval",
+    "span_start": 34,
+    "span_end": 71,
+    "entity_id": "d75fa50ee884164cdd92c7933ffb00aa6f3a41f3",
+    "entity_name": "Introduction to Information Retrieval"
+  },
+  {
+    "question": "Which papers cite 'Automatic Spanish Translation of SQuAD Dataset for Multi-lingual Question Answering' and are about Computer Science?",
+    "mention": "Automatic Spanish Translation of SQuAD Dataset for Multi-lingual Question Answering",
+    "span_start": 19,
+    "span_end": 102,
+    "entity_id": "da9082edcac8fb83289371a77aecdfcddf0a7aa5",
+    "entity_name": "Automatic Spanish Translation of SQuAD Dataset for Multi-lingual Question Answering"
+  },
+  {
+    "question": "Which papers cite 'Automatic Spanish Translation of SQuAD Dataset for Multi-lingual Question Answering' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 118,
+    "span_end": 134,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'HotFlip: White-Box Adversarial Examples for Text Classification' or 'Not\u2010so\u2010supervised: A survey of semi\u2010supervised, multi\u2010instance, and transfer learning in medical image analysis'?",
+    "mention": "HotFlip: White-Box Adversarial Examples for Text Classification",
+    "span_start": 33,
+    "span_end": 96,
+    "entity_id": "514e7fb769950dbe96eb519c88ca17e04dc829f6",
+    "entity_name": "HotFlip: White-Box Adversarial Examples for Text Classification"
+  },
+  {
+    "question": "Which paper has more citations: 'HotFlip: White-Box Adversarial Examples for Text Classification' or 'Not\u2010so\u2010supervised: A survey of semi\u2010supervised, multi\u2010instance, and transfer learning in medical image analysis'?",
+    "mention": "Not\u2010so\u2010supervised: A survey of semi\u2010supervised, multi\u2010instance, and transfer learning in medical image analysis",
+    "span_start": 102,
+    "span_end": 213,
+    "entity_id": "11663c4130486e1ea088906b19b72925f7d80213",
+    "entity_name": "Not\u2010so\u2010supervised: A survey of semi\u2010supervised, multi\u2010instance, and transfer learning in medical image analysis"
+  },
+  {
+    "question": "Where was the paper 'A Survey on Document-level Neural Machine Translation' published?",
+    "mention": "A Survey on Document-level Neural Machine Translation",
+    "span_start": 21,
+    "span_end": 74,
+    "entity_id": "ee8848f3f6a08e80ff08a1093f78b3f7a3d84f37",
+    "entity_name": "A Survey on Document-level Neural Machine Translation"
+  },
+  {
+    "question": "When was the paper 'Evaluating Large Language Models in Class-Level Code Generation' published?",
+    "mention": "Evaluating Large Language Models in Class-Level Code Generation",
+    "span_start": 20,
+    "span_end": 83,
+    "entity_id": "b617b4f744bcb077a94328392fc8c630e17e4af0",
+    "entity_name": "Evaluating Large Language Models in Class-Level Code Generation"
+  },
+  {
+    "question": "What is the most cited paper published in ECCV Workshops?",
+    "mention": "ECCV Workshops",
+    "span_start": 42,
+    "span_end": 56,
+    "entity_id": "venue_eccv_workshops",
+    "entity_name": "ECCV Workshops"
+  },
+  {
+    "question": "What is the most cited paper published in IEEE Transactions on Pattern Analysis and Machine Intelligence?",
+    "mention": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "span_start": 42,
+    "span_end": 104,
+    "entity_id": "venue_ieee_transactions_on_pattern_analysis_and_machine_intelligence",
+    "entity_name": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  },
+  {
+    "question": "What is the most cited paper published in IEEE International Conference on Computer Vision?",
+    "mention": "IEEE International Conference on Computer Vision",
+    "span_start": 42,
+    "span_end": 90,
+    "entity_id": "venue_ieee_international_conference_on_computer_vision",
+    "entity_name": "IEEE International Conference on Computer Vision"
+  },
+  {
+    "question": "Which papers cite 'WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types' and are about Computer Science?",
+    "mention": "WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types",
+    "span_start": 19,
+    "span_end": 119,
+    "entity_id": "b634362ea52e3144f110f1e3e3bc794aaa0c070b",
+    "entity_name": "WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types"
+  },
+  {
+    "question": "Which papers cite 'WikiDiverse: A Multimodal Entity Linking Dataset with Diversified Contextual Topics and Entity Types' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 135,
+    "span_end": 151,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "What is the most cited paper published in IEEE International Conference on Robotics and Automation?",
+    "mention": "IEEE International Conference on Robotics and Automation",
+    "span_start": 42,
+    "span_end": 98,
+    "entity_id": "venue_ieee_international_conference_on_robotics_and_automation",
+    "entity_name": "IEEE International Conference on Robotics and Automation"
+  },
+  {
+    "question": "When was the paper 'Experience of neural machine translation between Indian languages' published?",
+    "mention": "Experience of neural machine translation between Indian languages",
+    "span_start": 20,
+    "span_end": 85,
+    "entity_id": "4c4bb371db4c3be64d023cb51360a4bca2ff0d90",
+    "entity_name": "Experience of neural machine translation between Indian languages"
+  },
+  {
+    "question": "When was the paper 'The use of ontologies for effective knowledge modelling and information retrieval' published?",
+    "mention": "The use of ontologies for effective knowledge modelling and information retrieval",
+    "span_start": 20,
+    "span_end": 101,
+    "entity_id": "cfa1656664a6b207625c9d37dc7cff5fcb82b020",
+    "entity_name": "The use of ontologies for effective knowledge modelling and information retrieval"
+  },
+  {
+    "question": "Who are the authors of the paper 'The use of ontologies for effective knowledge modelling and information retrieval'?",
+    "mention": "The use of ontologies for effective knowledge modelling and information retrieval",
+    "span_start": 34,
+    "span_end": 115,
+    "entity_id": "cfa1656664a6b207625c9d37dc7cff5fcb82b020",
+    "entity_name": "The use of ontologies for effective knowledge modelling and information retrieval"
+  },
+  {
+    "question": "Where was the paper 'Neural Architecture Search with Reinforcement Learning' published?",
+    "mention": "Neural Architecture Search with Reinforcement Learning",
+    "span_start": 21,
+    "span_end": 75,
+    "entity_id": "67d968c7450878190e45ac7886746de867bf673d",
+    "entity_name": "Neural Architecture Search with Reinforcement Learning"
+  },
+  {
+    "question": "Which papers cite 'Multilingual Neural Machine Translation with Language Clustering' and are about Computer Science?",
+    "mention": "Multilingual Neural Machine Translation with Language Clustering",
+    "span_start": 19,
+    "span_end": 83,
+    "entity_id": "3198d56ff8998070e9b2fd663d8257b5b697e0e9",
+    "entity_name": "Multilingual Neural Machine Translation with Language Clustering"
+  },
+  {
+    "question": "Which papers cite 'Multilingual Neural Machine Translation with Language Clustering' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 99,
+    "span_end": 115,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph neural networks'?",
+    "mention": "Graph neural networks",
+    "span_start": 34,
+    "span_end": 55,
+    "entity_id": "6c7b4505634d7dc16fb1596864644a481eea3acb",
+    "entity_name": "Graph neural networks"
+  },
+  {
+    "question": "Who are the authors of the paper 'Neural Machine Translation for Low-resource Languages: A Survey'?",
+    "mention": "Neural Machine Translation for Low-resource Languages: A Survey",
+    "span_start": 34,
+    "span_end": 97,
+    "entity_id": "50c38435e38c227e9e8917f67aa6e0aca915b544",
+    "entity_name": "Neural Machine Translation for Low-resource Languages: A Survey"
+  },
+  {
+    "question": "Where was the paper 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering' published?",
+    "mention": "TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering",
+    "span_start": 21,
+    "span_end": 131,
+    "entity_id": "4cf85f9436bb8b5b1c68715f44d6b67254413ef8",
+    "entity_name": "TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering"
+  },
+  {
+    "question": "What papers by Phong Le were published in Annual Meeting of the Association for Computational Linguistics?",
+    "mention": "Phong Le",
+    "span_start": 15,
+    "span_end": 23,
+    "entity_id": "144106794",
+    "entity_name": "Phong Le"
+  },
+  {
+    "question": "What papers by Phong Le were published in Annual Meeting of the Association for Computational Linguistics?",
+    "mention": "Annual Meeting of the Association for Computational Linguistics",
+    "span_start": 42,
+    "span_end": 105,
+    "entity_id": "venue_annual_meeting_of_the_association_for_computational_linguistics",
+    "entity_name": "Annual Meeting of the Association for Computational Linguistics"
+  },
+  {
+    "question": "How many papers has B. Haddow published in this dataset?",
+    "mention": "B. Haddow",
+    "span_start": 20,
+    "span_end": 29,
+    "entity_id": "2259100",
+    "entity_name": "B. Haddow"
+  },
+  {
+    "question": "Where was the paper 'Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention' published?",
+    "mention": "Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention",
+    "span_start": 21,
+    "span_end": 104,
+    "entity_id": "54d1079968596ea2ffe17ef3eeb854ef488b4882",
+    "entity_name": "Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention"
+  },
+  {
+    "question": "How many papers has Shuxin Zheng published in this dataset?",
+    "mention": "Shuxin Zheng",
+    "span_start": 20,
+    "span_end": 32,
+    "entity_id": "150311931",
+    "entity_name": "Shuxin Zheng"
+  },
+  {
+    "question": "How many papers has Lukasz Kaiser published in this dataset?",
+    "mention": "Lukasz Kaiser",
+    "span_start": 20,
+    "span_end": 33,
+    "entity_id": "40527594",
+    "entity_name": "Lukasz Kaiser"
+  },
+  {
+    "question": "Which papers cite 'Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey' and are about Computer Science?",
+    "mention": "Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey",
+    "span_start": 19,
+    "span_end": 113,
+    "entity_id": "c23d9d44e8bc68408cea9f305d1f24d915bc0d0d",
+    "entity_name": "Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey"
+  },
+  {
+    "question": "Which papers cite 'Recent Advances in Natural Language Processing via Large Pre-trained Language Models: A Survey' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 129,
+    "span_end": 145,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering' or 'COVID-19 Detection Through Transfer Learning Using Multimodal Imaging Data'?",
+    "mention": "Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering",
+    "span_start": 33,
+    "span_end": 141,
+    "entity_id": "59395cf4f9346ef4ccb37499a3a7e52c2978fc61",
+    "entity_name": "Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering"
+  },
+  {
+    "question": "Which paper has more citations: 'Right for Right Reasons: Large Language Models for Verifiable Commonsense Knowledge Graph Question Answering' or 'COVID-19 Detection Through Transfer Learning Using Multimodal Imaging Data'?",
+    "mention": "COVID-19 Detection Through Transfer Learning Using Multimodal Imaging Data",
+    "span_start": 147,
+    "span_end": 221,
+    "entity_id": "4f10f17f3da432d874abe9327d7124eb2c54c5f9",
+    "entity_name": "COVID-19 Detection through Transfer Learning using Multimodal Imaging Data"
+  },
+  {
+    "question": "Who are the authors of the paper 'Improving Transformer-Based Neural Machine Translation with Prior Alignments'?",
+    "mention": "Improving Transformer-Based Neural Machine Translation with Prior Alignments",
+    "span_start": 34,
+    "span_end": 110,
+    "entity_id": "2593df39ff09d068ae8b03fb1bd53dd76640c1b3",
+    "entity_name": "Improving Transformer-Based Neural Machine Translation with Prior Alignments"
+  },
+  {
+    "question": "When was the paper 'A Transformer-Based Siamese Network for Change Detection' published?",
+    "mention": "A Transformer-Based Siamese Network for Change Detection",
+    "span_start": 20,
+    "span_end": 76,
+    "entity_id": "ef3b15260a610473c95662f5df2c195ac19f64d6",
+    "entity_name": "A Transformer-Based Siamese Network for Change Detection"
+  },
+  {
+    "question": "Who are the authors of the paper 'A literature review on question answering techniques, paradigms and systems'?",
+    "mention": "A literature review on question answering techniques, paradigms and systems",
+    "span_start": 34,
+    "span_end": 109,
+    "entity_id": "bf4f4ebd43ac87431fdf978988c2a90b1034e994",
+    "entity_name": "A literature review on question answering techniques, paradigms and systems"
+  },
+  {
+    "question": "When was the paper 'Introduction to Information Retrieval' published?",
+    "mention": "Introduction to Information Retrieval",
+    "span_start": 20,
+    "span_end": 57,
+    "entity_id": "d75fa50ee884164cdd92c7933ffb00aa6f3a41f3",
+    "entity_name": "Introduction to Information Retrieval"
+  },
+  {
+    "question": "Which paper has more citations: 'Adaptive feature fusion with attention mechanism for multi-scale target detection' or 'Effective Use of Context in Noisy Entity Linking'?",
+    "mention": "Adaptive feature fusion with attention mechanism for multi-scale target detection",
+    "span_start": 33,
+    "span_end": 114,
+    "entity_id": "377befb386bc5c02610298b7899488280212418a",
+    "entity_name": "Adaptive feature fusion with attention mechanism for multi-scale target detection"
+  },
+  {
+    "question": "Which paper has more citations: 'Adaptive feature fusion with attention mechanism for multi-scale target detection' or 'Effective Use of Context in Noisy Entity Linking'?",
+    "mention": "Effective Use of Context in Noisy Entity Linking",
+    "span_start": 120,
+    "span_end": 168,
+    "entity_id": "00beda69369291ed06796be4014d52c58715ac4d",
+    "entity_name": "Effective Use of Context in Noisy Entity Linking"
+  },
+  {
+    "question": "Which papers cite 'Exploring Chemical Space using Natural Language Processing Methodologies for Drug Discovery' and are about Computer Science?",
+    "mention": "Exploring Chemical Space using Natural Language Processing Methodologies for Drug Discovery",
+    "span_start": 19,
+    "span_end": 110,
+    "entity_id": "c20dd209bfe5fd9d5935a69ae00f3be8530b40e9",
+    "entity_name": "Exploring Chemical Space using Natural Language Processing Methodologies for Drug Discovery"
+  },
+  {
+    "question": "Which papers cite 'Exploring Chemical Space using Natural Language Processing Methodologies for Drug Discovery' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 126,
+    "span_end": 142,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "What is the most cited paper published in Annual Meeting of the Association for Computational Linguistics?",
+    "mention": "Annual Meeting of the Association for Computational Linguistics",
+    "span_start": 42,
+    "span_end": 105,
+    "entity_id": "venue_annual_meeting_of_the_association_for_computational_linguistics",
+    "entity_name": "Annual Meeting of the Association for Computational Linguistics"
+  },
+  {
+    "question": "Which paper has more citations: 'Transformers are Graph Neural Networks' or 'Neural machine translation: past, present, and future'?",
+    "mention": "Transformers are Graph Neural Networks",
+    "span_start": 33,
+    "span_end": 71,
+    "entity_id": "20c4882d63558015ed91aec419c18c6af74f699f",
+    "entity_name": "Transformers are Graph Neural Networks"
+  },
+  {
+    "question": "Which paper has more citations: 'Transformers are Graph Neural Networks' or 'Neural machine translation: past, present, and future'?",
+    "mention": "Neural machine translation: past, present, and future",
+    "span_start": 77,
+    "span_end": 130,
+    "entity_id": "af6a9906da62080a785c9c90afe4d5cbb695e9a2",
+    "entity_name": "Neural machine translation: past, present, and future"
+  },
+  {
+    "question": "Which papers cite 'A Generalization of Transformer Networks to Graphs' and are about Computer Science?",
+    "mention": "A Generalization of Transformer Networks to Graphs",
+    "span_start": 19,
+    "span_end": 69,
+    "entity_id": "849b88ddc8f8cabc6d4246479b275a1ee65d0647",
+    "entity_name": "A Generalization of Transformer Networks to Graphs"
+  },
+  {
+    "question": "Which papers cite 'A Generalization of Transformer Networks to Graphs' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 85,
+    "span_end": 101,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "What is the most cited paper published in Neural Information Processing Systems?",
+    "mention": "Neural Information Processing Systems",
+    "span_start": 42,
+    "span_end": 79,
+    "entity_id": "venue_neural_information_processing_systems",
+    "entity_name": "Neural Information Processing Systems"
+  },
+  {
+    "question": "Which papers cite 'A Survey of Computer Vision Methods for 2D Object Detection from Unmanned Aerial Vehicles' and are about Computer Science?",
+    "mention": "A Survey of Computer Vision Methods for 2D Object Detection from Unmanned Aerial Vehicles",
+    "span_start": 19,
+    "span_end": 108,
+    "entity_id": "c6436cec7599ed370efdef3d7eeedd1a5b6b7246",
+    "entity_name": "A Survey of Computer Vision Methods for 2D Object Detection from Unmanned Aerial Vehicles"
+  },
+  {
+    "question": "Which papers cite 'A Survey of Computer Vision Methods for 2D Object Detection from Unmanned Aerial Vehicles' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 124,
+    "span_end": 140,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'CLAMP \u2013 a toolkit for efficiently building customized clinical natural language processing pipelines' and are about Medicine?",
+    "mention": "CLAMP \u2013 a toolkit for efficiently building customized clinical natural language processing pipelines",
+    "span_start": 19,
+    "span_end": 119,
+    "entity_id": "bff0b041b969e4d735c301923e0f736e8936642d",
+    "entity_name": "CLAMP \u2013 a toolkit for efficiently building customized clinical natural language processing pipelines"
+  },
+  {
+    "question": "Which papers cite 'CLAMP \u2013 a toolkit for efficiently building customized clinical natural language processing pipelines' and are about Medicine?",
+    "mention": "Medicine",
+    "span_start": 135,
+    "span_end": 143,
+    "entity_id": "topic_medicine",
+    "entity_name": "Medicine"
+  },
+  {
+    "question": "What is the most cited paper published in IEEE Access?",
+    "mention": "IEEE Access",
+    "span_start": 42,
+    "span_end": 53,
+    "entity_id": "venue_ieee_access",
+    "entity_name": "IEEE Access"
+  },
+  {
+    "question": "What is the most cited paper published in Computer Vision and Pattern Recognition?",
+    "mention": "Computer Vision and Pattern Recognition",
+    "span_start": 42,
+    "span_end": 81,
+    "entity_id": "venue_computer_vision_and_pattern_recognition",
+    "entity_name": "Computer Vision and Pattern Recognition"
+  },
+  {
+    "question": "Which paper has more citations: 'Information Retrieval: The Early Years' or 'Zero-shot Text Classification With Generative Language Models'?",
+    "mention": "Information Retrieval: The Early Years",
+    "span_start": 33,
+    "span_end": 71,
+    "entity_id": "6ec1a5aa287a7f12f5fc38a684ff9517267049d2",
+    "entity_name": "Information Retrieval: The Early Years"
+  },
+  {
+    "question": "Which paper has more citations: 'Information Retrieval: The Early Years' or 'Zero-shot Text Classification With Generative Language Models'?",
+    "mention": "Zero-shot Text Classification With Generative Language Models",
+    "span_start": 77,
+    "span_end": 138,
+    "entity_id": "bbf105d2286c5a6b09998f514f685310562973b3",
+    "entity_name": "Zero-shot Text Classification With Generative Language Models"
+  },
+  {
+    "question": "Which papers cite 'Dict-BERT: Enhancing Language Model Pre-training with Dictionary' and are about Computer Science?",
+    "mention": "Dict-BERT: Enhancing Language Model Pre-training with Dictionary",
+    "span_start": 19,
+    "span_end": 83,
+    "entity_id": "018987cad9845a37cd0e6f1d78596041c911d4f5",
+    "entity_name": "Dict-BERT: Enhancing Language Model Pre-training with Dictionary"
+  },
+  {
+    "question": "Which papers cite 'Dict-BERT: Enhancing Language Model Pre-training with Dictionary' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 99,
+    "span_end": 115,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'POMO: Policy Optimization with Multiple Optima for Reinforcement Learning' published?",
+    "mention": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning",
+    "span_start": 20,
+    "span_end": 93,
+    "entity_id": "246a68fcf2bcd1db8f0184129b63123d1f98eaa3",
+    "entity_name": "POMO: Policy Optimization with Multiple Optima for Reinforcement Learning"
+  },
+  {
+    "question": "Which papers cite 'A Review of Graph Neural Networks and Their Applications in Power Systems' and are about Computer Science?",
+    "mention": "A Review of Graph Neural Networks and Their Applications in Power Systems",
+    "span_start": 19,
+    "span_end": 92,
+    "entity_id": "2fb16966229a3097598ccdfcc9797efba0b93bb5",
+    "entity_name": "A Review of Graph Neural Networks and Their Applications in Power Systems"
+  },
+  {
+    "question": "Which papers cite 'A Review of Graph Neural Networks and Their Applications in Power Systems' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 108,
+    "span_end": 124,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning' published?",
+    "mention": "Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning",
+    "span_start": 20,
+    "span_end": 99,
+    "entity_id": "4715230901b765a2638edd61f8aa91da25a29590",
+    "entity_name": "Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning"
+  },
+  {
+    "question": "Who are the authors of the paper 'Joint Embedding of Words and Labels for Text Classification'?",
+    "mention": "Joint Embedding of Words and Labels for Text Classification",
+    "span_start": 34,
+    "span_end": 93,
+    "entity_id": "4cfd53606ee76aedc2cf1ae39a64223adc25e4c8",
+    "entity_name": "Joint Embedding of Words and Labels for Text Classification"
+  },
+  {
+    "question": "Which paper has more citations: 'Swin Transformer: Hierarchical Vision Transformer using Shifted Windows' or 'A Survey of Deep Learning Techniques for Neural Machine Translation'?",
+    "mention": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "span_start": 33,
+    "span_end": 104,
+    "entity_id": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+    "entity_name": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows"
+  },
+  {
+    "question": "Which paper has more citations: 'Swin Transformer: Hierarchical Vision Transformer using Shifted Windows' or 'A Survey of Deep Learning Techniques for Neural Machine Translation'?",
+    "mention": "A Survey of Deep Learning Techniques for Neural Machine Translation",
+    "span_start": 110,
+    "span_end": 177,
+    "entity_id": "3fa8d2a9e9a9cf3ee9626424a157888580dcfaba",
+    "entity_name": "A Survey of Deep Learning Techniques for Neural Machine Translation"
+  },
+  {
+    "question": "Which papers cite 'CoQA: A Conversational Question Answering Challenge' and are about Computer Science?",
+    "mention": "CoQA: A Conversational Question Answering Challenge",
+    "span_start": 19,
+    "span_end": 70,
+    "entity_id": "990a7b4eceedb6e053e6386269481bdfc42a1094",
+    "entity_name": "CoQA: A Conversational Question Answering Challenge"
+  },
+  {
+    "question": "Which papers cite 'CoQA: A Conversational Question Answering Challenge' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 86,
+    "span_end": 102,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation' published?",
+    "mention": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
+    "span_start": 21,
+    "span_end": 101,
+    "entity_id": "cd773d9b82f8331f5b2910ec2f52388aafb6dbfd",
+    "entity_name": "Rich feature hierarchies for accurate object detection and semantic segmentation"
+  },
+  {
+    "question": "Which papers cite 'Description Based Text Classification with Reinforcement Learning' and are about Computer Science?",
+    "mention": "Description Based Text Classification with Reinforcement Learning",
+    "span_start": 19,
+    "span_end": 84,
+    "entity_id": "6b5359de6572217ea71a1310abffd419f8a2d165",
+    "entity_name": "Description Based Text Classification with Reinforcement Learning"
+  },
+  {
+    "question": "Which papers cite 'Description Based Text Classification with Reinforcement Learning' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 100,
+    "span_end": 116,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Transfer Learning With Adaptive Fine-Tuning' or 'Approximation Rate of the Transformer Architecture for Sequence Modeling'?",
+    "mention": "Transfer Learning With Adaptive Fine-Tuning",
+    "span_start": 33,
+    "span_end": 76,
+    "entity_id": "14801f7e1c62eb0943f988d0e4da15d2ae30314b",
+    "entity_name": "Transfer Learning With Adaptive Fine-Tuning"
+  },
+  {
+    "question": "Which paper has more citations: 'Transfer Learning With Adaptive Fine-Tuning' or 'Approximation Rate of the Transformer Architecture for Sequence Modeling'?",
+    "mention": "Approximation Rate of the Transformer Architecture for Sequence Modeling",
+    "span_start": 82,
+    "span_end": 154,
+    "entity_id": "c14222284603b0026e696814034d5844f38ba121",
+    "entity_name": "Approximation Rate of the Transformer Architecture for Sequence Modeling"
+  },
+  {
+    "question": "Which paper has more citations: 'Modeling Coverage for Neural Machine Translation' or 'LP-BERT: Multi-task Pre-training Knowledge Graph BERT for Link Prediction'?",
+    "mention": "Modeling Coverage for Neural Machine Translation",
+    "span_start": 33,
+    "span_end": 81,
+    "entity_id": "33108287fbc8d94160787d7b2c7ef249d3ad6437",
+    "entity_name": "Modeling Coverage for Neural Machine Translation"
+  },
+  {
+    "question": "Which paper has more citations: 'Modeling Coverage for Neural Machine Translation' or 'LP-BERT: Multi-task Pre-training Knowledge Graph BERT for Link Prediction'?",
+    "mention": "LP-BERT: Multi-task Pre-training Knowledge Graph BERT for Link Prediction",
+    "span_start": 87,
+    "span_end": 160,
+    "entity_id": "0cd4ac8890c4d5c652552ca5ec15123fa0de67d5",
+    "entity_name": "LP-BERT: Multi-task Pre-training Knowledge Graph BERT for Link Prediction"
+  },
+  {
+    "question": "Which papers cite 'Energy Transformer' and are about Computer Science?",
+    "mention": "Energy Transformer",
+    "span_start": 19,
+    "span_end": 37,
+    "entity_id": "09ec56d18667455fa86372c0645f331657bc3341",
+    "entity_name": "Energy Transformer"
+  },
+  {
+    "question": "Which papers cite 'Energy Transformer' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 53,
+    "span_end": 69,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'SO(2)-Equivariant Reinforcement Learning' or 'Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture'?",
+    "mention": "SO(2)-Equivariant Reinforcement Learning",
+    "span_start": 33,
+    "span_end": 73,
+    "entity_id": "347131d36cda1c921158bb6928a488ab13bd26e5",
+    "entity_name": "SO(2)-Equivariant Reinforcement Learning"
+  },
+  {
+    "question": "Which paper has more citations: 'SO(2)-Equivariant Reinforcement Learning' or 'Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture'?",
+    "mention": "Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture",
+    "span_start": 79,
+    "span_end": 173,
+    "entity_id": "143b0bd73e7e765945e0b8620f84f52878617560",
+    "entity_name": "Successfully Applying the Stabilized Lottery Ticket Hypothesis to the Transformer Architecture"
+  },
+  {
+    "question": "Where was the paper 'The use of ontologies for effective knowledge modelling and information retrieval' published?",
+    "mention": "The use of ontologies for effective knowledge modelling and information retrieval",
+    "span_start": 21,
+    "span_end": 102,
+    "entity_id": "cfa1656664a6b207625c9d37dc7cff5fcb82b020",
+    "entity_name": "The use of ontologies for effective knowledge modelling and information retrieval"
+  },
+  {
+    "question": "Where was the paper 'Graph neural networks' published?",
+    "mention": "Graph neural networks",
+    "span_start": 21,
+    "span_end": 42,
+    "entity_id": "6c7b4505634d7dc16fb1596864644a481eea3acb",
+    "entity_name": "Graph neural networks"
+  },
+  {
+    "question": "What is the most cited paper published in European Conference on Computer Vision?",
+    "mention": "European Conference on Computer Vision",
+    "span_start": 42,
+    "span_end": 80,
+    "entity_id": "venue_european_conference_on_computer_vision",
+    "entity_name": "European Conference on Computer Vision"
+  },
+  {
+    "question": "How many papers has Tie-Yan Liu published in this dataset?",
+    "mention": "Tie-Yan Liu",
+    "span_start": 20,
+    "span_end": 31,
+    "entity_id": "2308056470",
+    "entity_name": "Tie-Yan Liu"
+  },
+  {
+    "question": "How many papers has Zhilin Yang published in this dataset?",
+    "mention": "Zhilin Yang",
+    "span_start": 20,
+    "span_end": 31,
+    "entity_id": "2310614274",
+    "entity_name": "Zhilin Yang"
+  },
+  {
+    "question": "Which paper has more citations: 'A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models' or 'Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting'?",
+    "mention": "A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models",
+    "span_start": 33,
+    "span_end": 119,
+    "entity_id": "5272acad9e4201e93dabe3fd99bd7ead9b1a544d",
+    "entity_name": "A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models"
+  },
+  {
+    "question": "Which paper has more citations: 'A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models' or 'Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting'?",
+    "mention": "Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting",
+    "span_start": 125,
+    "span_end": 205,
+    "entity_id": "2d3bc530d8f1ed36932a70bc362ea94d988adec9",
+    "entity_name": "Large Language Models are Effective Text Rankers with Pairwise Ranking Prompting"
+  },
+  {
+    "question": "What is the most cited paper published in Neurocomputing?",
+    "mention": "Neurocomputing",
+    "span_start": 42,
+    "span_end": 56,
+    "entity_id": "venue_neurocomputing",
+    "entity_name": "Neurocomputing"
+  },
+  {
+    "question": "When was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "mention": "Multi-Agent Reinforcement Learning: A Review of Challenges and Applications",
+    "span_start": 20,
+    "span_end": 95,
+    "entity_id": "dbaf7ae5e96776c79588320aea2770b3b3acf4f7",
+    "entity_name": "Multi-Agent Reinforcement Learning: A Review of Challenges and Applications"
+  },
+  {
+    "question": "Where was the paper 'Neural Machine Translation for Low-resource Languages: A Survey' published?",
+    "mention": "Neural Machine Translation for Low-resource Languages: A Survey",
+    "span_start": 21,
+    "span_end": 84,
+    "entity_id": "50c38435e38c227e9e8917f67aa6e0aca915b544",
+    "entity_name": "Neural Machine Translation for Low-resource Languages: A Survey"
+  },
+  {
+    "question": "Which paper has more citations: 'A Comprehensive Review of YOLOv5: Advances in Real-Time Object Detection' or 'Text Classification using Capsules'?",
+    "mention": "A Comprehensive Review of YOLOv5: Advances in Real-Time Object Detection",
+    "span_start": 33,
+    "span_end": 105,
+    "entity_id": "7271947747540666b6f345485d9e6499bc743235",
+    "entity_name": "A Comprehensive Review of YOLOv5: Advances in Real-Time Object Detection"
+  },
+  {
+    "question": "Which paper has more citations: 'A Comprehensive Review of YOLOv5: Advances in Real-Time Object Detection' or 'Text Classification using Capsules'?",
+    "mention": "Text Classification using Capsules",
+    "span_start": 111,
+    "span_end": 145,
+    "entity_id": "08a02a449cd9d94d869f124c670045fd3630bc7d",
+    "entity_name": "Text Classification using Capsules"
+  },
+  {
+    "question": "Where was the paper 'Expressive Power of Entity-Linking Frameworks' published?",
+    "mention": "Expressive Power of Entity-Linking Frameworks",
+    "span_start": 21,
+    "span_end": 66,
+    "entity_id": "f5c1cfdd0286299288c8c291a59d4c5228446e2c",
+    "entity_name": "Expressive Power of Entity-Linking Frameworks"
+  },
+  {
+    "question": "Which papers cite 'Stabilizing Transformers for Reinforcement Learning' and are about Computer Science?",
+    "mention": "Stabilizing Transformers for Reinforcement Learning",
+    "span_start": 19,
+    "span_end": 70,
+    "entity_id": "59a916cdc943f0282908e6f3fa0360f4c5fb78d0",
+    "entity_name": "Stabilizing Transformers for Reinforcement Learning"
+  },
+  {
+    "question": "Which papers cite 'Stabilizing Transformers for Reinforcement Learning' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 86,
+    "span_end": 102,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Entity Linking to Knowledge Graphs to Infer Column Types and Properties' and are about Computer Science?",
+    "mention": "Entity Linking to Knowledge Graphs to Infer Column Types and Properties",
+    "span_start": 19,
+    "span_end": 90,
+    "entity_id": "0b3af7c1cd0d63b5e9f9c2b138b86c27e3c7994c",
+    "entity_name": "Entity Linking to Knowledge Graphs to Infer Column Types and Properties"
+  },
+  {
+    "question": "Which papers cite 'Entity Linking to Knowledge Graphs to Infer Column Types and Properties' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 106,
+    "span_end": 122,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "How many papers has Yanyan Lan published in this dataset?",
+    "mention": "Yanyan Lan",
+    "span_start": 20,
+    "span_end": 30,
+    "entity_id": "37510256",
+    "entity_name": "Yanyan Lan"
+  },
+  {
+    "question": "How many papers has Samy Bengio published in this dataset?",
+    "mention": "Samy Bengio",
+    "span_start": 20,
+    "span_end": 31,
+    "entity_id": "1751569",
+    "entity_name": "Samy Bengio"
+  },
+  {
+    "question": "When was the paper 'MHANet: A hybrid attention mechanism for retinal diseases classification' published?",
+    "mention": "MHANet: A hybrid attention mechanism for retinal diseases classification",
+    "span_start": 20,
+    "span_end": 92,
+    "entity_id": "19ed97412dfc610717dac3fd67c91d027cb19293",
+    "entity_name": "MHANet: A hybrid attention mechanism for retinal diseases classification"
+  },
+  {
+    "question": "Which paper has more citations: 'MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer' or 'Core techniques of question answering systems over knowledge bases: a survey'?",
+    "mention": "MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer",
+    "span_start": 33,
+    "span_end": 107,
+    "entity_id": "3f77a62ae888c3b816eabd354a6dd0fc6b9528ea",
+    "entity_name": "MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer"
+  },
+  {
+    "question": "Which paper has more citations: 'MedSegDiff-V2: Diffusion based Medical Image Segmentation with Transformer' or 'Core techniques of question answering systems over knowledge bases: a survey'?",
+    "mention": "Core techniques of question answering systems over knowledge bases: a survey",
+    "span_start": 113,
+    "span_end": 189,
+    "entity_id": "f3fe27b0e10b2498c4efe6bd64e1614aee5cc251",
+    "entity_name": "Core techniques of question answering systems over knowledge bases: a survey"
+  },
+  {
+    "question": "Which papers cite 'Breaking the Limits of Message Passing Graph Neural Networks' and are about Computer Science?",
+    "mention": "Breaking the Limits of Message Passing Graph Neural Networks",
+    "span_start": 19,
+    "span_end": 79,
+    "entity_id": "aafe1338caef4682069e92378f1190785ec24c2c",
+    "entity_name": "Breaking the Limits of Message Passing Graph Neural Networks"
+  },
+  {
+    "question": "Which papers cite 'Breaking the Limits of Message Passing Graph Neural Networks' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 95,
+    "span_end": 111,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "How many papers has J. Carbonell published in this dataset?",
+    "mention": "J. Carbonell",
+    "span_start": 20,
+    "span_end": 32,
+    "entity_id": "143712374",
+    "entity_name": "J. Carbonell"
+  },
+  {
+    "question": "When was the paper 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models' published?",
+    "mention": "Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models",
+    "span_start": 20,
+    "span_end": 158,
+    "entity_id": "94a47bf3bb8fffaabe75c6aa2b4b1b211b3e40d1",
+    "entity_name": "Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models"
+  },
+  {
+    "question": "When was the paper 'A Survey on Deep Transfer Learning and Beyond' published?",
+    "mention": "A Survey on Deep Transfer Learning and Beyond",
+    "span_start": 20,
+    "span_end": 65,
+    "entity_id": "c0aa6607ae32b019830dd3777d3d4f850f72ccf6",
+    "entity_name": "A Survey on Deep Transfer Learning and Beyond"
+  },
+  {
+    "question": "Where was the paper 'Improving Transformer-Based Neural Machine Translation with Prior Alignments' published?",
+    "mention": "Improving Transformer-Based Neural Machine Translation with Prior Alignments",
+    "span_start": 21,
+    "span_end": 97,
+    "entity_id": "2593df39ff09d068ae8b03fb1bd53dd76640c1b3",
+    "entity_name": "Improving Transformer-Based Neural Machine Translation with Prior Alignments"
+  },
+  {
+    "question": "Which papers cite 'Pre-training of Graph Augmented Transformers for Medication Recommendation' and are about Computer Science?",
+    "mention": "Pre-training of Graph Augmented Transformers for Medication Recommendation",
+    "span_start": 19,
+    "span_end": 93,
+    "entity_id": "c3229debfda1b015c88404cf98f1074237d80809",
+    "entity_name": "Pre-training of Graph Augmented Transformers for Medication Recommendation"
+  },
+  {
+    "question": "Which papers cite 'Pre-training of Graph Augmented Transformers for Medication Recommendation' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 109,
+    "span_end": 125,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'A-ViT: Adaptive Tokens for Efficient Vision Transformer' and are about Computer Science?",
+    "mention": "A-ViT: Adaptive Tokens for Efficient Vision Transformer",
+    "span_start": 19,
+    "span_end": 74,
+    "entity_id": "c2a0c18e810535db52e5ebaf180c64ce70356748",
+    "entity_name": "A-ViT: Adaptive Tokens for Efficient Vision Transformer"
+  },
+  {
+    "question": "Which papers cite 'A-ViT: Adaptive Tokens for Efficient Vision Transformer' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 90,
+    "span_end": 106,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "What is the most cited paper published in Scientific Reports?",
+    "mention": "Scientific Reports",
+    "span_start": 42,
+    "span_end": 60,
+    "entity_id": "venue_scientific_reports",
+    "entity_name": "Scientific Reports"
+  },
+  {
+    "question": "Who are the authors of the paper 'MHANet: A hybrid attention mechanism for retinal diseases classification'?",
+    "mention": "MHANet: A hybrid attention mechanism for retinal diseases classification",
+    "span_start": 34,
+    "span_end": 106,
+    "entity_id": "19ed97412dfc610717dac3fd67c91d027cb19293",
+    "entity_name": "MHANet: A hybrid attention mechanism for retinal diseases classification"
+  },
+  {
+    "question": "When was the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments' published?",
+    "mention": "Gymnasium: A Standard Interface for Reinforcement Learning Environments",
+    "span_start": 20,
+    "span_end": 91,
+    "entity_id": "cafe66a9bdcef9ec43c91d57ece9087203b0a0e3",
+    "entity_name": "Gymnasium: A Standard Interface for Reinforcement Learning Environments"
+  },
+  {
+    "question": "Which papers cite 'Neural machine translation: past, present, and future' and are about Computer Science?",
+    "mention": "Neural machine translation: past, present, and future",
+    "span_start": 19,
+    "span_end": 72,
+    "entity_id": "af6a9906da62080a785c9c90afe4d5cbb695e9a2",
+    "entity_name": "Neural machine translation: past, present, and future"
+  },
+  {
+    "question": "Which papers cite 'Neural machine translation: past, present, and future' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 88,
+    "span_end": 104,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'Evaluating Large Language Models in Class-Level Code Generation' published?",
+    "mention": "Evaluating Large Language Models in Class-Level Code Generation",
+    "span_start": 21,
+    "span_end": 84,
+    "entity_id": "b617b4f744bcb077a94328392fc8c630e17e4af0",
+    "entity_name": "Evaluating Large Language Models in Class-Level Code Generation"
+  },
+  {
+    "question": "When was the paper 'Self-Improvement Programming for Temporal Knowledge Graph Question Answering' published?",
+    "mention": "Self-Improvement Programming for Temporal Knowledge Graph Question Answering",
+    "span_start": 20,
+    "span_end": 96,
+    "entity_id": "ddf0c2cd902cd77a8ab2813f15065359f17080b0",
+    "entity_name": "Self-Improvement Programming for Temporal Knowledge Graph Question Answering"
+  },
+  {
+    "question": "Which papers in the dataset were published after 2006?",
+    "mention": "2006",
+    "span_start": 49,
+    "span_end": 53,
+    "entity_id": "year_2006",
+    "entity_name": "2006"
+  },
+  {
+    "question": "Who are the authors of the paper 'Effective Approaches to Attention-based Neural Machine Translation'?",
+    "mention": "Effective Approaches to Attention-based Neural Machine Translation",
+    "span_start": 34,
+    "span_end": 100,
+    "entity_id": "93499a7c7f699b6630a86fad964536f9423bb6d0",
+    "entity_name": "Effective Approaches to Attention-based Neural Machine Translation"
+  },
+  {
+    "question": "Which papers cite 'PALM: Pre-training an Autoencoding&autoregressive Language Model for Context-conditioned Generation' and are about Computer Science?",
+    "mention": "PALM: Pre-training an Autoencoding&autoregressive Language Model for Context-conditioned Generation",
+    "span_start": 19,
+    "span_end": 118,
+    "entity_id": "e960a8684e33906582b94a53932138d3d502671b",
+    "entity_name": "PALM: Pre-training an Autoencoding&autoregressive Language Model for Context-conditioned Generation"
+  },
+  {
+    "question": "Which papers cite 'PALM: Pre-training an Autoencoding&autoregressive Language Model for Context-conditioned Generation' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 134,
+    "span_end": 150,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph' and are about Computer Science?",
+    "mention": "SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph",
+    "span_start": 19,
+    "span_end": 133,
+    "entity_id": "01f41edd0921b4bbd52fdcdc0848c76202566dea",
+    "entity_name": "SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph"
+  },
+  {
+    "question": "Which papers cite 'SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 149,
+    "span_end": 165,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Collective Disambiguation and Semantic Annotation for Entity Linking and Typing' or 'A systematic review of deep transfer learning for machinery fault diagnosis'?",
+    "mention": "Collective Disambiguation and Semantic Annotation for Entity Linking and Typing",
+    "span_start": 33,
+    "span_end": 112,
+    "entity_id": "5ed5af8bd5f35ade6f54e7cd661b5112d7d75a9b",
+    "entity_name": "Collective Disambiguation and Semantic Annotation for Entity Linking and Typing"
+  },
+  {
+    "question": "Which paper has more citations: 'Collective Disambiguation and Semantic Annotation for Entity Linking and Typing' or 'A systematic review of deep transfer learning for machinery fault diagnosis'?",
+    "mention": "A systematic review of deep transfer learning for machinery fault diagnosis",
+    "span_start": 118,
+    "span_end": 193,
+    "entity_id": "f894966be2755f6412bfad1855b63101ac30fe6b",
+    "entity_name": "A systematic review of deep transfer learning for machinery fault diagnosis"
+  },
+  {
+    "question": "Which paper has more citations: 'Large Language Models Are Zero-Shot Time Series Forecasters' or 'Optimizing Transformer for Low-Resource Neural Machine Translation'?",
+    "mention": "Large Language Models Are Zero-Shot Time Series Forecasters",
+    "span_start": 33,
+    "span_end": 92,
+    "entity_id": "123acfbccca0460171b6b06a4012dbb991cde55b",
+    "entity_name": "Large Language Models Are Zero-Shot Time Series Forecasters"
+  },
+  {
+    "question": "Which paper has more citations: 'Large Language Models Are Zero-Shot Time Series Forecasters' or 'Optimizing Transformer for Low-Resource Neural Machine Translation'?",
+    "mention": "Optimizing Transformer for Low-Resource Neural Machine Translation",
+    "span_start": 98,
+    "span_end": 164,
+    "entity_id": "9436806f98d0c71245135d5d45025427bb36cd33",
+    "entity_name": "Optimizing Transformer for Low-Resource Neural Machine Translation"
+  },
+  {
+    "question": "What is the most cited paper published in Nature?",
+    "mention": "Nature",
+    "span_start": 42,
+    "span_end": 48,
+    "entity_id": "venue_nature",
+    "entity_name": "Nature"
+  },
+  {
+    "question": "Where was the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments' published?",
+    "mention": "Gymnasium: A Standard Interface for Reinforcement Learning Environments",
+    "span_start": 21,
+    "span_end": 92,
+    "entity_id": "cafe66a9bdcef9ec43c91d57ece9087203b0a0e3",
+    "entity_name": "Gymnasium: A Standard Interface for Reinforcement Learning Environments"
+  },
+  {
+    "question": "Which paper has more citations: 'Document and Word Representations Generated by Graph Convolutional Network and BERT for Short Text Classification' or 'SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph'?",
+    "mention": "Document and Word Representations Generated by Graph Convolutional Network and BERT for Short Text Classification",
+    "span_start": 33,
+    "span_end": 146,
+    "entity_id": "a7d4dfb46cda67814773325d306b4e85b18a406d",
+    "entity_name": "Document and Word Representations Generated by Graph Convolutional Network and BERT for Short Text Classification"
+  },
+  {
+    "question": "Which paper has more citations: 'Document and Word Representations Generated by Graph Convolutional Network and BERT for Short Text Classification' or 'SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph'?",
+    "mention": "SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph",
+    "span_start": 152,
+    "span_end": 266,
+    "entity_id": "01f41edd0921b4bbd52fdcdc0848c76202566dea",
+    "entity_name": "SPARQL Generation: an analysis on fine-tuning OpenLLaMA for Question Answering over a Life Science Knowledge Graph"
+  },
+  {
+    "question": "Which paper has more citations: 'Evaluating Entity Linking: An Analysis of Current Benchmark Datasets and a Roadmap for Doing a Better Job' or 'A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships'?",
+    "mention": "Evaluating Entity Linking: An Analysis of Current Benchmark Datasets and a Roadmap for Doing a Better Job",
+    "span_start": 33,
+    "span_end": 138,
+    "entity_id": "592b34cb4aa108413896eb94fd4ff99cfbf2c869",
+    "entity_name": "Evaluating Entity Linking: An Analysis of Current Benchmark Datasets and a Roadmap for Doing a Better Job"
+  },
+  {
+    "question": "Which paper has more citations: 'Evaluating Entity Linking: An Analysis of Current Benchmark Datasets and a Roadmap for Doing a Better Job' or 'A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships'?",
+    "mention": "A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships",
+    "span_start": 144,
+    "span_end": 258,
+    "entity_id": "c67e1825cdaa2e8875bf0de90fb918af246ba6e1",
+    "entity_name": "A Review of Transformer-Based Models for Computer Vision Tasks: Capturing Global Context and Spatial Relationships"
+  },
+  {
+    "question": "Which paper has more citations: 'When and Why is Document-level Context Useful in Neural Machine Translation?' or 'COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter'?",
+    "mention": "When and Why is Document-level Context Useful in Neural Machine Translation?",
+    "span_start": 33,
+    "span_end": 109,
+    "entity_id": "fc18676ef52caf30004ba7a2ce884b84c2a5e552",
+    "entity_name": "When and Why is Document-level Context Useful in Neural Machine Translation?"
+  },
+  {
+    "question": "Which paper has more citations: 'When and Why is Document-level Context Useful in Neural Machine Translation?' or 'COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter'?",
+    "mention": "COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter",
+    "span_start": 115,
+    "span_end": 209,
+    "entity_id": "126fb7df6bcab2b70000dfe5b940ada63ae1ba6a",
+    "entity_name": "COVID-Twitter-BERT: A natural language processing model to analyse COVID-19 content on Twitter"
+  },
+  {
+    "question": "Which papers cite 'Pre-training Methods in Information Retrieval' and are about Computer Science?",
+    "mention": "Pre-training Methods in Information Retrieval",
+    "span_start": 19,
+    "span_end": 64,
+    "entity_id": "ad3c7d9e999d9407962e954485f526ecae7a270c",
+    "entity_name": "Pre-training Methods in Information Retrieval"
+  },
+  {
+    "question": "Which papers cite 'Pre-training Methods in Information Retrieval' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 80,
+    "span_end": 96,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'Effective Approaches to Attention-based Neural Machine Translation' published?",
+    "mention": "Effective Approaches to Attention-based Neural Machine Translation",
+    "span_start": 21,
+    "span_end": 87,
+    "entity_id": "93499a7c7f699b6630a86fad964536f9423bb6d0",
+    "entity_name": "Effective Approaches to Attention-based Neural Machine Translation"
+  },
+  {
+    "question": "Which paper has more citations: 'A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning' or 'Denoising based Sequence-to-Sequence Pre-training for Text Generation'?",
+    "mention": "A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning",
+    "span_start": 33,
+    "span_end": 130,
+    "entity_id": "0410659b6a311b281d10e0e44abce9b1c06be462",
+    "entity_name": "A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning"
+  },
+  {
+    "question": "Which paper has more citations: 'A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning' or 'Denoising based Sequence-to-Sequence Pre-training for Text Generation'?",
+    "mention": "Denoising based Sequence-to-Sequence Pre-training for Text Generation",
+    "span_start": 136,
+    "span_end": 205,
+    "entity_id": "4f4de89e3adb6742433a8edc667fe07422082a15",
+    "entity_name": "Denoising based Sequence-to-Sequence Pre-training for Text Generation"
+  },
+  {
+    "question": "When was the paper 'Expressive Power of Entity-Linking Frameworks' published?",
+    "mention": "Expressive Power of Entity-Linking Frameworks",
+    "span_start": 20,
+    "span_end": 65,
+    "entity_id": "f5c1cfdd0286299288c8c291a59d4c5228446e2c",
+    "entity_name": "Expressive Power of Entity-Linking Frameworks"
+  },
+  {
+    "question": "When was the paper 'FinTextQA: A Dataset for Long-form Financial Question Answering' published?",
+    "mention": "FinTextQA: A Dataset for Long-form Financial Question Answering",
+    "span_start": 20,
+    "span_end": 83,
+    "entity_id": "ffac965686a42acc99e5e6628485cdf2bfb41e1b",
+    "entity_name": "FinTextQA: A Dataset for Long-form Financial Question Answering"
+  },
+  {
+    "question": "Who are the authors of the paper 'Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention'?",
+    "mention": "Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention",
+    "span_start": 34,
+    "span_end": 117,
+    "entity_id": "54d1079968596ea2ffe17ef3eeb854ef488b4882",
+    "entity_name": "Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention"
+  },
+  {
+    "question": "Where was the paper 'Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification' published?",
+    "mention": "Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification",
+    "span_start": 21,
+    "span_end": 159,
+    "entity_id": "6c59c85cb393f69b4c2b70846359b2fc1611fc08",
+    "entity_name": "Novel Efficient RNN and LSTM-Like Architectures: Recurrent and Gated Broad Learning Systems and Their Applications for Text Classification"
+  },
+  {
+    "question": "Who are the authors of the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection'?",
+    "mention": "Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection",
+    "span_start": 34,
+    "span_end": 136,
+    "entity_id": "cf490ef0613c5141f148e4b15ba2d8744e4db582",
+    "entity_name": "Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection"
+  },
+  {
+    "question": "Who are the authors of the paper 'Self-Improvement Programming for Temporal Knowledge Graph Question Answering'?",
+    "mention": "Self-Improvement Programming for Temporal Knowledge Graph Question Answering",
+    "span_start": 34,
+    "span_end": 110,
+    "entity_id": "ddf0c2cd902cd77a8ab2813f15065359f17080b0",
+    "entity_name": "Self-Improvement Programming for Temporal Knowledge Graph Question Answering"
+  },
+  {
+    "question": "When was the paper 'Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention' published?",
+    "mention": "Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention",
+    "span_start": 20,
+    "span_end": 103,
+    "entity_id": "54d1079968596ea2ffe17ef3eeb854ef488b4882",
+    "entity_name": "Improving Natural Language Processing Tasks with Human Gaze-Guided Neural Attention"
+  },
+  {
+    "question": "Who are the authors of the paper 'Neural Architecture Search with Reinforcement Learning'?",
+    "mention": "Neural Architecture Search with Reinforcement Learning",
+    "span_start": 34,
+    "span_end": 88,
+    "entity_id": "67d968c7450878190e45ac7886746de867bf673d",
+    "entity_name": "Neural Architecture Search with Reinforcement Learning"
+  },
+  {
+    "question": "Which paper has more citations: 'Can Abnormality be Detected by Graph Neural Networks?' or 'Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection'?",
+    "mention": "Can Abnormality be Detected by Graph Neural Networks?",
+    "span_start": 33,
+    "span_end": 86,
+    "entity_id": "b7394e219eb2b3f39db5bfc49187e91bb09a902d",
+    "entity_name": "Can Abnormality be Detected by Graph Neural Networks?"
+  },
+  {
+    "question": "Which paper has more citations: 'Can Abnormality be Detected by Graph Neural Networks?' or 'Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection'?",
+    "mention": "Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection",
+    "span_start": 92,
+    "span_end": 184,
+    "entity_id": "4b457ca003b4d05b2fd6af22c283fe8b4e211a2f",
+    "entity_name": "Generalized Focal Loss: Towards Efficient Representation Learning for Dense Object Detection"
+  },
+  {
+    "question": "Which papers cite 'Core techniques of question answering systems over knowledge bases: a survey' and are about Computer Science?",
+    "mention": "Core techniques of question answering systems over knowledge bases: a survey",
+    "span_start": 19,
+    "span_end": 95,
+    "entity_id": "f3fe27b0e10b2498c4efe6bd64e1614aee5cc251",
+    "entity_name": "Core techniques of question answering systems over knowledge bases: a survey"
+  },
+  {
+    "question": "Which papers cite 'Core techniques of question answering systems over knowledge bases: a survey' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 111,
+    "span_end": 127,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Uformer: A General U-Shaped Transformer for Image Restoration' and are about Computer Science?",
+    "mention": "Uformer: A General U-Shaped Transformer for Image Restoration",
+    "span_start": 19,
+    "span_end": 80,
+    "entity_id": "2835951fabf12804e17d5a525b2be2bee70e7910",
+    "entity_name": "Uformer: A General U-Shaped Transformer for Image Restoration"
+  },
+  {
+    "question": "Which papers cite 'Uformer: A General U-Shaped Transformer for Image Restoration' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 96,
+    "span_end": 112,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications'?",
+    "mention": "Multi-Agent Reinforcement Learning: A Review of Challenges and Applications",
+    "span_start": 34,
+    "span_end": 109,
+    "entity_id": "dbaf7ae5e96776c79588320aea2770b3b3acf4f7",
+    "entity_name": "Multi-Agent Reinforcement Learning: A Review of Challenges and Applications"
+  },
+  {
+    "question": "Which paper has more citations: 'Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks' or 'EEG-Transformer: Self-attention from Transformer Architecture for Decoding EEG of Imagined Speech'?",
+    "mention": "Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks",
+    "span_start": 33,
+    "span_end": 123,
+    "entity_id": "23ce8950b9360158c04ab0c1dcf9a73022b60673",
+    "entity_name": "Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks"
+  },
+  {
+    "question": "Which paper has more citations: 'Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks' or 'EEG-Transformer: Self-attention from Transformer Architecture for Decoding EEG of Imagined Speech'?",
+    "mention": "EEG-Transformer: Self-attention from Transformer Architecture for Decoding EEG of Imagined Speech",
+    "span_start": 129,
+    "span_end": 226,
+    "entity_id": "d8f2eefc178a0afa6b8e646f29328f587ef44f62",
+    "entity_name": "EEG-Transformer: Self-attention from Transformer Architecture for Decoding EEG of Imagined Speech"
+  },
+  {
+    "question": "Which papers cite 'Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions' and are about Computer Science?",
+    "mention": "Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions",
+    "span_start": 19,
+    "span_end": 90,
+    "entity_id": "0ab4f5f03665fadd1d838b22fc3991062fb91928",
+    "entity_name": "Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"
+  },
+  {
+    "question": "Which papers cite 'Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 106,
+    "span_end": 122,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "mention": "Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning",
+    "span_start": 34,
+    "span_end": 113,
+    "entity_id": "4715230901b765a2638edd61f8aa91da25a29590",
+    "entity_name": "Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning"
+  },
+  {
+    "question": "What is the most cited paper published in Journal of machine learning research?",
+    "mention": "Journal of machine learning research",
+    "span_start": 42,
+    "span_end": 78,
+    "entity_id": "venue_journal_of_machine_learning_research",
+    "entity_name": "Journal of machine learning research"
+  },
+  {
+    "question": "Which papers cite 'Knowledge Graphs Enhanced Neural Machine Translation' and are about Computer Science?",
+    "mention": "Knowledge Graphs Enhanced Neural Machine Translation",
+    "span_start": 19,
+    "span_end": 71,
+    "entity_id": "b5d9dbca766fe00cae2b93e7d6e80fb6582b512c",
+    "entity_name": "Knowledge Graphs Enhanced Neural Machine Translation"
+  },
+  {
+    "question": "Which papers cite 'Knowledge Graphs Enhanced Neural Machine Translation' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 87,
+    "span_end": 103,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "mention": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models",
+    "span_start": 20,
+    "span_end": 97,
+    "entity_id": "77b1f1c6d1658d120456b9046667cf009ceb39ce",
+    "entity_name": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models"
+  },
+  {
+    "question": "Which paper has more citations: 'Natural-Language Processing' or 'Evaluating Multilingual Question Answering Systems at CLEF'?",
+    "mention": "Natural-Language Processing",
+    "span_start": 33,
+    "span_end": 60,
+    "entity_id": "e6ca5fe74af165947f1d64398e4c9157b75fb6e8",
+    "entity_name": "Natural-language processing"
+  },
+  {
+    "question": "Which paper has more citations: 'Natural-Language Processing' or 'Evaluating Multilingual Question Answering Systems at CLEF'?",
+    "mention": "Evaluating Multilingual Question Answering Systems at CLEF",
+    "span_start": 66,
+    "span_end": 124,
+    "entity_id": "3aa27be7a37ed1d1f80a146a360b67f16ff78b93",
+    "entity_name": "Evaluating Multilingual Question Answering Systems at CLEF"
+  },
+  {
+    "question": "How many papers has Ryan Sepassi published in this dataset?",
+    "mention": "Ryan Sepassi",
+    "span_start": 20,
+    "span_end": 32,
+    "entity_id": "35474601",
+    "entity_name": "Ryan Sepassi"
+  },
+  {
+    "question": "What is the most cited paper published in International Conference on Machine Learning?",
+    "mention": "International Conference on Machine Learning",
+    "span_start": 42,
+    "span_end": 86,
+    "entity_id": "venue_international_conference_on_machine_learning",
+    "entity_name": "International Conference on Machine Learning"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "mention": "Multi-task learning for natural language processing in the 2020s: where are we going?",
+    "span_start": 19,
+    "span_end": 104,
+    "entity_id": "09bfe057c9285577242636950c6835b8731a07fb",
+    "entity_name": "Multi-task learning for natural language processing in the 2020s: where are we going?"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 120,
+    "span_end": 136,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'Effective Approaches to Attention-based Neural Machine Translation' published?",
+    "mention": "Effective Approaches to Attention-based Neural Machine Translation",
+    "span_start": 20,
+    "span_end": 86,
+    "entity_id": "93499a7c7f699b6630a86fad964536f9423bb6d0",
+    "entity_name": "Effective Approaches to Attention-based Neural Machine Translation"
+  },
+  {
+    "question": "Which papers cite 'A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play' and are about Computer Science?",
+    "mention": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play",
+    "span_start": 19,
+    "span_end": 113,
+    "entity_id": "f9717d29840f4d8f1cc19d1b1e80c5d12ec40608",
+    "entity_name": "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play"
+  },
+  {
+    "question": "Which papers cite 'A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 129,
+    "span_end": 145,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "mention": "An Introduction to Deep Reinforcement Learning",
+    "span_start": 19,
+    "span_end": 65,
+    "entity_id": "4b61c25a86083c20730c9b12737ac6ac4178c364",
+    "entity_name": "An Introduction to Deep Reinforcement Learning"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 81,
+    "span_end": 97,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "What papers by Wei Shen were published in IEEE Transactions on Knowledge and Data Engineering?",
+    "mention": "Wei Shen",
+    "span_start": 15,
+    "span_end": 23,
+    "entity_id": "144084234",
+    "entity_name": "Wei Shen"
+  },
+  {
+    "question": "What papers by Wei Shen were published in IEEE Transactions on Knowledge and Data Engineering?",
+    "mention": "IEEE Transactions on Knowledge and Data Engineering",
+    "span_start": 42,
+    "span_end": 93,
+    "entity_id": "7fcef094c80b31a7ef61c50466c736c148001e91",
+    "entity_name": "IEEE Transactions on Knowledge and Data Engineering"
+  },
+  {
+    "question": "Which papers cite 'Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism' and are about Computer Science?",
+    "mention": "Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism",
+    "span_start": 19,
+    "span_end": 122,
+    "entity_id": "f8cd82997f35e86c862225395e52fe45c0580910",
+    "entity_name": "Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism"
+  },
+  {
+    "question": "Which papers cite 'Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 138,
+    "span_end": 154,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "mention": "SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training",
+    "span_start": 19,
+    "span_end": 110,
+    "entity_id": "9cda754187545c3cc8f9e9f134c08707269d0fae",
+    "entity_name": "SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 126,
+    "span_end": 142,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "mention": "Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation",
+    "span_start": 33,
+    "span_end": 119,
+    "entity_id": "8b6c9adf85a9d6391e3ccd503c2e5af929a36735",
+    "entity_name": "Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "mention": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+    "span_start": 125,
+    "span_end": 211,
+    "entity_id": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+    "entity_name": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "mention": "Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering",
+    "span_start": 19,
+    "span_end": 112,
+    "entity_id": "4aae0d84fdc1d069d9cf549ca2a6672554d04f4c",
+    "entity_name": "Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 128,
+    "span_end": 144,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "mention": "Unsupervised Question Decomposition for Question Answering",
+    "span_start": 19,
+    "span_end": 77,
+    "entity_id": "a0d9cb1f91382ec763f7aba0609cf9a6324e0b68",
+    "entity_name": "Unsupervised Question Decomposition for Question Answering"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 93,
+    "span_end": 109,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "mention": "Temporal Reasoning via Audio Question Answering",
+    "span_start": 33,
+    "span_end": 80,
+    "entity_id": "bfa437129daef8533708924c395c3fd0c5c3bf81",
+    "entity_name": "Temporal Reasoning via Audio Question Answering"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "mention": "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips",
+    "span_start": 86,
+    "span_end": 214,
+    "entity_id": "1b93ebee92672c7f8d8245e56fd5f9f853acf7c3",
+    "entity_name": "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "mention": "Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection",
+    "span_start": 20,
+    "span_end": 122,
+    "entity_id": "cf490ef0613c5141f148e4b15ba2d8744e4db582",
+    "entity_name": "Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection"
+  },
+  {
+    "question": "Who are the authors of the paper 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models'?",
+    "mention": "Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models",
+    "span_start": 34,
+    "span_end": 172,
+    "entity_id": "94a47bf3bb8fffaabe75c6aa2b4b1b211b3e40d1",
+    "entity_name": "Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models"
+  },
+  {
+    "question": "Where was the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures' published?",
+    "mention": "Learned Image Compression with Mixed Transformer-CNN Architectures",
+    "span_start": 21,
+    "span_end": 87,
+    "entity_id": "a23a4b04c487585792ecf45bce4ea43aa71bac2f",
+    "entity_name": "Learned Image Compression with Mixed Transformer-CNN Architectures"
+  },
+  {
+    "question": "How many papers has Stephan Gouws published in this dataset?",
+    "mention": "Stephan Gouws",
+    "span_start": 20,
+    "span_end": 33,
+    "entity_id": "2776283",
+    "entity_name": "Stephan Gouws"
+  },
+  {
+    "question": "Which papers cite 'A Neural Approach to Entity Linking on Wikidata' and are about Computer Science?",
+    "mention": "A Neural Approach to Entity Linking on Wikidata",
+    "span_start": 19,
+    "span_end": 66,
+    "entity_id": "01e754806af3129f0764c04fbf35984135446885",
+    "entity_name": "A Neural Approach to Entity Linking on Wikidata"
+  },
+  {
+    "question": "Which papers cite 'A Neural Approach to Entity Linking on Wikidata' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 82,
+    "span_end": 98,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "How many papers has Aidan N. Gomez published in this dataset?",
+    "mention": "Aidan N. Gomez",
+    "span_start": 20,
+    "span_end": 34,
+    "entity_id": "19177000",
+    "entity_name": "Aidan N. Gomez"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "mention": "Multi-Agent Reinforcement Learning: A Review of Challenges and Applications",
+    "span_start": 21,
+    "span_end": 96,
+    "entity_id": "dbaf7ae5e96776c79588320aea2770b3b3acf4f7",
+    "entity_name": "Multi-Agent Reinforcement Learning: A Review of Challenges and Applications"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "mention": "Better & Faster Large Language Models via Multi-token Prediction",
+    "span_start": 21,
+    "span_end": 85,
+    "entity_id": "b9c289f141c54ab465a885fb7be7936d98e8c853",
+    "entity_name": "Better & Faster Large Language Models via Multi-token Prediction"
+  },
+  {
+    "question": "What is the most cited paper published in NAACL-HLT?",
+    "mention": "NAACL-HLT",
+    "span_start": 42,
+    "span_end": 51,
+    "entity_id": "venue_naacl-hlt",
+    "entity_name": "NAACL-HLT"
+  },
+  {
+    "question": "Which papers cite 'Brain tumor classification using deep CNN features via transfer learning' and are about Computer Science?",
+    "mention": "Brain tumor classification using deep CNN features via transfer learning",
+    "span_start": 19,
+    "span_end": 91,
+    "entity_id": "ec5673aef99a6d5c31a757846af4eef5e8d7766f",
+    "entity_name": "Brain tumor classification using deep CNN features via transfer learning"
+  },
+  {
+    "question": "Which papers cite 'Brain tumor classification using deep CNN features via transfer learning' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 107,
+    "span_end": 123,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "mention": "Gymnasium: A Standard Interface for Reinforcement Learning Environments",
+    "span_start": 34,
+    "span_end": 105,
+    "entity_id": "cafe66a9bdcef9ec43c91d57ece9087203b0a0e3",
+    "entity_name": "Gymnasium: A Standard Interface for Reinforcement Learning Environments"
+  },
+  {
+    "question": "Which paper has more citations: 'Attentive Moment Retrieval in Videos' or 'Multimodal sentiment analysis based on multi-head attention mechanism'?",
+    "mention": "Attentive Moment Retrieval in Videos",
+    "span_start": 33,
+    "span_end": 69,
+    "entity_id": "519da94369c1d87e09c592f239b55cc9486b5b7c",
+    "entity_name": "Attentive Moment Retrieval in Videos"
+  },
+  {
+    "question": "Which paper has more citations: 'Attentive Moment Retrieval in Videos' or 'Multimodal sentiment analysis based on multi-head attention mechanism'?",
+    "mention": "Multimodal sentiment analysis based on multi-head attention mechanism",
+    "span_start": 75,
+    "span_end": 144,
+    "entity_id": "8cdbf389d378978111ec14a99b8b1b28028e2b70",
+    "entity_name": "Multimodal sentiment analysis based on multi-head attention mechanism"
+  },
+  {
+    "question": "What is the most cited paper published in North American Chapter of the Association for Computational Linguistics?",
+    "mention": "North American Chapter of the Association for Computational Linguistics",
+    "span_start": 42,
+    "span_end": 113,
+    "entity_id": "venue_north_american_chapter_of_the_association_for_computational_linguistics",
+    "entity_name": "North American Chapter of the Association for Computational Linguistics"
+  },
+  {
+    "question": "When was the paper 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering' published?",
+    "mention": "TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering",
+    "span_start": 20,
+    "span_end": 130,
+    "entity_id": "4cf85f9436bb8b5b1c68715f44d6b67254413ef8",
+    "entity_name": "TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering"
+  },
+  {
+    "question": "How many papers has Jakob Uszkoreit published in this dataset?",
+    "mention": "Jakob Uszkoreit",
+    "span_start": 20,
+    "span_end": 35,
+    "entity_id": "39328010",
+    "entity_name": "Jakob Uszkoreit"
+  },
+  {
+    "question": "Which paper has more citations: 'Transfer Learning Based Plant Diseases Detection Using ResNet50' or 'Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution'?",
+    "mention": "Transfer Learning Based Plant Diseases Detection Using ResNet50",
+    "span_start": 33,
+    "span_end": 96,
+    "entity_id": "fe19fa512555700a35a7ea290666d295a9fd960a",
+    "entity_name": "Transfer Learning Based Plant Diseases Detection Using ResNet50"
+  },
+  {
+    "question": "Which paper has more citations: 'Transfer Learning Based Plant Diseases Detection Using ResNet50' or 'Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution'?",
+    "mention": "Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution",
+    "span_start": 102,
+    "span_end": 185,
+    "entity_id": "d414ad35bcf758b20e65611617be9398fff114ed",
+    "entity_name": "Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "mention": "Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering",
+    "span_start": 19,
+    "span_end": 99,
+    "entity_id": "db9296eaa252231e24d066e8413bf29fb058ee45",
+    "entity_name": "Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 115,
+    "span_end": 131,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'MHANet: A hybrid attention mechanism for retinal diseases classification' published?",
+    "mention": "MHANet: A hybrid attention mechanism for retinal diseases classification",
+    "span_start": 21,
+    "span_end": 93,
+    "entity_id": "19ed97412dfc610717dac3fd67c91d027cb19293",
+    "entity_name": "MHANet: A hybrid attention mechanism for retinal diseases classification"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "mention": "Better & Faster Large Language Models via Multi-token Prediction",
+    "span_start": 34,
+    "span_end": 98,
+    "entity_id": "b9c289f141c54ab465a885fb7be7936d98e8c853",
+    "entity_name": "Better & Faster Large Language Models via Multi-token Prediction"
+  },
+  {
+    "question": "What is the most cited paper published in International Conference on Learning Representations?",
+    "mention": "International Conference on Learning Representations",
+    "span_start": 42,
+    "span_end": 94,
+    "entity_id": "venue_international_conference_on_learning_representations",
+    "entity_name": "International Conference on Learning Representations"
+  },
+  {
+    "question": "How many papers has Noam Shazeer published in this dataset?",
+    "mention": "Noam Shazeer",
+    "span_start": 20,
+    "span_end": 32,
+    "entity_id": "1846258",
+    "entity_name": "Noam Shazeer"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "mention": "A Survey of Deep Learning-Based Object Detection",
+    "span_start": 33,
+    "span_end": 81,
+    "entity_id": "dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a",
+    "entity_name": "A Survey of Deep Learning-Based Object Detection"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "mention": "Attention Mechanism in Machine Translation",
+    "span_start": 87,
+    "span_end": 129,
+    "entity_id": "956731bd10fed0c994c56e93c2b17b1d2918d0fb",
+    "entity_name": "Attention Mechanism in Machine Translation"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "mention": "A literature review on question answering techniques, paradigms and systems",
+    "span_start": 21,
+    "span_end": 96,
+    "entity_id": "bf4f4ebd43ac87431fdf978988c2a90b1034e994",
+    "entity_name": "A literature review on question answering techniques, paradigms and systems"
+  },
+  {
+    "question": "How many papers has Di He published in this dataset?",
+    "mention": "Di He",
+    "span_start": 20,
+    "span_end": 25,
+    "entity_id": "1391126980",
+    "entity_name": "Di He"
+  },
+  {
+    "question": "Which papers cite 'Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction' and are about Computer Science?",
+    "mention": "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction",
+    "span_start": 19,
+    "span_end": 105,
+    "entity_id": "1478c3c0225368419f68aabc6b67033531d3b4c1",
+    "entity_name": "Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction"
+  },
+  {
+    "question": "Which papers cite 'Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 121,
+    "span_end": 137,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "mention": "Conversational Entity Linking: Problem Definition and Datasets",
+    "span_start": 19,
+    "span_end": 81,
+    "entity_id": "0d2c76843f43d6f7219c7c3ad69a17beac19205b",
+    "entity_name": "Conversational Entity Linking: Problem Definition and Datasets"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 97,
+    "span_end": 113,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'A review On reinforcement learning: Introduction and applications in industrial process control' published?",
+    "mention": "A review On reinforcement learning: Introduction and applications in industrial process control",
+    "span_start": 20,
+    "span_end": 115,
+    "entity_id": "bd21ae0360e410708c4d286ddb403aeecfd7a4b8",
+    "entity_name": "A review On reinforcement learning: Introduction and applications in industrial process control"
+  },
+  {
+    "question": "How many papers has Niki Parmar published in this dataset?",
+    "mention": "Niki Parmar",
+    "span_start": 20,
+    "span_end": 31,
+    "entity_id": "3877127",
+    "entity_name": "Niki Parmar"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "mention": "Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review",
+    "span_start": 19,
+    "span_end": 93,
+    "entity_id": "225baabe00a8cfe32fbb906fbd18c859329e2d2d",
+    "entity_name": "Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "mention": "Engineering",
+    "span_start": 109,
+    "span_end": 120,
+    "entity_id": "0a2c1509c36c80fe7457df33d94c0d0550681a40",
+    "entity_name": "Engineering"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "mention": "Graph Neural Networks for Intelligent Transportation Systems: A Survey",
+    "span_start": 34,
+    "span_end": 104,
+    "entity_id": "116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8",
+    "entity_name": "Graph Neural Networks for Intelligent Transportation Systems: A Survey"
+  },
+  {
+    "question": "Which papers cite 'Zero-shot Entity Linking with Dense Entity Retrieval' and are about Computer Science?",
+    "mention": "Zero-shot Entity Linking with Dense Entity Retrieval",
+    "span_start": 19,
+    "span_end": 71,
+    "entity_id": "592a6691373f3936631bc4ac122f69df09c842bd",
+    "entity_name": "Zero-shot Entity Linking with Dense Entity Retrieval"
+  },
+  {
+    "question": "Which papers cite 'Zero-shot Entity Linking with Dense Entity Retrieval' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 87,
+    "span_end": 103,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "mention": "Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking",
+    "span_start": 19,
+    "span_end": 107,
+    "entity_id": "bd21e04ad2e4a7f816796388ff80374d272df596",
+    "entity_name": "Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 123,
+    "span_end": 139,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'FinTextQA: A Dataset for Long-form Financial Question Answering' published?",
+    "mention": "FinTextQA: A Dataset for Long-form Financial Question Answering",
+    "span_start": 21,
+    "span_end": 84,
+    "entity_id": "ffac965686a42acc99e5e6628485cdf2bfb41e1b",
+    "entity_name": "FinTextQA: A Dataset for Long-form Financial Question Answering"
+  },
+  {
+    "question": "How many papers has Zihang Dai published in this dataset?",
+    "mention": "Zihang Dai",
+    "span_start": 20,
+    "span_end": 30,
+    "entity_id": "3422912",
+    "entity_name": "Zihang Dai"
+  },
+  {
+    "question": "How many papers has Chen Xing published in this dataset?",
+    "mention": "Chen Xing",
+    "span_start": 20,
+    "span_end": 29,
+    "entity_id": "50461046",
+    "entity_name": "Chen Xing"
+  },
+  {
+    "question": "Who are the authors of the paper 'BERT applications in natural language processing: a review'?",
+    "mention": "BERT applications in natural language processing: a review",
+    "span_start": 34,
+    "span_end": 92,
+    "entity_id": "a710cd1bd3c9ac374e79daed5b0442ce5cc364fa",
+    "entity_name": "BERT applications in natural language processing: a review"
+  },
+  {
+    "question": "When was the paper 'Improving Transformer-Based Neural Machine Translation with Prior Alignments' published?",
+    "mention": "Improving Transformer-Based Neural Machine Translation with Prior Alignments",
+    "span_start": 20,
+    "span_end": 96,
+    "entity_id": "2593df39ff09d068ae8b03fb1bd53dd76640c1b3",
+    "entity_name": "Improving Transformer-Based Neural Machine Translation with Prior Alignments"
+  },
+  {
+    "question": "Who are the authors of the paper 'FinTextQA: A Dataset for Long-form Financial Question Answering'?",
+    "mention": "FinTextQA: A Dataset for Long-form Financial Question Answering",
+    "span_start": 34,
+    "span_end": 97,
+    "entity_id": "ffac965686a42acc99e5e6628485cdf2bfb41e1b",
+    "entity_name": "FinTextQA: A Dataset for Long-form Financial Question Answering"
+  },
+  {
+    "question": "Which papers cite 'Sieve-Based Entity Linking for the Biomedical Domain' and are about Computer Science?",
+    "mention": "Sieve-Based Entity Linking for the Biomedical Domain",
+    "span_start": 19,
+    "span_end": 71,
+    "entity_id": "3a8a2a9572dd164fd800ce30a13499d05a92bd92",
+    "entity_name": "Sieve-Based Entity Linking for the Biomedical Domain"
+  },
+  {
+    "question": "Which papers cite 'Sieve-Based Entity Linking for the Biomedical Domain' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 87,
+    "span_end": 103,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'A Survey on Document-level Neural Machine Translation'?",
+    "mention": "A Survey on Document-level Neural Machine Translation",
+    "span_start": 34,
+    "span_end": 87,
+    "entity_id": "ee8848f3f6a08e80ff08a1093f78b3f7a3d84f37",
+    "entity_name": "A Survey on Document-level Neural Machine Translation"
+  },
+  {
+    "question": "When was the paper 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism' published?",
+    "mention": "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism",
+    "span_start": 20,
+    "span_end": 104,
+    "entity_id": "9ed9bff37ec952134564b3b2a022b7aba9479ff2",
+    "entity_name": "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism"
+  },
+  {
+    "question": "Who are the authors of the paper 'Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation'?",
+    "mention": "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation",
+    "span_start": 34,
+    "span_end": 114,
+    "entity_id": "cd773d9b82f8331f5b2910ec2f52388aafb6dbfd",
+    "entity_name": "Rich feature hierarchies for accurate object detection and semantic segmentation"
+  },
+  {
+    "question": "How many papers has Llion Jones published in this dataset?",
+    "mention": "Llion Jones",
+    "span_start": 20,
+    "span_end": 31,
+    "entity_id": "145024664",
+    "entity_name": "Llion Jones"
+  },
+  {
+    "question": "How many papers has Rico Sennrich published in this dataset?",
+    "mention": "Rico Sennrich",
+    "span_start": 20,
+    "span_end": 33,
+    "entity_id": "2371989866",
+    "entity_name": "Rico Sennrich"
+  },
+  {
+    "question": "What is the most cited paper published in Renewable & Sustainable Energy Reviews?",
+    "mention": "Renewable & Sustainable Energy Reviews",
+    "span_start": 42,
+    "span_end": 80,
+    "entity_id": "venue_renewable_&_sustainable_energy_reviews",
+    "entity_name": "Renewable & Sustainable Energy Reviews"
+  },
+  {
+    "question": "What is the most cited paper published in AAAI Conference on Artificial Intelligence?",
+    "mention": "AAAI Conference on Artificial Intelligence",
+    "span_start": 42,
+    "span_end": 84,
+    "entity_id": "venue_aaai_conference_on_artificial_intelligence",
+    "entity_name": "AAAI Conference on Artificial Intelligence"
+  },
+  {
+    "question": "What papers by Siddhant Garg were published in Conference on Empirical Methods in Natural Language Processing?",
+    "mention": "Siddhant Garg",
+    "span_start": 15,
+    "span_end": 28,
+    "entity_id": "2295877",
+    "entity_name": "Siddhant Garg"
+  },
+  {
+    "question": "What papers by Siddhant Garg were published in Conference on Empirical Methods in Natural Language Processing?",
+    "mention": "Conference on Empirical Methods in Natural Language Processing",
+    "span_start": 47,
+    "span_end": 109,
+    "entity_id": "venue_conference_on_empirical_methods_in_natural_language_processing",
+    "entity_name": "Conference on Empirical Methods in Natural Language Processing"
+  },
+  {
+    "question": "Which papers cite 'Graph Neural Networks for Anomaly Detection in Industrial Internet of Things' and are about Computer Science?",
+    "mention": "Graph Neural Networks for Anomaly Detection in Industrial Internet of Things",
+    "span_start": 19,
+    "span_end": 95,
+    "entity_id": "d6dd35559b75774a4f97695249abe0bac8d4c86c",
+    "entity_name": "Graph Neural Networks for Anomaly Detection in Industrial Internet of Things"
+  },
+  {
+    "question": "Which papers cite 'Graph Neural Networks for Anomaly Detection in Industrial Internet of Things' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 111,
+    "span_end": 127,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'A Survey on Deep Transfer Learning and Beyond' published?",
+    "mention": "A Survey on Deep Transfer Learning and Beyond",
+    "span_start": 21,
+    "span_end": 66,
+    "entity_id": "c0aa6607ae32b019830dd3777d3d4f850f72ccf6",
+    "entity_name": "A Survey on Deep Transfer Learning and Beyond"
+  },
+  {
+    "question": "Where was the paper 'A Transformer-Based Siamese Network for Change Detection' published?",
+    "mention": "A Transformer-Based Siamese Network for Change Detection",
+    "span_start": 21,
+    "span_end": 77,
+    "entity_id": "ef3b15260a610473c95662f5df2c195ac19f64d6",
+    "entity_name": "A Transformer-Based Siamese Network for Change Detection"
+  },
+  {
+    "question": "When was the paper 'Answer type validation in question answering systems' published?",
+    "mention": "Answer type validation in question answering systems",
+    "span_start": 20,
+    "span_end": 72,
+    "entity_id": "aecd18023ebc134e1af078362053f74edf71237d",
+    "entity_name": "Answer type validation in question answering systems"
+  },
+  {
+    "question": "When was the paper 'Paradigm Shift in Natural Language Processing' published?",
+    "mention": "Paradigm Shift in Natural Language Processing",
+    "span_start": 20,
+    "span_end": 65,
+    "entity_id": "8a9fd97dafd664b8fd1ae4ed5ca5071adf9f20ba",
+    "entity_name": "Paradigm Shift in Natural Language Processing"
+  },
+  {
+    "question": "Which papers cite 'VisDrone-DET2021: The Vision Meets Drone Object detection Challenge Results' and are about Computer Science?",
+    "mention": "VisDrone-DET2021: The Vision Meets Drone Object detection Challenge Results",
+    "span_start": 19,
+    "span_end": 94,
+    "entity_id": "4f8a7867d083280387c4f4cce778970d352eb29a",
+    "entity_name": "VisDrone-DET2021: The Vision Meets Drone Object detection Challenge Results"
+  },
+  {
+    "question": "Which papers cite 'VisDrone-DET2021: The Vision Meets Drone Object detection Challenge Results' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 110,
+    "span_end": 126,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "How many papers has Yiming Yang published in this dataset?",
+    "mention": "Yiming Yang",
+    "span_start": 20,
+    "span_end": 31,
+    "entity_id": "2396711354",
+    "entity_name": "Yiming Yang"
+  },
+  {
+    "question": "Which papers cite 'Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph' and are about Computer Science?",
+    "mention": "Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph",
+    "span_start": 19,
+    "span_end": 106,
+    "entity_id": "5a526807eeeba6bc5c853efbc49f2462c9dc61cc",
+    "entity_name": "Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph"
+  },
+  {
+    "question": "Which papers cite 'Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 122,
+    "span_end": 138,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'Joint Learning of Local and Global Features for Entity Linking via Neural Networks' and are about Computer Science?",
+    "mention": "Joint Learning of Local and Global Features for Entity Linking via Neural Networks",
+    "span_start": 19,
+    "span_end": 101,
+    "entity_id": "d51d0029bbc97c3c72bf38e6b099507cca1335b6",
+    "entity_name": "Joint Learning of Local and Global Features for Entity Linking via Neural Networks"
+  },
+  {
+    "question": "Which papers cite 'Joint Learning of Local and Global Features for Entity Linking via Neural Networks' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 117,
+    "span_end": 133,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "When was the paper 'A Survey on Document-level Neural Machine Translation' published?",
+    "mention": "A Survey on Document-level Neural Machine Translation",
+    "span_start": 20,
+    "span_end": 73,
+    "entity_id": "ee8848f3f6a08e80ff08a1093f78b3f7a3d84f37",
+    "entity_name": "A Survey on Document-level Neural Machine Translation"
+  },
+  {
+    "question": "Which papers cite 'BAE: BERT-based Adversarial Examples for Text Classification' and are about Computer Science?",
+    "mention": "BAE: BERT-based Adversarial Examples for Text Classification",
+    "span_start": 19,
+    "span_end": 79,
+    "entity_id": "06a427e1688f92053a38c73cb4e0da25177c89e7",
+    "entity_name": "BAE: BERT-based Adversarial Examples for Text Classification"
+  },
+  {
+    "question": "Which papers cite 'BAE: BERT-based Adversarial Examples for Text Classification' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 95,
+    "span_end": 111,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Which papers cite 'From System 1 to System 2: A Survey of Reasoning Large Language Models' and are about Medicine?",
+    "mention": "From System 1 to System 2: A Survey of Reasoning Large Language Models",
+    "span_start": 19,
+    "span_end": 89,
+    "entity_id": "f4195d4e283e289665cfc7a65fde2fa7b8814091",
+    "entity_name": "From System 1 to System 2: A Survey of Reasoning Large Language Models"
+  },
+  {
+    "question": "Which papers cite 'From System 1 to System 2: A Survey of Reasoning Large Language Models' and are about Medicine?",
+    "mention": "Medicine",
+    "span_start": 105,
+    "span_end": 113,
+    "entity_id": "topic_medicine",
+    "entity_name": "Medicine"
+  },
+  {
+    "question": "How many papers has Ashish Vaswani published in this dataset?",
+    "mention": "Ashish Vaswani",
+    "span_start": 20,
+    "span_end": 34,
+    "entity_id": "40348417",
+    "entity_name": "Ashish Vaswani"
+  },
+  {
+    "question": "Where was the paper 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism' published?",
+    "mention": "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism",
+    "span_start": 21,
+    "span_end": 105,
+    "entity_id": "9ed9bff37ec952134564b3b2a022b7aba9479ff2",
+    "entity_name": "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism"
+  },
+  {
+    "question": "Where was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "mention": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models",
+    "span_start": 21,
+    "span_end": 98,
+    "entity_id": "77b1f1c6d1658d120456b9046667cf009ceb39ce",
+    "entity_name": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models"
+  },
+  {
+    "question": "Which papers cite 'Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base' and are about Computer Science?",
+    "mention": "Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base",
+    "span_start": 19,
+    "span_end": 95,
+    "entity_id": "54c53a1bc6bcfb65f9f3b514fed28715f10f3902",
+    "entity_name": "Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base"
+  },
+  {
+    "question": "Which papers cite 'Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 111,
+    "span_end": 127,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "How many papers has R. Salakhutdinov published in this dataset?",
+    "mention": "R. Salakhutdinov",
+    "span_start": 20,
+    "span_end": 36,
+    "entity_id": "145124475",
+    "entity_name": "R. Salakhutdinov"
+  },
+  {
+    "question": "Which paper has more citations: 'Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images' or 'SemBioNLQA: A semantic biomedical question answering system for retrieving exact and ideal answers to natural language questions'?",
+    "mention": "Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images",
+    "span_start": 33,
+    "span_end": 147,
+    "entity_id": "04cee5dc427cccd615a1bc7e1e7e13596897dab3",
+    "entity_name": "Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images"
+  },
+  {
+    "question": "Which paper has more citations: 'Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images' or 'SemBioNLQA: A semantic biomedical question answering system for retrieving exact and ideal answers to natural language questions'?",
+    "mention": "SemBioNLQA: A semantic biomedical question answering system for retrieving exact and ideal answers to natural language questions",
+    "span_start": 153,
+    "span_end": 281,
+    "entity_id": "2ba1af75444d4ab3aa9c4857799e364c5412cf9a",
+    "entity_name": "SemBioNLQA: A semantic biomedical question answering system for retrieving exact and ideal answers to natural language questions"
+  },
+  {
+    "question": "Which papers cite 'Synthetic and Natural Noise Both Break Neural Machine Translation' and are about Computer Science?",
+    "mention": "Synthetic and Natural Noise Both Break Neural Machine Translation",
+    "span_start": 19,
+    "span_end": 84,
+    "entity_id": "765bdcf27ebc1eb03a14f1e47aefa4dda1e03073",
+    "entity_name": "Synthetic and Natural Noise Both Break Neural Machine Translation"
+  },
+  {
+    "question": "Which papers cite 'Synthetic and Natural Noise Both Break Neural Machine Translation' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 100,
+    "span_end": 116,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Where was the paper 'Answer type validation in question answering systems' published?",
+    "mention": "Answer type validation in question answering systems",
+    "span_start": 21,
+    "span_end": 73,
+    "entity_id": "aecd18023ebc134e1af078362053f74edf71237d",
+    "entity_name": "Answer type validation in question answering systems"
+  },
+  {
+    "question": "Which papers cite 'Integrating and Evaluating Neural Word Embeddings in Information Retrieval' and are about Computer Science?",
+    "mention": "Integrating and Evaluating Neural Word Embeddings in Information Retrieval",
+    "span_start": 19,
+    "span_end": 93,
+    "entity_id": "42cf161894f4b9ebb86a9109dc2af45d9eee8916",
+    "entity_name": "Integrating and Evaluating Neural Word Embeddings in Information Retrieval"
+  },
+  {
+    "question": "Which papers cite 'Integrating and Evaluating Neural Word Embeddings in Information Retrieval' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 109,
+    "span_end": 125,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'Answer type validation in question answering systems'?",
+    "mention": "Answer type validation in question answering systems",
+    "span_start": 34,
+    "span_end": 86,
+    "entity_id": "aecd18023ebc134e1af078362053f74edf71237d",
+    "entity_name": "Answer type validation in question answering systems"
+  },
+  {
+    "question": "What is the most cited paper published in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition?",
+    "mention": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "span_start": 42,
+    "span_end": 109,
+    "entity_id": "venue_2018_ieee/cvf_conference_on_computer_vision_and_pattern_recognition",
+    "entity_name": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+  },
+  {
+    "question": "Which papers cite 'Induction Networks for Few-Shot Text Classification' and are about Computer Science?",
+    "mention": "Induction Networks for Few-Shot Text Classification",
+    "span_start": 19,
+    "span_end": 70,
+    "entity_id": "a73051e08af289a50ef8ed53e69f91c189dd01e5",
+    "entity_name": "Induction Networks for Few-Shot Text Classification"
+  },
+  {
+    "question": "Which papers cite 'Induction Networks for Few-Shot Text Classification' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 86,
+    "span_end": 102,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "Who are the authors of the paper 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism'?",
+    "mention": "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism",
+    "span_start": 34,
+    "span_end": 118,
+    "entity_id": "9ed9bff37ec952134564b3b2a022b7aba9479ff2",
+    "entity_name": "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism"
+  },
+  {
+    "question": "Which paper has more citations: 'Benchmarking Detection Transfer Learning with Vision Transformers' or 'A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion'?",
+    "mention": "Benchmarking Detection Transfer Learning with Vision Transformers",
+    "span_start": 33,
+    "span_end": 98,
+    "entity_id": "20ee3dc902706d8dffcbc08f8cc89ce749abc8b0",
+    "entity_name": "Benchmarking Detection Transfer Learning with Vision Transformers"
+  },
+  {
+    "question": "Which paper has more citations: 'Benchmarking Detection Transfer Learning with Vision Transformers' or 'A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion'?",
+    "mention": "A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion",
+    "span_start": 104,
+    "span_end": 208,
+    "entity_id": "afc510ae79c39b3c0a95d233bc7b6293dcb0bbcf",
+    "entity_name": "A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion"
+  },
+  {
+    "question": "Who are the authors of the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models'?",
+    "mention": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models",
+    "span_start": 34,
+    "span_end": 111,
+    "entity_id": "77b1f1c6d1658d120456b9046667cf009ceb39ce",
+    "entity_name": "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models"
+  },
+  {
+    "question": "Which paper has more citations: 'Goal-Conditioned Reinforcement Learning with Imagined Subgoals' or 'Behavior Regularized Offline Reinforcement Learning'?",
+    "mention": "Goal-Conditioned Reinforcement Learning with Imagined Subgoals",
+    "span_start": 33,
+    "span_end": 95,
+    "entity_id": "fb95d6e6e5f78f6e5c339e2058ce9ae9e803182b",
+    "entity_name": "Goal-Conditioned Reinforcement Learning with Imagined Subgoals"
+  },
+  {
+    "question": "Which paper has more citations: 'Goal-Conditioned Reinforcement Learning with Imagined Subgoals' or 'Behavior Regularized Offline Reinforcement Learning'?",
+    "mention": "Behavior Regularized Offline Reinforcement Learning",
+    "span_start": 101,
+    "span_end": 152,
+    "entity_id": "9be492858863c8c7c24be1ecb75724de5086bd8e",
+    "entity_name": "Behavior Regularized Offline Reinforcement Learning"
+  },
+  {
+    "question": "How many papers has I. Polosukhin published in this dataset?",
+    "mention": "I. Polosukhin",
+    "span_start": 20,
+    "span_end": 33,
+    "entity_id": "3443442",
+    "entity_name": "I. Polosukhin"
+  },
+  {
+    "question": "Which paper has more citations: 'Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review' or 'U-BERT: Pre-training User Representations for Improved Recommendation'?",
+    "mention": "Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review",
+    "span_start": 33,
+    "span_end": 155,
+    "entity_id": "6b2f329c08fb6ff7dd4da1a3386269b9f29474d7",
+    "entity_name": "Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review"
+  },
+  {
+    "question": "Which paper has more citations: 'Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review' or 'U-BERT: Pre-training User Representations for Improved Recommendation'?",
+    "mention": "U-BERT: Pre-training User Representations for Improved Recommendation",
+    "span_start": 161,
+    "span_end": 230,
+    "entity_id": "8baedb6c558bfea8ad9c17404f58b77368476a0f",
+    "entity_name": "U-BERT: Pre-training User Representations for Improved Recommendation"
+  },
+  {
+    "question": "Which papers cite 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing' and are about Computer Science?",
+    "mention": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+    "span_start": 19,
+    "span_end": 105,
+    "entity_id": "2733574d40ce8e861d7d658bfc33ab36f529864d",
+    "entity_name": "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing"
+  },
+  {
+    "question": "Which papers cite 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing' and are about Computer Science?",
+    "mention": "Computer Science",
+    "span_start": 121,
+    "span_end": 137,
+    "entity_id": "topic_computer_science",
+    "entity_name": "Computer Science"
+  },
+  {
+    "question": "What is the most cited paper published in International Conference on Medical Image Computing and Computer-Assisted Intervention?",
+    "mention": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "span_start": 42,
+    "span_end": 128,
+    "entity_id": "venue_international_conference_on_medical_image_computing_and_computer-assisted_intervention",
+    "entity_name": "International Conference on Medical Image Computing and Computer-Assisted Intervention"
+  },
+  {
+    "question": "When was the paper 'Neural Architecture Search with Reinforcement Learning' published?",
+    "mention": "Neural Architecture Search with Reinforcement Learning",
+    "span_start": 20,
+    "span_end": 74,
+    "entity_id": "67d968c7450878190e45ac7886746de867bf673d",
+    "entity_name": "Neural Architecture Search with Reinforcement Learning"
+  },
+  {
+    "question": "Which paper has more citations: 'Challenges of Real-World Reinforcement Learning' or 'An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges'?",
+    "mention": "Challenges of Real-World Reinforcement Learning",
+    "span_start": 33,
+    "span_end": 80,
+    "entity_id": "896e5529de1da1e4494033404721b70339bb9557",
+    "entity_name": "Challenges of Real-World Reinforcement Learning"
+  },
+  {
+    "question": "Which paper has more citations: 'Challenges of Real-World Reinforcement Learning' or 'An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges'?",
+    "mention": "An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges",
+    "span_start": 86,
+    "span_end": 233,
+    "entity_id": "2288a23c7ee48101537d31bd62cc74275c95a23a",
+    "entity_name": "An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges"
+  },
+  {
+    "question": "Which paper has more citations: 'A practical guide to multi-objective reinforcement learning and planning' or 'Asking Clarification Questions in Knowledge-Based Question Answering'?",
+    "mention": "A practical guide to multi-objective reinforcement learning and planning",
+    "span_start": 33,
+    "span_end": 105,
+    "entity_id": "d835e503c3b46b7967629d8f24887f4a14ecf225",
+    "entity_name": "A practical guide to multi-objective reinforcement learning and planning"
+  },
+  {
+    "question": "Which paper has more citations: 'A practical guide to multi-objective reinforcement learning and planning' or 'Asking Clarification Questions in Knowledge-Based Question Answering'?",
+    "mention": "Asking Clarification Questions in Knowledge-Based Question Answering",
+    "span_start": 111,
+    "span_end": 179,
+    "entity_id": "517f770a38c6f09b1d0ee03793887912a844e69e",
+    "entity_name": "Asking Clarification Questions in Knowledge-Based Question Answering"
+  }
+]
