@@ -1,0 +1,784 @@
+[
+  {
+    "id": "q_single_072",
+    "question": "Where was the paper 'FinTextQA: A Dataset for Long-form Financial Question Answering' published?",
+    "type": "single_hop",
+    "answer": "Annual Meeting of the Association for Computational Linguistics",
+    "sparql": "SELECT ?venue WHERE { ?p title 'FinTextQA: A Dataset for Long-form Financial Question Answering' . ?p published_in ?venue }",
+    "entities": [
+      "FinTextQA: A Dataset for Long-form Financial Question Answering"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_agg_006",
+    "question": "How many papers has Zihang Dai published in this dataset?",
+    "type": "aggregation",
+    "answer": "3",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Zihang Dai' }",
+    "entities": [
+      "Zihang Dai"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_003",
+    "question": "How many papers has Chen Xing published in this dataset?",
+    "type": "aggregation",
+    "answer": "2",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Chen Xing' }",
+    "entities": [
+      "Chen Xing"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_067",
+    "question": "Who are the authors of the paper 'BERT applications in natural language processing: a review'?",
+    "type": "single_hop",
+    "answer": "Nadia Mushtaq Gardazi, Ali Daud, Muhammad Kamran Malik, Amal Bukhari, Tariq Alsahfi, Bader Alshemaimri",
+    "sparql": "SELECT ?author WHERE { ?p title 'BERT applications in natural language processing: a review' . ?p authored_by ?a . ?a name ?author }",
+    "entities": [
+      "BERT applications in natural language processing: a review"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_008",
+    "question": "When was the paper 'Improving Transformer-Based Neural Machine Translation with Prior Alignments' published?",
+    "type": "single_hop",
+    "answer": "2021",
+    "sparql": "SELECT ?year WHERE { ?p title 'Improving Transformer-Based Neural Machine Translation with Prior Alignments' . ?p published_year ?year }",
+    "entities": [
+      "Improving Transformer-Based Neural Machine Translation with Prior Alignments"
+    ],
+    "relations": [
+      "published_year"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_070",
+    "question": "Who are the authors of the paper 'FinTextQA: A Dataset for Long-form Financial Question Answering'?",
+    "type": "single_hop",
+    "answer": "Jian Chen, Peilin Zhou, Y. Hua, Yingxin Loh, Kehui Chen, Ziyuan Li, Bing Zhu, Junwei Liang",
+    "sparql": "SELECT ?author WHERE { ?p title 'FinTextQA: A Dataset for Long-form Financial Question Answering' . ?p authored_by ?a . ?a name ?author }",
+    "entities": [
+      "FinTextQA: A Dataset for Long-form Financial Question Answering"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_two_020",
+    "question": "Which papers cite 'Sieve-Based Entity Linking for the Biomedical Domain' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Knowledge-graph-enabled biomedical entity linking: a survey, NILINKER: Attention-based approach to NIL Entity Linking, COMETA: A Corpus for Medical Entity Linking in the Social Media, A Lightweight Neural Model for Biomedical Entity Linking, Improving broad-coverage medical entity linking with semantic type prediction and large-scale datasets",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Sieve-Based Entity Linking for the Biomedical Domain' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Sieve-Based Entity Linking for the Biomedical Domain",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_082",
+    "question": "Who are the authors of the paper 'A Survey on Document-level Neural Machine Translation'?",
+    "type": "single_hop",
+    "answer": "Sameen Maruf, Fahimeh Saleh, Gholamreza Haffari",
+    "sparql": "SELECT ?author WHERE { ?p title 'A Survey on Document-level Neural Machine Translation' . ?p authored_by ?a . ?a name ?author }",
+    "entities": [
+      "A Survey on Document-level Neural Machine Translation"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_104",
+    "question": "When was the paper 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism' published?",
+    "type": "single_hop",
+    "answer": "2016",
+    "sparql": "SELECT ?year WHERE { ?p title 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism' . ?p published_year ?year }",
+    "entities": [
+      "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism"
+    ],
+    "relations": [
+      "published_year"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_019",
+    "question": "Who are the authors of the paper 'Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation'?",
+    "type": "single_hop",
+    "answer": "Ross B. Girshick, Jeff Donahue, Trevor Darrell, J. Malik",
+    "sparql": "SELECT ?author WHERE { ?p title 'Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation' . ?p authored_by ?a . ?a name ?author }",
+    "entities": [
+      "Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_agg_017",
+    "question": "How many papers has Llion Jones published in this dataset?",
+    "type": "aggregation",
+    "answer": "4",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Llion Jones' }",
+    "entities": [
+      "Llion Jones"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_024",
+    "question": "How many papers has Rico Sennrich published in this dataset?",
+    "type": "aggregation",
+    "answer": "13",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Rico Sennrich' }",
+    "entities": [
+      "Rico Sennrich"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_049",
+    "question": "What is the most cited paper published in Renewable & Sustainable Energy Reviews?",
+    "type": "aggregation",
+    "answer": "Applications of reinforcement learning in energy systems",
+    "sparql": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'Renewable & Sustainable Energy Reviews' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "Renewable & Sustainable Energy Reviews"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_038",
+    "question": "What is the most cited paper published in AAAI Conference on Artificial Intelligence?",
+    "type": "aggregation",
+    "answer": "Deep Reinforcement Learning with Double Q-Learning",
+    "sparql": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'AAAI Conference on Artificial Intelligence' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "AAAI Conference on Artificial Intelligence"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_two_039",
+    "question": "What papers by Siddhant Garg were published in Conference on Empirical Methods in Natural Language Processing?",
+    "type": "two_hop",
+    "answer": "BAE: BERT-based Adversarial Examples for Text Classification",
+    "sparql": "SELECT ?title WHERE { ?p authored_by ?a . ?a name 'Siddhant Garg' . ?p published_in ?v . ?v name 'Conference on Empirical Methods in Natural Language Processing' . ?p title ?title }",
+    "entities": [
+      "Siddhant Garg",
+      "Conference on Empirical Methods in Natural Language Processing"
+    ],
+    "relations": [
+      "authored_by",
+      "published_in"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_two_006",
+    "question": "Which papers cite 'Graph Neural Networks for Anomaly Detection in Industrial Internet of Things' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "A review of graph neural networks: concepts, architectures, techniques, challenges, datasets, applications, and future directions, Graph Neural Networks in IoT: A Survey",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Graph Neural Networks for Anomaly Detection in Industrial Internet of Things' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Graph Neural Networks for Anomaly Detection in Industrial Internet of Things",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_015",
+    "question": "Where was the paper 'A Survey on Deep Transfer Learning and Beyond' published?",
+    "type": "single_hop",
+    "answer": "Mathematics",
+    "sparql": "SELECT ?venue WHERE { ?p title 'A Survey on Deep Transfer Learning and Beyond' . ?p published_in ?venue }",
+    "entities": [
+      "A Survey on Deep Transfer Learning and Beyond"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_099",
+    "question": "Where was the paper 'A Transformer-Based Siamese Network for Change Detection' published?",
+    "type": "single_hop",
+    "answer": "IEEE International Geoscience and Remote Sensing Symposium",
+    "sparql": "SELECT ?venue WHERE { ?p title 'A Transformer-Based Siamese Network for Change Detection' . ?p published_in ?venue }",
+    "entities": [
+      "A Transformer-Based Siamese Network for Change Detection"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_077",
+    "question": "When was the paper 'Answer type validation in question answering systems' published?",
+    "type": "single_hop",
+    "answer": "2010",
+    "sparql": "SELECT ?year WHERE { ?p title 'Answer type validation in question answering systems' . ?p published_year ?year }",
+    "entities": [
+      "Answer type validation in question answering systems"
+    ],
+    "relations": [
+      "published_year"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_059",
+    "question": "When was the paper 'Paradigm Shift in Natural Language Processing' published?",
+    "type": "single_hop",
+    "answer": "2021",
+    "sparql": "SELECT ?year WHERE { ?p title 'Paradigm Shift in Natural Language Processing' . ?p published_year ?year }",
+    "entities": [
+      "Paradigm Shift in Natural Language Processing"
+    ],
+    "relations": [
+      "published_year"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_two_003",
+    "question": "Which papers cite 'VisDrone-DET2021: The Vision Meets Drone Object detection Challenge Results' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Object Detection in Traffic Videos: A Survey",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'VisDrone-DET2021: The Vision Meets Drone Object detection Challenge Results' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "VisDrone-DET2021: The Vision Meets Drone Object detection Challenge Results",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_008",
+    "question": "How many papers has Yiming Yang published in this dataset?",
+    "type": "aggregation",
+    "answer": "4",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Yiming Yang' }",
+    "entities": [
+      "Yiming Yang"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_two_001",
+    "question": "Which papers cite 'Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Advancements in Complex Knowledge Graph Question Answering: A Survey, Marie and BERT\u2014A Knowledge Graph Embedding Based Question Answering System for Chemistry",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Hierarchical Query Graph Generation for Complex Question Answering over Knowledge Graph",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_two_012",
+    "question": "Which papers cite 'Joint Learning of Local and Global Features for Entity Linking via Neural Networks' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Generative Multimodal Entity Linking, Entity Linking Meets Deep Learning: Techniques and Solutions, Neural Entity Linking: A Survey of Models based on Deep Learning, Visual Entity Linking via Multi-modal Learning, Joint Entity Linking with Deep Reinforcement Learning",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Joint Learning of Local and Global Features for Entity Linking via Neural Networks' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Joint Learning of Local and Global Features for Entity Linking via Neural Networks",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_083",
+    "question": "When was the paper 'A Survey on Document-level Neural Machine Translation' published?",
+    "type": "single_hop",
+    "answer": "2021",
+    "sparql": "SELECT ?year WHERE { ?p title 'A Survey on Document-level Neural Machine Translation' . ?p published_year ?year }",
+    "entities": [
+      "A Survey on Document-level Neural Machine Translation"
+    ],
+    "relations": [
+      "published_year"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_two_027",
+    "question": "Which papers cite 'BAE: BERT-based Adversarial Examples for Text Classification' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios, TextAttack: A Framework for Adversarial Attacks in Natural Language Processing, Can Large Language Models Be an Alternative to Human Evaluations?, Explainability for Large Language Models: A Survey, AEDA: An Easier Data Augmentation Technique for Text Classification",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'BAE: BERT-based Adversarial Examples for Text Classification' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "BAE: BERT-based Adversarial Examples for Text Classification",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_two_017",
+    "question": "Which papers cite 'From System 1 to System 2: A Survey of Reasoning Large Language Models' and are about Medicine?",
+    "type": "two_hop",
+    "answer": "Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'From System 1 to System 2: A Survey of Reasoning Large Language Models' . ?p has_topic ?t . ?t name 'Medicine' }",
+    "entities": [
+      "From System 1 to System 2: A Survey of Reasoning Large Language Models",
+      "Medicine"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_012",
+    "question": "How many papers has Ashish Vaswani published in this dataset?",
+    "type": "aggregation",
+    "answer": "3",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Ashish Vaswani' }",
+    "entities": [
+      "Ashish Vaswani"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_105",
+    "question": "Where was the paper 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism' published?",
+    "type": "single_hop",
+    "answer": "North American Chapter of the Association for Computational Linguistics",
+    "sparql": "SELECT ?venue WHERE { ?p title 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism' . ?p published_in ?venue }",
+    "entities": [
+      "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_single_033",
+    "question": "Where was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "type": "single_hop",
+    "answer": "International Conference on Learning Representations",
+    "sparql": "SELECT ?venue WHERE { ?p title 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' . ?p published_in ?venue }",
+    "entities": [
+      "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_two_044",
+    "question": "Which papers cite 'Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "NILINKER: Attention-based approach to NIL Entity Linking, Fine-Grained Evaluation for Entity Linking",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Entity Linking: An Issue to Extract Corresponding Entity With Knowledge Base",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_011",
+    "question": "How many papers has R. Salakhutdinov published in this dataset?",
+    "type": "aggregation",
+    "answer": "7",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'R. Salakhutdinov' }",
+    "entities": [
+      "R. Salakhutdinov"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_comp_044",
+    "question": "Which paper has more citations: 'Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images' or 'SemBioNLQA: A semantic biomedical question answering system for retrieving exact and ideal answers to natural language questions'?",
+    "type": "comparison",
+    "answer": "Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images",
+    "sparql": "SELECT ?title WHERE { VALUES ?title {'Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images' 'SemBioNLQA: A semantic biomedical question answering system for retrieving exact and ideal answers to natural language questions'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "Improved YOLOv3 Based on Attention Mechanism for Fast and Accurate Ship Detection in Optical Remote Sensing Images",
+      "SemBioNLQA: A semantic biomedical question answering system for retrieving exact and ideal answers to natural language questions"
+    ],
+    "relations": [
+      "citation_count"
+    ],
+    "difficulty": "hard",
+    "verified": false
+  },
+  {
+    "id": "q_two_034",
+    "question": "Which papers cite 'Synthetic and Natural Noise Both Break Neural Machine Translation' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Datasets: A Community Library for Natural Language Processing, eMLM: A New Pre-training Objective for Emotion Related Tasks, Neural Machine Translation: A Review, Robust Neural Machine Translation with Doubly Adversarial Inputs, Improving Multilingual Neural Machine Translation System for Indic Languages",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Synthetic and Natural Noise Both Break Neural Machine Translation' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Synthetic and Natural Noise Both Break Neural Machine Translation",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_078",
+    "question": "Where was the paper 'Answer type validation in question answering systems' published?",
+    "type": "single_hop",
+    "answer": "RIAO Conference",
+    "sparql": "SELECT ?venue WHERE { ?p title 'Answer type validation in question answering systems' . ?p published_in ?venue }",
+    "entities": [
+      "Answer type validation in question answering systems"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_two_004",
+    "question": "Which papers cite 'Integrating and Evaluating Neural Word Embeddings in Information Retrieval' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Information Retrieval: Recent Advances and Beyond, Neural Models for Information Retrieval, Neural information retrieval: at the end of the early years",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Integrating and Evaluating Neural Word Embeddings in Information Retrieval' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Integrating and Evaluating Neural Word Embeddings in Information Retrieval",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_076",
+    "question": "Who are the authors of the paper 'Answer type validation in question answering systems'?",
+    "type": "single_hop",
+    "answer": "Arnaud Grappy, Brigitte Grau",
+    "sparql": "SELECT ?author WHERE { ?p title 'Answer type validation in question answering systems' . ?p authored_by ?a . ?a name ?author }",
+    "entities": [
+      "Answer type validation in question answering systems"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_agg_037",
+    "question": "What is the most cited paper published in 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition?",
+    "type": "aggregation",
+    "answer": "Cascade R-CNN: Delving Into High Quality Object Detection",
+    "sparql": "SELECT ?title WHERE { ?p published_in ?v . ?v name '2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_two_067",
+    "question": "Which papers cite 'Induction Networks for Few-Shot Text Classification' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Effectiveness of Pre-training for Few-shot Intent Classification, ContrastNet: A Contrastive Learning Framework for Few-Shot Text Classification, A Survey on Text Classification: From Traditional to Deep Learning, Task-Aware Representation of Sentences for Generic Text Classification, Few-shot Text Classification with Distributional Signatures",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Induction Networks for Few-Shot Text Classification' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "Induction Networks for Few-Shot Text Classification",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_103",
+    "question": "Who are the authors of the paper 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism'?",
+    "type": "single_hop",
+    "answer": "Orhan Firat, Kyunghyun Cho, Yoshua Bengio",
+    "sparql": "SELECT ?author WHERE { ?p title 'Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism' . ?p authored_by ?a . ?a name ?author }",
+    "entities": [
+      "Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_comp_018",
+    "question": "Which paper has more citations: 'Benchmarking Detection Transfer Learning with Vision Transformers' or 'A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion'?",
+    "type": "comparison",
+    "answer": "Benchmarking Detection Transfer Learning with Vision Transformers",
+    "sparql": "SELECT ?title WHERE { VALUES ?title {'Benchmarking Detection Transfer Learning with Vision Transformers' 'A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "Benchmarking Detection Transfer Learning with Vision Transformers",
+      "A Crack Detection Algorithm for Concrete Pavement Based on Attention Mechanism and Multi-Features Fusion"
+    ],
+    "relations": [
+      "citation_count"
+    ],
+    "difficulty": "hard",
+    "verified": false
+  },
+  {
+    "id": "q_single_031",
+    "question": "Who are the authors of the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models'?",
+    "type": "single_hop",
+    "answer": "L. Yu, Weisen Jiang, Han Shi, Jincheng Yu, Zhengying Liu, Yu Zhang, James T. Kwok, Zheng Li, Adrian Weller, Weiyang Liu",
+    "sparql": "SELECT ?author WHERE { ?p title 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' . ?p authored_by ?a . ?a name ?author }",
+    "entities": [
+      "MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_comp_040",
+    "question": "Which paper has more citations: 'Goal-Conditioned Reinforcement Learning with Imagined Subgoals' or 'Behavior Regularized Offline Reinforcement Learning'?",
+    "type": "comparison",
+    "answer": "Behavior Regularized Offline Reinforcement Learning",
+    "sparql": "SELECT ?title WHERE { VALUES ?title {'Goal-Conditioned Reinforcement Learning with Imagined Subgoals' 'Behavior Regularized Offline Reinforcement Learning'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "Goal-Conditioned Reinforcement Learning with Imagined Subgoals",
+      "Behavior Regularized Offline Reinforcement Learning"
+    ],
+    "relations": [
+      "citation_count"
+    ],
+    "difficulty": "hard",
+    "verified": false
+  },
+  {
+    "id": "q_agg_023",
+    "question": "How many papers has I. Polosukhin published in this dataset?",
+    "type": "aggregation",
+    "answer": "2",
+    "sparql": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'I. Polosukhin' }",
+    "entities": [
+      "I. Polosukhin"
+    ],
+    "relations": [
+      "authored_by"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_comp_023",
+    "question": "Which paper has more citations: 'Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review' or 'U-BERT: Pre-training User Representations for Improved Recommendation'?",
+    "type": "comparison",
+    "answer": "Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review",
+    "sparql": "SELECT ?title WHERE { VALUES ?title {'Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review' 'U-BERT: Pre-training User Representations for Improved Recommendation'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "Natural language processing systems for capturing and standardizing unstructured clinical information: A systematic review",
+      "U-BERT: Pre-training User Representations for Improved Recommendation"
+    ],
+    "relations": [
+      "citation_count"
+    ],
+    "difficulty": "hard",
+    "verified": false
+  },
+  {
+    "id": "q_two_018",
+    "question": "Which papers cite 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing' and are about Computer Science?",
+    "type": "two_hop",
+    "answer": "Hierarchical Deep Multi-modal Network for Medical Visual Question Answering",
+    "sparql": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "entities": [
+      "GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing",
+      "Computer Science"
+    ],
+    "relations": [
+      "cites",
+      "has_topic"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_agg_040",
+    "question": "What is the most cited paper published in International Conference on Medical Image Computing and Computer-Assisted Intervention?",
+    "type": "aggregation",
+    "answer": "UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation",
+    "sparql": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'International Conference on Medical Image Computing and Computer-Assisted Intervention' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "International Conference on Medical Image Computing and Computer-Assisted Intervention"
+    ],
+    "relations": [
+      "published_in"
+    ],
+    "difficulty": "medium",
+    "verified": false
+  },
+  {
+    "id": "q_single_110",
+    "question": "When was the paper 'Neural Architecture Search with Reinforcement Learning' published?",
+    "type": "single_hop",
+    "answer": "2016",
+    "sparql": "SELECT ?year WHERE { ?p title 'Neural Architecture Search with Reinforcement Learning' . ?p published_year ?year }",
+    "entities": [
+      "Neural Architecture Search with Reinforcement Learning"
+    ],
+    "relations": [
+      "published_year"
+    ],
+    "difficulty": "easy",
+    "verified": false
+  },
+  {
+    "id": "q_comp_006",
+    "question": "Which paper has more citations: 'Challenges of Real-World Reinforcement Learning' or 'An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges'?",
+    "type": "comparison",
+    "answer": "Challenges of Real-World Reinforcement Learning",
+    "sparql": "SELECT ?title WHERE { VALUES ?title {'Challenges of Real-World Reinforcement Learning' 'An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "Challenges of Real-World Reinforcement Learning",
+      "An Overview of Machine Learning, Deep Learning, and Reinforcement Learning-Based Techniques in Quantitative Finance: Recent Progress and Challenges"
+    ],
+    "relations": [
+      "citation_count"
+    ],
+    "difficulty": "hard",
+    "verified": false
+  },
+  {
+    "id": "q_comp_046",
+    "question": "Which paper has more citations: 'A practical guide to multi-objective reinforcement learning and planning' or 'Asking Clarification Questions in Knowledge-Based Question Answering'?",
+    "type": "comparison",
+    "answer": "A practical guide to multi-objective reinforcement learning and planning",
+    "sparql": "SELECT ?title WHERE { VALUES ?title {'A practical guide to multi-objective reinforcement learning and planning' 'Asking Clarification Questions in Knowledge-Based Question Answering'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "entities": [
+      "A practical guide to multi-objective reinforcement learning and planning",
+      "Asking Clarification Questions in Knowledge-Based Question Answering"
+    ],
+    "relations": [
+      "citation_count"
+    ],
+    "difficulty": "hard",
+    "verified": false
+  }
+]
