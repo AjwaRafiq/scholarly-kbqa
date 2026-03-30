@@ -1,0 +1,302 @@
+[
+  {
+    "input": "translate question to sparql: Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "output": "SELECT ?author WHERE { ?p title 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning' . ?p authored_by ?a . ?a name ?author }",
+    "id": "q_single_085",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: What is the most cited paper published in Journal of machine learning research?",
+    "output": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'Journal of machine learning research' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_agg_036",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Knowledge Graphs Enhanced Neural Machine Translation' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Knowledge Graphs Enhanced Neural Machine Translation' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_078",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "output": "SELECT ?year WHERE { ?p title 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' . ?p published_year ?year }",
+    "id": "q_single_032",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Which paper has more citations: 'Natural-Language Processing' or 'Evaluating Multilingual Question Answering Systems at CLEF'?",
+    "output": "SELECT ?title WHERE { VALUES ?title {'Natural-Language Processing' 'Evaluating Multilingual Question Answering Systems at CLEF'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_comp_034",
+    "type": "comparison"
+  },
+  {
+    "input": "translate question to sparql: How many papers has Ryan Sepassi published in this dataset?",
+    "output": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Ryan Sepassi' }",
+    "id": "q_agg_020",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: What is the most cited paper published in International Conference on Machine Learning?",
+    "output": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'International Conference on Machine Learning' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_agg_026",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Multi-task learning for natural language processing in the 2020s: where are we going?' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_008",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: When was the paper 'Effective Approaches to Attention-based Neural Machine Translation' published?",
+    "output": "SELECT ?year WHERE { ?p title 'Effective Approaches to Attention-based Neural Machine Translation' . ?p published_year ?year }",
+    "id": "q_single_065",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_015",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'An Introduction to Deep Reinforcement Learning' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_079",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: What papers by Wei Shen were published in IEEE Transactions on Knowledge and Data Engineering?",
+    "output": "SELECT ?title WHERE { ?p authored_by ?a . ?a name 'Wei Shen' . ?p published_in ?v . ?v name 'IEEE Transactions on Knowledge and Data Engineering' . ?p title ?title }",
+    "id": "q_two_029",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_051",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_014",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "output": "SELECT ?title WHERE { VALUES ?title {'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_comp_042",
+    "type": "comparison"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_009",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Unsupervised Question Decomposition for Question Answering' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_069",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "output": "SELECT ?title WHERE { VALUES ?title {'Temporal Reasoning via Audio Question Answering' 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_comp_026",
+    "type": "comparison"
+  },
+  {
+    "input": "translate question to sparql: When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "output": "SELECT ?year WHERE { ?p title 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' . ?p published_year ?year }",
+    "id": "q_single_029",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Who are the authors of the paper 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models'?",
+    "output": "SELECT ?author WHERE { ?p title 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models' . ?p authored_by ?a . ?a name ?author }",
+    "id": "q_single_061",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Where was the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures' published?",
+    "output": "SELECT ?venue WHERE { ?p title 'Learned Image Compression with Mixed Transformer-CNN Architectures' . ?p published_in ?venue }",
+    "id": "q_single_036",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: How many papers has Stephan Gouws published in this dataset?",
+    "output": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Stephan Gouws' }",
+    "id": "q_agg_016",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'A Neural Approach to Entity Linking on Wikidata' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'A Neural Approach to Entity Linking on Wikidata' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_066",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: How many papers has Aidan N. Gomez published in this dataset?",
+    "output": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Aidan N. Gomez' }",
+    "id": "q_agg_015",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "output": "SELECT ?venue WHERE { ?p title 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' . ?p published_in ?venue }",
+    "id": "q_single_102",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "output": "SELECT ?venue WHERE { ?p title 'Better & Faster Large Language Models via Multi-token Prediction' . ?p published_in ?venue }",
+    "id": "q_single_024",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: What is the most cited paper published in NAACL-HLT?",
+    "output": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'NAACL-HLT' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_agg_050",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Brain tumor classification using deep CNN features via transfer learning' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Brain tumor classification using deep CNN features via transfer learning' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_052",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "output": "SELECT ?author WHERE { ?p title 'Gymnasium: A Standard Interface for Reinforcement Learning Environments' . ?p authored_by ?a . ?a name ?author }",
+    "id": "q_single_094",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Which paper has more citations: 'Attentive Moment Retrieval in Videos' or 'Multimodal sentiment analysis based on multi-head attention mechanism'?",
+    "output": "SELECT ?title WHERE { VALUES ?title {'Attentive Moment Retrieval in Videos' 'Multimodal sentiment analysis based on multi-head attention mechanism'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_comp_029",
+    "type": "comparison"
+  },
+  {
+    "input": "translate question to sparql: What is the most cited paper published in North American Chapter of the Association for Computational Linguistics?",
+    "output": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'North American Chapter of the Association for Computational Linguistics' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_agg_031",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: When was the paper 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering' published?",
+    "output": "SELECT ?year WHERE { ?p title 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering' . ?p published_year ?year }",
+    "id": "q_single_017",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: How many papers has Jakob Uszkoreit published in this dataset?",
+    "output": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Jakob Uszkoreit' }",
+    "id": "q_agg_022",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which paper has more citations: 'Transfer Learning Based Plant Diseases Detection Using ResNet50' or 'Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution'?",
+    "output": "SELECT ?title WHERE { VALUES ?title {'Transfer Learning Based Plant Diseases Detection Using ResNet50' 'Training-Free Transformer Architecture Search With Zero-Cost Proxy Guided Evolution'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_comp_019",
+    "type": "comparison"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_035",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Where was the paper 'MHANet: A hybrid attention mechanism for retinal diseases classification' published?",
+    "output": "SELECT ?venue WHERE { ?p title 'MHANet: A hybrid attention mechanism for retinal diseases classification' . ?p published_in ?venue }",
+    "id": "q_single_081",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "output": "SELECT ?author WHERE { ?p title 'Better & Faster Large Language Models via Multi-token Prediction' . ?p authored_by ?a . ?a name ?author }",
+    "id": "q_single_022",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: What is the most cited paper published in International Conference on Learning Representations?",
+    "output": "SELECT ?title WHERE { ?p published_in ?v . ?v name 'International Conference on Learning Representations' . ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_agg_030",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: How many papers has Noam Shazeer published in this dataset?",
+    "output": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Noam Shazeer' }",
+    "id": "q_agg_021",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "output": "SELECT ?title WHERE { VALUES ?title {'A Survey of Deep Learning-Based Object Detection' 'Attention Mechanism in Machine Translation'} ?p title ?title } ORDER BY DESC(?citations) LIMIT 1",
+    "id": "q_comp_017",
+    "type": "comparison"
+  },
+  {
+    "input": "translate question to sparql: Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "output": "SELECT ?venue WHERE { ?p title 'A literature review on question answering techniques, paradigms and systems' . ?p published_in ?venue }",
+    "id": "q_single_006",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: How many papers has Di He published in this dataset?",
+    "output": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Di He' }",
+    "id": "q_agg_001",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_005",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Conversational Entity Linking: Problem Definition and Datasets' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_065",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: When was the paper 'A review On reinforcement learning: Introduction and applications in industrial process control' published?",
+    "output": "SELECT ?year WHERE { ?p title 'A review On reinforcement learning: Introduction and applications in industrial process control' . ?p published_year ?year }",
+    "id": "q_single_011",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: How many papers has Niki Parmar published in this dataset?",
+    "output": "SELECT (COUNT(?p) AS ?cnt) WHERE { ?p authored_by ?a . ?a name 'Niki Parmar' }",
+    "id": "q_agg_019",
+    "type": "aggregation"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' . ?p has_topic ?t . ?t name 'Engineering' }",
+    "id": "q_two_045",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "output": "SELECT ?author WHERE { ?p title 'Graph Neural Networks for Intelligent Transportation Systems: A Survey' . ?p authored_by ?a . ?a name ?author }",
+    "id": "q_single_046",
+    "type": "single_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Zero-shot Entity Linking with Dense Entity Retrieval' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Zero-shot Entity Linking with Dense Entity Retrieval' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_021",
+    "type": "two_hop"
+  },
+  {
+    "input": "translate question to sparql: Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "output": "SELECT ?p WHERE { ?p cites ?ref . ?ref title 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' . ?p has_topic ?t . ?t name 'Computer Science' }",
+    "id": "q_two_049",
+    "type": "two_hop"
+  }
+]
