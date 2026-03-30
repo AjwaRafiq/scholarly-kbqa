@@ -1,0 +1,62 @@
+======================================================================
+ERROR ANALYSIS REPORT
+======================================================================
+
+Total errors: 8/50
+Overall EM: 0.8400
+Overall F1: 0.8191
+
+======================================================================
+SCORES BY QUESTION TYPE
+======================================================================
+
+AGGREGATION
+  EM:  0.5000
+  F1:  0.5287
+
+COMPARISON
+  EM:  1.0000
+  F1:  1.0000
+
+SINGLE_HOP
+  EM:  0.9474
+  F1:  0.9416
+
+TWO_HOP
+  EM:  0.9231
+  F1:  0.8247
+
+======================================================================
+SAMPLE ERRORS BY TYPE
+======================================================================
+
+--- AGGREGATION (6 errors) ---
+
+  Q: How many papers has Rico Sennrich published in this dataset?
+  Gold     : 13
+  Predicted: 1
+  F1: 0.000 | Source: knowledge_base
+
+  Q: What is the most cited paper published in Renewable & Sustainable Energy Reviews?
+  Gold     : Applications of reinforcement learning in energy systems
+  Predicted: Adaptive Renewable Energy Forecasting Utilizing a Data-Driven PCA-Transformer Architecture
+  F1: 0.133 | Source: abstract_retrieval
+
+  Q: What is the most cited paper published in AAAI Conference on Artificial Intelligence?
+  Gold     : Deep Reinforcement Learning with Double Q-Learning
+  Predicted: Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence
+  F1: 0.000 | Source: abstract_retrieval
+
+--- SINGLE_HOP (1 errors) ---
+
+  Q: Who are the authors of the paper 'Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation'?
+  Gold     : Ross B. Girshick, Jeff Donahue, Trevor Darrell, J. Malik
+  Predicted: Image semantic segmentation approach based on DeepLabV3 plus network with an attention mechanism
+  F1: 0.000 | Source: abstract_retrieval
+
+--- TWO_HOP (1 errors) ---
+
+  Q: What papers by Siddhant Garg were published in Conference on Empirical Methods in Natural Language Processing?
+  Gold     : BAE: BERT-based Adversarial Examples for Text Classification
+  Predicted: BAE: BERT-based Adversarial Examples for Text Classification, Will this Question be Answered? Questi
+  F1: 0.414 | Source: knowledge_base

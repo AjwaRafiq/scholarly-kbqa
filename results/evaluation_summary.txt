@@ -1,0 +1,32 @@
+======================================================================
+SCHOLARLY KBQA SYSTEM - EVALUATION SUMMARY
+======================================================================
+
+Test Set Size: 50 questions
+Overall Exact Match: 0.8400 (42/50)
+Overall F1 Score:    0.8191
+
+--- By Question Type ---
+  aggregation         : EM=0.5000, F1=0.5287 (6/12)
+  comparison          : EM=1.0000, F1=1.0000 (6/6)
+  single_hop          : EM=0.9474, F1=0.9416 (18/19)
+  two_hop             : EM=0.9231, F1=0.8247 (12/13)
+
+--- Answer Sources ---
+  knowledge_base           : 45 answers, accuracy=0.9333
+  abstract_retrieval       : 5 answers, accuracy=0.0000
+
+--- System Components ---
+  Entity Linker:     SentenceTransformer (all-MiniLM-L6-v2)
+  BERT Ranker:       bert-base-uncased, F1=0.7576
+  T5 Generator:      t5-base, EM=1.0 on dev
+  KB:                78,356 entities, 157,353 triples
+  Abstract Index:    1,488 paper embeddings
+
+--- Generated Plots ---
+  results/plots/scores_by_type.png
+  results/plots/confusion_matrix.png
+  results/plots/training_curves.png
+  results/plots/confidence_distribution.png
+  results/plots/source_distribution.png
+  results/plots/latency_benchmarks.png
