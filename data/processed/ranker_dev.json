@@ -1,0 +1,3663 @@
+[
+  {
+    "question": "Which papers cite 'Zero-shot Entity Linking with Dense Entity Retrieval' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(592a6691373f3936631bc4ac122f69df09c842bd)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(5ded2b8c64491b4a67f6d39ce473d4b9347a672e)",
+    "answer": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+    "label": 0,
+    "qa_id": "q_two_021"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(a5b66ee341cb990f7f70a124b5fab3316d3b7e27)",
+    "answer": "ReCoRD: Bridging the Gap between Human and Machine Commonsense Reading Comprehension",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(a20f0ce0616def7cc9a87446c228906cd5da093b)-[authored_by]->(145689002)",
+    "answer": "David A. McAllester",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(ebe259796870ebccf26577044d0087884209b884)-[cites]->(09ef867e603215372d394dadac2b8c93cbf4359f)",
+    "answer": "TERA: Self-Supervised Learning of Transformer Encoder Representation for Speech",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2175649343)",
+    "answer": "Markus Krimmel",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bfa437129daef8533708924c395c3fd0c5c3bf81)-[cites]->(4aa6298b606941a282d735fa3143da293199d2ca)-[cites]->(6fc6803df5f9ae505cae5b2f178ade4062c768d0)",
+    "answer": "Fully convolutional networks for semantic segmentation",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(28692beece311a90f5fa1ca2ec9d0c2ce293d069)-[cites]->(f37e1b62a767a307c046404ca96bc140b3e68cb5)",
+    "answer": "GloVe: Global Vectors for Word Representation",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(b5ffd2ccfe1129c7c31e7067da947efc2de6ffd4)",
+    "answer": "Multi-Graph Convolutional-Recurrent Neural Network (MGC-RNN) for Short-Term Forecasting of Transit Passenger Flow",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(3746facb3d0bf221b12159ce78ae671a63812fae)-[published_in]->(venue_journal_of_king_saud_university:_computer_and_information_sciences)",
+    "answer": "Journal of King Saud University: Computer and Information Sciences",
+    "label": 1,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bfa437129daef8533708924c395c3fd0c5c3bf81)-[cites]->(05dd7254b632376973f3a1b4d39485da17814df5)",
+    "answer": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(5cbe278b65a81602a864184bbca37de91448a5f5)",
+    "answer": "Competition-level code generation with AlphaCode",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(2f1b6164b8ee2f354a9ed3b7699e9f13985ba5b4)-[cites]->(ab523efdc55535373a8c3434ef44a3afd853c743)",
+    "answer": "Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(476ff888fe3917f92b221c522ffb7bfaa4e1861b)-[cites]->(e237ec4e4d60c2d5ec70ebb7ce7a00b2f2fd6f9d)",
+    "answer": "Adaptive Document Retrieval for Deep Question Answering",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(6f0aba8102d63938ce0b48ec23ff5ddd8110f2e8)-[cites]->(0feea94f89d395436bf41bd10c797447eecbc128)",
+    "answer": "Unsupervised Data Augmentation for Consistency Training",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(c17985a669522e7e85ae3d34754c7df49c7187d1)-[cites]->(eb2bd0b24acd652c57782ce02f5d65f498fc8b3c)",
+    "answer": "Dynamic Data Selection for Neural Machine Translation",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(3746facb3d0bf221b12159ce78ae671a63812fae)-[cites]->(045c633ba4829add9d69b34224cb9347aa1acd6a)",
+    "answer": "Soft pattern matching models for definitional question answering",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cf490ef0613c5141f148e4b15ba2d8744e4db582)-[cites]->(3aed4648f7857c1d5e9b1da4c3afaf97463138c3)-[cites]->(0b14b26cf6c3dd161e272707b1b0236bc8152155)",
+    "answer": "You Only Learn One Representation: Unified Network for Multiple Tasks",
+    "label": 0,
+    "qa_id": "q_single_029"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[cites]->(3f5f13c6f5c659754086a7faa51d6bc60f577cd1)-[cites]->(f82e4ff4f003581330338aaae71f60316e58dd26)",
+    "answer": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+    "label": 0,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(484ed558a5863060b373e8a2cb7cb302b8c36116)",
+    "answer": "A Convolutional Attention Network for Extreme Summarization of Source Code",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(af64497a418cf62016251360d9ba537604f7622a)",
+    "answer": "Efficient Exploration in Reinforcement Learning",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(9172cd6c253edf7c3a1568e03577db20648ad0c4)-[cites]->(3deecaee4ec1a37de3cb10420eaabff067669e17)",
+    "answer": "Stochastic Neural Networks for Hierarchical Reinforcement Learning",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Get The Point of My Utterance! Learning Towards Effective Responses with Multi-Head Attention Mechanism' and are about Computer Science?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(f8cd82997f35e86c862225395e52fe45c0580910)-[authored_by]->(145717888)",
+    "answer": "Wei Wu",
+    "label": 0,
+    "qa_id": "q_two_051"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(3488b60a5f179ea87a37c6daf96e7591f98e26dc)-[cites]->(73ebb6ad44877ada6d8fd35163e390c8cbd6ebd3)",
+    "answer": "Computing semantic relatedness using Wikipedia features",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(8e4fb17fff38a7834af5b4eaafcbbde02bf00975)",
+    "answer": "N-gram Counts and Language Models from the Common Crawl",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(614ec0fe23fe21235126cc5c92ccf5a739a3ae32)",
+    "answer": "Federated Optimization: Distributed Optimization Beyond the Datacenter",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(8b6c9adf85a9d6391e3ccd503c2e5af929a36735)-[cites]->(b887a39268ee41fea8d72f0ecd364eb72fe28a82)-[cites]->(a7c679068c44e170d6789fa8a20080729e1bcc62)",
+    "answer": "Invited Talk: How Much Information Does a Human Translator Add to the Original?",
+    "label": 0,
+    "qa_id": "q_comp_042"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(4ee802a58d32aa049d549d06be440ac947b53987)-[cites]->(5ff5e41617829b090c649eacb2ca3277a820dbd8)",
+    "answer": "Evolving large-scale neural networks for vision-based reinforcement learning",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[authored_by]->(1701215660)",
+    "answer": "Badr Youbi Idrissi",
+    "label": 1,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Where was the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(a23a4b04c487585792ecf45bce4ea43aa71bac2f)-[cites]->(415df1f3d442b9a20cfd6e07bb57550624fffc0b)",
+    "answer": "The Devil Is in the Details: Window-based Attention for Image Compression",
+    "label": 0,
+    "qa_id": "q_single_036"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[authored_by]->(2078269543)",
+    "answer": "Asiye Baghbani",
+    "label": 1,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)-[cites]->(516497e7fc39ebb126bed28dcc5c6129e500acb8)",
+    "answer": "An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(28692beece311a90f5fa1ca2ec9d0c2ce293d069)-[cites]->(f2885c6a25756cf81aa23b41bc62696a5be5c94d)",
+    "answer": "Factual Probing Is [MASK]: Learning vs. Learning to Recall",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(18d026ec5d0eebd17ee2c762da89540c0b3d7bde)-[cites]->(42c18adca701b6fe7e40dbd74859b9d352239fad)",
+    "answer": "Proceedings of the Twenty-Third International Joint Conference on Artificial Intelligence Concept Learning for Cross-Domain Text Classification: A General Probabilistic Framework",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "has_topic"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[has_topic]->(topic_computer_science)",
+    "answer": "Computer Science",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)-[cites]->(67dea28495cab71703993d0d52ca4733b9a66077)",
+    "answer": "Jukebox: A Generative Model for Music",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(b2944a85b9cb428a28e30bdd236471e712667e91)-[authored_by]->(2056095486)",
+    "answer": "A. Allam",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(2cbb8de53759e75411bc528518947a3094fbce3a)",
+    "answer": "Billion-Scale Similarity Search with GPUs",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(5ee38bf9494a91ca8665f9fbe59830464c223b82)",
+    "answer": "Reinforcement learning with selective perception and hidden state",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "When was the paper 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4cf85f9436bb8b5b1c68715f44d6b67254413ef8)-[cites]->(f879657fd80ee47b950f537a1416e25fd4e0a625)-[cites]->(736cd8af0c5aea63718b78b8fda1f2f4eea83f38)",
+    "answer": "Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation",
+    "label": 0,
+    "qa_id": "q_single_017"
+  },
+  {
+    "question": "Where was the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures' published?",
+    "path": [
+      "published_in"
+    ],
+    "path_str": "(a23a4b04c487585792ecf45bce4ea43aa71bac2f)-[published_in]->(venue_computer_vision_and_pattern_recognition)",
+    "answer": "Computer Vision and Pattern Recognition",
+    "label": 1,
+    "qa_id": "q_single_036"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(5a94bcc168330318d3020aa4d41bd73cf68ab285)",
+    "answer": "Dataset Condensation with Gradient Matching",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[authored_by]->(2309195)",
+    "answer": "Z. Geem",
+    "label": 1,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(1cd7f2c74bd7ffb3a8b1527bec8795d0876a40b6)-[cites]->(dcfade77ecd26c1b21c68021ff482dba6fef8063)",
+    "answer": "Pragmatic Neural Language Modelling in Machine Translation",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)-[authored_by]->(2108828435)",
+    "answer": "Mark Chen",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(1b93ebee92672c7f8d8245e56fd5f9f853acf7c3)-[cites]->(c8b25fab5608c3e033d34b4483ec47e68ba109b7)-[cites]->(5f5fd2a068588f1d963ab88ffcbcff35b76aeb37)",
+    "answer": "InstaBoost: Boosting Instance Segmentation via Probability Map Guided Copy-Pasting",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[authored_by]->(39172707)",
+    "answer": "Jacob Devlin",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "published_year"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(82a262a2034b349abaa720c7f8229a0ef19e87cd)-[published_year]->(year_2017)",
+    "answer": "2017",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(9dccd22276aaad5b6ec24e68bb7d29d954226a54)",
+    "answer": "Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(81a4fd3004df0eb05d6c1cef96ad33d5407820df)-[cites]->(8be3f21ab796bd9811382b560507c1c679fae37f)",
+    "answer": "A learning rule for asynchronous perceptrons with feedback in a combinatorial environment",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(66ce56946214ab496c260012d828f7883ebfca22)-[cites]->(2c03df8b48bf3fa39054345bafabfeff15bfd11d)",
+    "answer": "Deep Residual Learning for Image Recognition",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(b17e0b5b5c7e632ecf5f35b0616cbf820382fcf7)-[cites]->(ea0b8a4c7e6e422b2eab6501e4c2fcd0a4663dcb)",
+    "answer": "Deep Deterministic Policy Gradient for Urban Traffic Light Control",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(18d026ec5d0eebd17ee2c762da89540c0b3d7bde)-[cites]->(75d82765de0900fed1a7a073415d8f7c625f79e8)",
+    "answer": "Spectral Graph Theory",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(a7c1b3034f263e8f67ffe38efce977ab5781b888)-[authored_by]->(2143498116)",
+    "answer": "Ren Li",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "published_year"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(ab8fe99d75808a1d5212ef1ea0183f4023130519)-[published_year]->(year_2022)",
+    "answer": "2022",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(c17985a669522e7e85ae3d34754c7df49c7187d1)-[cites]->(5924d089041e48f074c1b0b3ff3c3082a592910a)",
+    "answer": "Transfer Learning across Low-Resource, Related Languages for Neural Machine Translation",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(a0d9cb1f91382ec763f7aba0609cf9a6324e0b68)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(351ec42df2b60c6042addf96e6b98673bbaf4dfd)",
+    "answer": "The Fourth PASCAL Recognizing Textual Entailment Challenge",
+    "label": 0,
+    "qa_id": "q_two_069"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "path": [
+      "published_year"
+    ],
+    "path_str": "(cf490ef0613c5141f148e4b15ba2d8744e4db582)-[published_year]->(year_2023)",
+    "answer": "2023",
+    "label": 1,
+    "qa_id": "q_single_029"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(9172cd6c253edf7c3a1568e03577db20648ad0c4)-[authored_by]->(1689992)",
+    "answer": "P. Abbeel",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(a0d9cb1f91382ec763f7aba0609cf9a6324e0b68)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(a97dc52807d80454e78d255f9fbd7b0fab56bd03)",
+    "answer": "Discourse-Based Objectives for Fast Unsupervised Sentence Representation Learning",
+    "label": 0,
+    "qa_id": "q_two_069"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(a0d9cb1f91382ec763f7aba0609cf9a6324e0b68)-[cites]->(c95383f251a62c63217586059c67f63507c3e839)-[cites]->(a798c13da2d500dd76c4ff76f18ded43df0d59bc)",
+    "answer": "LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks",
+    "label": 0,
+    "qa_id": "q_two_069"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(c17985a669522e7e85ae3d34754c7df49c7187d1)-[cites]->(2d20ca90b7f7db0a29b4f9a1118c73f08b82fbda)",
+    "answer": "Continual Learning via Neural Pruning",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(82a262a2034b349abaa720c7f8229a0ef19e87cd)",
+    "answer": "RLlib: Abstractions for Distributed Reinforcement Learning",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(250bf5e1d40a619080dec553914c2905db6008c7)",
+    "answer": "Value-Decomposition Networks For Cooperative Multi-Agent Learning",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(8745ca0ffc4c06650cd795a532680cf6c1e61f89)-[cites]->(1ef01e7bfab2041bc0c0a56a57906964df9fc985)",
+    "answer": "Question Answering over Freebase with Multi-Column Convolutional Neural Networks",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(a96265cdf313e24043517de3533f4cad984c33a3)",
+    "answer": "A question answering system for project management applications",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(18d026ec5d0eebd17ee2c762da89540c0b3d7bde)-[cites]->(9171e83fb98299e14cbb3673437a0495a213767a)",
+    "answer": "Conditional Adversarial Domain Adaptation",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2288501206)",
+    "answer": "KG Arjun",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(c17985a669522e7e85ae3d34754c7df49c7187d1)-[cites]->(25ca4a36df2955b345634b5f8a6b6bb66a774b3c)",
+    "answer": "Parallel Data, Tools and Interfaces in OPUS",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[cites]->(4f10b9f47c5bb6b54dd4f5ca8d9fa2c0bbd7ec5e)",
+    "answer": "End-To-End Memory Networks",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(1b93ebee92672c7f8d8245e56fd5f9f853acf7c3)-[cites]->(ced7e9eecfa29e4d5a4be0a2a649efd2ab119ed6)",
+    "answer": "Complex Dynamic Neurons Improved Spiking Transformer Network for Efficient Automatic Speech Recognition",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2184468377)",
+    "answer": "Andreas Kallinteris",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(4ee802a58d32aa049d549d06be440ac947b53987)-[cites]->(a155da36c401bdd7fee08fae2b0bf27e9c559466)",
+    "answer": "Antithetic acceleration of Monte Carlo integration in Bayesian inference",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(956731bd10fed0c994c56e93c2b17b1d2918d0fb)-[cites]->(0b544dfe355a5070b60986319a3f51fb45d1348e)-[cites]->(0fcc184b3b90405ec3ceafd6a4007c749df7c363)",
+    "answer": "Continuous space language models",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(421fc2556836a6b441de806d7b393a35b6eaea58)",
+    "answer": "Contextual String Embeddings for Sequence Labeling",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which papers cite 'Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(1478c3c0225368419f68aabc6b67033531d3b4c1)-[cites]->(492f57ee9ceb61fb5a47ad7aebfec1121887a175)-[cites]->(b98587d738c1923d3f465ea5d0a0f9ad319220a4)",
+    "answer": "Neural methods for non-standard data",
+    "label": 1,
+    "qa_id": "q_two_005"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[cites]->(119baf88111d8015dfbd38c79aaa3f7348d7e042)-[cites]->(eadc9e297f396b50595dc36b851c4389874702ce)",
+    "answer": "BIRNet: Brain image registration using dual\u2010supervised fully convolutional networks",
+    "label": 0,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2246456491)",
+    "answer": "John U. Balis",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(2f2d8f8072e5cc9b296fad551f65f183bdbff7aa)",
+    "answer": "Exploring the Limits of Language Modeling",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[cites]->(a25fbcbbae1e8f79c4360d26aa11a3abf1a11972)-[published_in]->(venue_ieee_transactions_on_knowledge_and_data_engineering)",
+    "answer": "IEEE Transactions on Knowledge and Data Engineering",
+    "label": 0,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(7d4dcee4628745f79f5e352859172817fece3e83)",
+    "answer": "Adaptive Graph Encoder for Attributed Graph Embedding",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(1b93ebee92672c7f8d8245e56fd5f9f853acf7c3)-[cites]->(ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649)",
+    "answer": "Understanding the difficulty of training deep feedforward neural networks",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(3746facb3d0bf221b12159ce78ae671a63812fae)-[cites]->(ec43d37aad744150af144d27a08b0b097607e712)",
+    "answer": "Jumping NLP Curves: A Review of Natural Language Processing Research [Review Article]",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(52197236b99dc63ac308a57837529f2e9e2edb8b)-[cites]->(0e5146ce6fe7b9ca28c48d2ed8d1fe26dadb5529)",
+    "answer": "\u201cOne Entity per Discourse\u201d and \u201cOne Entity per Collocation\u201d Improve Named-Entity Disambiguation",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(0bc855f84668b35cb65618d996d09f6e434d28c9)-[cites]->(00357a417ce470a78f7a84d18ae2604330455d2a)",
+    "answer": "Meta-Learning with Temporal Convolutions",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)-[cites]->(dd892c577eb45f3237c1e4d2513b1674cbc2043c)",
+    "answer": "BugFix: A learning-based tool to assist developers in fixing bugs",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(7636193)",
+    "answer": "T. Deleu",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(ce9a21b93ba29d4145a8ef6bf401e77f261848de)",
+    "answer": "A Learning Algorithm for Continually Running Fully Recurrent Neural Networks",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which papers cite 'Zero-shot Entity Linking with Dense Entity Retrieval' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(592a6691373f3936631bc4ac122f69df09c842bd)-[cites]->(f0462312d9e985f13fd20d65178f9565d967f07e)-[authored_by]->(12888744)",
+    "answer": "N. Kolitsas",
+    "label": 0,
+    "qa_id": "q_two_021"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(7536bce1007a765fd097a7cc8ea62208a8c89b85)-[cites]->(4f8d648c52edf74e41b0996128aa536e13cc7e82)",
+    "answer": "Deep Learning",
+    "label": 1,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(1b6e810ce0afd0dd093f789d2b2742d047e316d5)-[cites]->(3febb2bed8865945e7fddc99efd791887bb7e14f)",
+    "answer": "Deep Contextualized Word Representations",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(6acf0d7b24a93953269a4d52c6b2f0c7d11f9ae4)",
+    "answer": "Hoppity: Learning Graph Transformations to Detect and Fix Bugs in Programs",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(0d2c76843f43d6f7219c7c3ad69a17beac19205b)-[cites]->(990a7b4eceedb6e053e6386269481bdfc42a1094)-[cites]->(d91043f0d48b9b2c8ff7ee321abb8fd7efafff7a)",
+    "answer": "The NarrativeQA Reading Comprehension Challenge",
+    "label": 0,
+    "qa_id": "q_two_065"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[cites]->(13d9323a8716131911bfda048a40e2cde1a76a46)",
+    "answer": "Structured Attention Networks",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(8d17543c20f23b6a40bec9334d50e9c15a08c1c4)-[authored_by]->(50056360)",
+    "answer": "William W. Cohen",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(a0d9cb1f91382ec763f7aba0609cf9a6324e0b68)-[cites]->(c95383f251a62c63217586059c67f63507c3e839)-[cites]->(b36a5bb1707bb9c70025294b3a310138aae8327a)",
+    "answer": "Automatic differentiation in PyTorch",
+    "label": 0,
+    "qa_id": "q_two_069"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(28692beece311a90f5fa1ca2ec9d0c2ce293d069)-[cites]->(73a5605ce482bd639078ebbb19baac7b903017e2)",
+    "answer": "A Unified MRC Framework for Named Entity Recognition",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(9fa8d73e572c3ca824a04a5f551b602a17831bc5)",
+    "answer": "Domain Adaptation with Structural Correspondence Learning",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(540b5b4919d345e4da3cc4f3e8a7862329bf41a2)",
+    "answer": "What makes ImageNet good for transfer learning?",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(2633dd53e95267a82da1e08e0b975e5fce7c4fd7)",
+    "answer": "Bayesian Generative Models for Knowledge Transfer in MRI Semantic Segmentation Problems",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(b19729b27a1b4c24b52f87308c907653300afa7f)-[cites]->(a2155552ca5afb784a3c1d67a5bcbd4e688b6e05)",
+    "answer": "DeepStack: Expert-level artificial intelligence in heads-up no-limit poker",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[authored_by]->(3430682)",
+    "answer": "N. Bokde",
+    "label": 1,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(51a2bc2e8fb8ed47a085df33dd965e57335080a0)",
+    "answer": "Adaptive Graph Convolutional Neural Networks",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(9fa8d73e572c3ca824a04a5f551b602a17831bc5)",
+    "answer": "Domain Adaptation with Structural Correspondence Learning",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(9172cd6c253edf7c3a1568e03577db20648ad0c4)-[cites]->(687d0e59d5c35f022ce4638b3e3a6142068efc94)",
+    "answer": "Deterministic Policy Gradient Algorithms",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2126884405)",
+    "answer": "Ariel Kwiatkowski",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which paper has more citations: 'Attentive Moment Retrieval in Videos' or 'Multimodal sentiment analysis based on multi-head attention mechanism'?",
+    "path": [
+      "published_year"
+    ],
+    "path_str": "(519da94369c1d87e09c592f239b55cc9486b5b7c)-[published_year]->(year_2018)",
+    "answer": "2018",
+    "label": 0,
+    "qa_id": "q_comp_029"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(476ff888fe3917f92b221c522ffb7bfaa4e1861b)-[cites]->(3adff57fd09965224506a1bacc0579d9d3c8c11e)",
+    "answer": "SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[cites]->(3f5f13c6f5c659754086a7faa51d6bc60f577cd1)-[cites]->(d4c4076a4e3a1ea24f292e68dbb5eeb99e1ea35d)",
+    "answer": "TorchCraft: a Library for Machine Learning Research on Real-Time Strategy Games",
+    "label": 0,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(11663c4130486e1ea088906b19b72925f7d80213)-[cites]->(234edfe687fba9791c4ac34303f0ed34a4baaed6)",
+    "answer": "Knowledge transfer for melanoma screening with deep learning",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(956731bd10fed0c994c56e93c2b17b1d2918d0fb)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[authored_by]->(3877127)",
+    "answer": "Niki Parmar",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(c17985a669522e7e85ae3d34754c7df49c7187d1)-[cites]->(a8a863e85a95919773868204d672f1260e0058ce)",
+    "answer": "Contextual Parameter Generation for Universal Neural Machine Translation",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(e2751a898867ce6687e08a5cc7bdb562e999b841)-[cites]->(9cfb3ef7dd364cbddff0fc0926c314bc945cdc20)",
+    "answer": "Single Shot Multibox Detector\ub97c \uc801\uc6a9\ud55c \uc2e4\uc2dc\uac04 \uc120\ubc15 \uac80\ucd9c \ubc0f \ubd84\ub958 \uc2dc\uc2a4\ud15c \uac1c\ubc1c",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(1b93ebee92672c7f8d8245e56fd5f9f853acf7c3)-[cites]->(94ec6f3aab4daca9f62b1bfc1c952f0e4d5e60bb)",
+    "answer": "Kronecker CP Decomposition With Fast Multiplication for Compressing RNNs",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(1464776f20e2bccb6182f183b5ff2e15b0ae5e56)-[cites]->(5f7aeecbb70319a7a224509c1b588391af17618a)",
+    "answer": "The Cross-Entropy Method for Combinatorial and Continuous Optimization",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(64c8a2a129ce8159f68dd25465c9d03ceaa56b14)",
+    "answer": "Object Detection in Video with Spatiotemporal Sampling Networks",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(1c71771c701aadfd72c5866170a9f5d71464bb88)-[cites]->(a10a6495723ea8c928680ecdd61714f5750586c3)",
+    "answer": "Fine-tune BERT for Extractive Summarization",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(70f7cd54b5918aed60c3d8c3a8e4aa7e8d634c41)",
+    "answer": "AliGraph: A Comprehensive Graph Neural Network Platform",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(eb37e7b76d26b75463df22b2a3aa32b6a765c672)-[cites]->(d5ed07113ddcd038062525a5a54550c012ac9a74)",
+    "answer": "Massively Parallel Methods for Deep Reinforcement Learning",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(81a4fd3004df0eb05d6c1cef96ad33d5407820df)-[cites]->(c29bd654bb198305934e3e2a721edecafbc003e9)",
+    "answer": "Task Sensitive Feature Exploration and Learning for Multitask Graph Classification",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(3488b60a5f179ea87a37c6daf96e7591f98e26dc)-[cites]->(7c56100bd4b89735bf9332b79c12e54d9368e9ac)",
+    "answer": "WikiRelate! Computing Semantic Relatedness Using Wikipedia",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(b7ce5e451d5e7683342da4eb6543b673c7561054)",
+    "answer": "Road traffic accident prediction modelling: a literature review",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(e7ad08848d5d7c5c47673ffe0da06af443643bda)-[cites]->(13a0d8bb38f739990c8cd65a44061c6534f17221)",
+    "answer": "OPT: Open Pre-trained Transformer Language Models",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(28692beece311a90f5fa1ca2ec9d0c2ce293d069)-[cites]->(cefd3993db4d065b95ab8f105452fb728c02b60e)",
+    "answer": "Can We Automate Scientific Reviewing?",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(52166049)",
+    "answer": "Manuel Goul\u00e3o",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(acc1150ac0b1b26257c1287084ae8b6ce380b8e3)-[cites]->(36eb6fea39ce06e2807f074fa3d5e79ed0f2bcef)",
+    "answer": "Probabilistic Graphical Models: Principles and Techniques - Adaptive Computation and Machine Learning",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(1ef301c1b275091b6a50d620b41df4722f2108f0)",
+    "answer": "Combinatorial sketching for finite programs",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[cites]->(69e76e16740ed69f4dc55361a3d319ac2f1293dd)-[cites]->(2c327af2071a572b1cfa640c7e39524d78a3f012)",
+    "answer": "Evolving deep unsupervised convolutional networks for vision-based reinforcement learning",
+    "label": 0,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(cf490ef0613c5141f148e4b15ba2d8744e4db582)-[cites]->(59b2f2f456fd1dccc9210e34486c12e3b67a376c)",
+    "answer": "PP-YOLOv2: A Practical Object Detector",
+    "label": 0,
+    "qa_id": "q_single_029"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[authored_by]->(1729109)",
+    "answer": "N. Bouguila",
+    "label": 1,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "When was the paper 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering' published?",
+    "path": [
+      "published_year"
+    ],
+    "path_str": "(4cf85f9436bb8b5b1c68715f44d6b67254413ef8)-[published_year]->(year_2024)",
+    "answer": "2024",
+    "label": 1,
+    "qa_id": "q_single_017"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(37bfc8ff47f07c78dfa65880d574c28ec1de5138)",
+    "answer": "Retrieval-augmented generation for",
+    "label": 1,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[cites]->(1028dfba19e38aa0f41eb3ba2b4885e835d63642)-[cites]->(a44acefac00096366137efe11d25570140ae2805)",
+    "answer": "Small lung nodules detection based on local variance analysis and probabilistic neural network",
+    "label": 0,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(659bf9ce7175e1ec266ff54359e2bd76e0b7ff31)",
+    "answer": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(e05a6b27979e7a119457ab334d23bea552e8e719)",
+    "answer": "AQUEOS: A System for Question Answering over Semantic Data",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[authored_by]->(1401804750)",
+    "answer": "David Lopez-Paz",
+    "label": 1,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(a497b6f27fa708805f5dab7b7470509e72deb8b2)-[published_in]->(venue_psychology_review)",
+    "answer": "Psychology Review",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(1c71771c701aadfd72c5866170a9f5d71464bb88)-[cites]->(ba6e3b28090d935205ed0e1d398206906b5b8905)",
+    "answer": "Linguistics",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(04957e40d47ca89d38653e97f728883c0ad26e5d)",
+    "answer": "Cascade R-CNN: Delving Into High Quality Object Detection",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(0d2c76843f43d6f7219c7c3ad69a17beac19205b)-[cites]->(990a7b4eceedb6e053e6386269481bdfc42a1094)-[cites]->(cdd025e6296e21acab8c314f8b972ea6a3b07ed7)",
+    "answer": "READING COMPREHENSION: A",
+    "label": 0,
+    "qa_id": "q_two_065"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(21c926eadd1118c540d137b6efdc12104c64d44d)",
+    "answer": "Answering Event-Related Questions over Long-Term News Article Archives",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(3db5fcb595492dcd64663c00d56f004dfafa689c)",
+    "answer": "A Fair Comparison of Graph Neural Networks for Graph Classification",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[cites]->(69e76e16740ed69f4dc55361a3d319ac2f1293dd)-[cites]->(a75fe5ebd7bc2f0271b8a0742b70f29bbc4be3fa)",
+    "answer": "Model-Free reinforcement learning with continuous action in practice",
+    "label": 0,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2182418903)",
+    "answer": "Jordan K. Terry",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bfa437129daef8533708924c395c3fd0c5c3bf81)-[cites]->(e7e1313061b0d56364bd2c41f017deb954bb05db)-[cites]->(828ac57f755db989e2886042a85278ae4823297c)",
+    "answer": "Uncovering the Temporal Context for Video Question Answering",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(2733574d40ce8e861d7d658bfc33ab36f529864d)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(8492070dc4031ed825e95e4803781752bb5e909f)",
+    "answer": "Word Representations: A Simple and General Method for Semi-Supervised Learning",
+    "label": 0,
+    "qa_id": "q_comp_042"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "published_year"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[published_year]->(year_2023)",
+    "answer": "2023",
+    "label": 1,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(8b6c9adf85a9d6391e3ccd503c2e5af929a36735)-[cites]->(96c90ab340b2823a0040cd64b25d1d32af807994)-[cites]->(5507dc32b368c8afd3b9507e9b5888da7bd7d7cd)",
+    "answer": "Sequence-to-Sequence Learning as Beam-Search Optimization",
+    "label": 0,
+    "qa_id": "q_comp_042"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(956731bd10fed0c994c56e93c2b17b1d2918d0fb)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[authored_by]->(3443442)",
+    "answer": "I. Polosukhin",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(d0f1809dc696134fb8fb2a3ff5a982eeacdc7127)-[cites]->(05cce51a21c9ca35c02c37253540759c1ed69c44)",
+    "answer": "Analysis and Enhancement of Wikification for Microblogs with Context Expansion",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(deed9027c39cc9e0c850660c5e934800e28a3c3f)-[cites]->(3c0996e66a4cc8150baddbaf134a6d231791ba1a)",
+    "answer": "Cross Lingual Question Answering using QRISTAL for CLEF 2008",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(a89da2cbbdbd680203695a6bf94fc92dd76b36a6)",
+    "answer": "Addressing ontology-based question answering with collections of user queries",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(7e41ed4d2ad81bc7ecf6e5215569d6598d7b53ff)",
+    "answer": "Advances in Record-Linkage Methodology as Applied to Matching the 1985 Census of Tampa, Florida",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(04a7cab83c5b1b5dd13dcb8632fae3f24150f873)-[cites]->(915c4bb289b3642489e904c65a47fa56efb60658)",
+    "answer": "Perceptual Losses for Real-Time Style Transfer and Super-Resolution",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(8b6c9adf85a9d6391e3ccd503c2e5af929a36735)-[cites]->(106d5e0cf44ea08500adc91c4d5bb3e6c8a4d627)-[cites]->(1a327709cc53ff9e52454e50a643abf4a0ac92af)",
+    "answer": "Findings of the 2016 Conference on Machine Translation",
+    "label": 0,
+    "qa_id": "q_comp_042"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(af0e7f07cb01796168711a0651873f0069466d6c)",
+    "answer": "Traffic sign recognition system",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(17dbd7b72029181327732e4d11b52a08ed4630d0)-[cites]->(b496b11fb2091678cc2d299cc778046d9a64b0a4)",
+    "answer": "A BERT Baseline for the Natural Questions",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "published_year"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(dd18782960f9ee4c66b79e1518b342ad3f8d19e7)-[published_year]->(year_2023)",
+    "answer": "2023",
+    "label": 1,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[authored_by]->(2282478)",
+    "answer": "Gabriel Synnaeve",
+    "label": 1,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "published_in"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[published_in]->(venue_journal_of_king_saud_university:_computer_and_information_sciences)",
+    "answer": "Journal of King Saud University: Computer and Information Sciences",
+    "label": 1,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[cites]->(aa67babb7362000237e7e4dd0068b0d80b36cdf6)",
+    "answer": "Differential Evolution \u2013 A Simple and Efficient Heuristic for global Optimization over Continuous Spaces",
+    "label": 0,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(fbe25e4f069a19dc63daca27b7c98cff338663b9)",
+    "answer": "CodeSearchNet Challenge: Evaluating the State of Semantic Code Search",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(02417d57dec9215a0b66a63e9a70571c168de54b)",
+    "answer": "Graph-based, Self-Supervised Program Repair from Diagnostic Feedback",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(1b6e810ce0afd0dd093f789d2b2742d047e316d5)-[cites]->(57a1258571a21817d89197dc84c986861fb6e580)",
+    "answer": "Measuring and Improving BERT\u2019s Mathematical Abilities by Predicting the Order of Reasoning.",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(0d2c76843f43d6f7219c7c3ad69a17beac19205b)-[cites]->(990a7b4eceedb6e053e6386269481bdfc42a1094)-[cites]->(3adff57fd09965224506a1bacc0579d9d3c8c11e)",
+    "answer": "SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine",
+    "label": 0,
+    "qa_id": "q_two_065"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(9f1c5777a193b2c3bb2b25e248a156348e5ba56d)",
+    "answer": "Cloze-driven Pretraining of Self-attention Networks",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(11663c4130486e1ea088906b19b72925f7d80213)-[cites]->(f15a6caf0d6062fc6e100c3ed64e2634e5f9949f)",
+    "answer": "AggNet: Deep Learning From Crowds for Mitosis Detection in Breast Cancer Histology Images",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(d163709460265aa4901ac41a2b903793ad24b3c2)",
+    "answer": "Knowledge and Reasoning in Program Synthesis",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[authored_by]->(144197980)",
+    "answer": "A. Keskar",
+    "label": 1,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bfa437129daef8533708924c395c3fd0c5c3bf81)-[cites]->(007112213ece771be72cbecfd59f048209facabd)",
+    "answer": "A simple neural network module for relational reasoning",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(11663c4130486e1ea088906b19b72925f7d80213)-[cites]->(f294208e184948fe66e926f4873f897858142fed)",
+    "answer": "Neuron Segmentation Based on CNN with Semi-Supervised Regularization",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(d11923075c47f8fd2cee47b8d6ae2ad0e7c966e8)-[authored_by]->(145446752)",
+    "answer": "Marie-Francine Moens",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(0d2c76843f43d6f7219c7c3ad69a17beac19205b)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(cb0f3ee1e98faf92429d601cdcd76c69c1e484eb)",
+    "answer": "Neural Network Acceptability Judgments",
+    "label": 0,
+    "qa_id": "q_two_065"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(2f1b6164b8ee2f354a9ed3b7699e9f13985ba5b4)-[cites]->(ec1513289f00a49c4135909d517857fd6fba7fc9)",
+    "answer": "Robust and Collective Entity Disambiguation through Semantic Embeddings",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(3746facb3d0bf221b12159ce78ae671a63812fae)-[cites]->(927e914d5db2f63b92030e7ee4c9d66ea5ee9a52)",
+    "answer": "Is Question Answering fit for the Semantic Web?: A survey",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(0d2c76843f43d6f7219c7c3ad69a17beac19205b)-[cites]->(0f7a40bf2ad9a1cee6dcb801a35b336588cabc59)-[cites]->(0c908739fbff75f03469d13d4a1a07de3414ee19)",
+    "answer": "Distilling the Knowledge in a Neural Network",
+    "label": 0,
+    "qa_id": "q_two_065"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(476ff888fe3917f92b221c522ffb7bfaa4e1861b)-[cites]->(b26f2037f769d5ffc5f7bdcec2de8da28ec14bee)",
+    "answer": "Dense Passage Retrieval for Open-Domain Question Answering",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(6541afa4b4061a7d5c8387514bedea9dc249fd80)",
+    "answer": "Invariant and Equivariant Graph Networks",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(11663c4130486e1ea088906b19b72925f7d80213)-[cites]->(622791cfb4e509158fbc858e9a970283de0f8045)",
+    "answer": "Automatic classification of pulmonary peri-fissural nodules in computed tomography using an ensemble of 2D views and a convolutional neural network out-of-the-box",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(d11923075c47f8fd2cee47b8d6ae2ad0e7c966e8)-[published_in]->(venue_information_sciences)",
+    "answer": "Information Sciences",
+    "label": 1,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bfa437129daef8533708924c395c3fd0c5c3bf81)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[cites]->(78a9513e70f596077179101f6cb6eadc51602039)",
+    "answer": "Effective Self-Training for Parsing",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(50358e3f30ab8c99f9d383e5683b31c2311e5651)",
+    "answer": "Automatic patch generation by learning correct code",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(81f5810fbbab9b7203b9556f4ce3c741875407bc)-[cites]->(400e746bc8027c4b5f915cae6123cd1775484b4d)",
+    "answer": "Position-aware Attention and Supervised Data Improve Slot Filling",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(5437e8adab596d7294124c0e798708e050e25321)-[cites]->(941612bd6750efa76e1a75bdc64b6e3d7ed66457)",
+    "answer": "Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[authored_by]->(3361236)",
+    "answer": "Baptiste Rozi\u00e8re",
+    "label": 1,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(361c00b22e29d0816ca896513d2c165e26399821)-[authored_by]->(2508525)",
+    "answer": "D. Budden",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(0fff5c49c05c27c22ac7685130197146491f0b36)",
+    "answer": "The Consciousness Prior",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[cites]->(ac3ee98020251797c2b401e1389461df88e52e62)",
+    "answer": "Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(f110cfdbe9ded7a384bcf5c0d56e536bd275a7eb)",
+    "answer": "Unsupervised Learning for Physical Interaction through Video Prediction",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(1c4927af526d5c28f7c2cfa492ece192d80a61d4)",
+    "answer": "Policy Distillation",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(5bbb6f9a8204eb13070b6f033e61c84ef8ee68dd)-[cites]->(05e30d16cf7fdcb23ba4523d40c2ebdc3eee88c8)",
+    "answer": "Superintelligence: Paths, Dangers, Strategies",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(cb4f6823e25896d5919046696066d0d498cc4397)",
+    "answer": "Forward-Backward Reasoning in Large Language Models for Verification",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(81a4fd3004df0eb05d6c1cef96ad33d5407820df)-[cites]->(a0a79f30fcd29a6e3094f03cdde4eac8c995ff80)",
+    "answer": "Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(e56a36dd9efc573bc4dab3d3d2fcc183448b6a31)-[cites]->(29347b33d73d7fd08da752782f3bf36215907e96)",
+    "answer": "TAC Entity Linking by Performing Full-document Entity Extraction and Disambiguation",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(d766bffc357127e0dc86dd69561d5aeb520d6f4c)-[cites]->(7a4193d0b042643a8bb9ec262ed7f9d509bdb12e)",
+    "answer": "Constrained Policy Optimization",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(1b93ebee92672c7f8d8245e56fd5f9f853acf7c3)-[cites]->(4d45165f3c82b6bb52fe16ffcdaf877cb1e4b994)",
+    "answer": "Progressive Tandem Learning for Pattern Recognition With Deep Spiking Neural Networks",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(1906e3a2fda12641a42739e3fb6a8f8b1accc8dd)",
+    "answer": "SPoC: Search-based Pseudocode to Code",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(c17985a669522e7e85ae3d34754c7df49c7187d1)-[cites]->(cb7963e7b0d872c2596f2f652f9d80b4b1da67d9)",
+    "answer": "CharacTer: Translation Edit Rate on Character Level",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(8b6c9adf85a9d6391e3ccd503c2e5af929a36735)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[authored_by]->(1846258)",
+    "answer": "Noam Shazeer",
+    "label": 0,
+    "qa_id": "q_comp_042"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2313474488)",
+    "answer": "Hannah Tan",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(04a7cab83c5b1b5dd13dcb8632fae3f24150f873)-[cites]->(36a8dcc72dbdbd801b4fd87dbe3811a8d45fe90f)",
+    "answer": "Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Where was the paper 'MHANet: A hybrid attention mechanism for retinal diseases classification' published?",
+    "path": [
+      "published_in"
+    ],
+    "path_str": "(19ed97412dfc610717dac3fd67c91d027cb19293)-[published_in]->(venue_plos_one)",
+    "answer": "PLoS ONE",
+    "label": 1,
+    "qa_id": "q_single_081"
+  },
+  {
+    "question": "When was the paper 'Effective Approaches to Attention-based Neural Machine Translation' published?",
+    "path": [
+      "published_year"
+    ],
+    "path_str": "(93499a7c7f699b6630a86fad964536f9423bb6d0)-[published_year]->(year_2015)",
+    "answer": "2015",
+    "label": 1,
+    "qa_id": "q_single_065"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2219469751)",
+    "answer": "Omar G. Younis",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(7536bce1007a765fd097a7cc8ea62208a8c89b85)-[cites]->(8d5d3ca4ec7e4eb0b7d0c482f96ef06e43b53613)",
+    "answer": "Visualizing Deep Convolutional Neural Networks Using Natural Pre-images",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2226792028)",
+    "answer": "Rodrigo Perez-Vicente",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(dd18782960f9ee4c66b79e1518b342ad3f8d19e7)-[cites]->(4fcb8b6c466937025d315be6a83b624b10e860b4)",
+    "answer": "MAmmoTH2: Scaling Instructions from the Web",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2207972451)",
+    "answer": "Mark Towers",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(492f57ee9ceb61fb5a47ad7aebfec1121887a175)-[cites]->(219c95e028a1a8e2baebdecb8b998e12a03bc33b)",
+    "answer": "Local Reasoning about Programs that Alter Data Structures",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)-[cites]->(2cd605106b88c85d7d8b865b1ef0f8c8293debf1)",
+    "answer": "Zero-Shot Text-to-Image Generation",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(990a7b4eceedb6e053e6386269481bdfc42a1094)-[cites]->(651e5bcc14f14605a879303e97572a27ea8c7956)",
+    "answer": "A Diversity-Promoting Objective Function for Neural Conversation Models",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(2733574d40ce8e861d7d658bfc33ab36f529864d)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[published_in]->(venue_north_american_chapter_of_the_association_for_computational_linguistics)",
+    "answer": "North American Chapter of the Association for Computational Linguistics",
+    "label": 0,
+    "qa_id": "q_comp_042"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(bd6b6291c3c14551cf9f2aa0e04e2e33c86b800e)",
+    "answer": "The Malmo Platform for Artificial Intelligence Experimentation",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(1d03474a695644a432fdba1e16030eb2704a01eb)",
+    "answer": "Conditioned Reflexes",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(ef2bbcd928749978b4395460a96c9869833c9c89)",
+    "answer": "DreamCoder: growing generalizable, interpretable knowledge with wake\u2013sleep Bayesian program learning",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(1b6e810ce0afd0dd093f789d2b2742d047e316d5)-[cites]->(99feb14a76ea4750818d5af0aa9082dfda47a587)",
+    "answer": "Solving logic puzzles: From robust processing to precise semantics",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(a0d9cb1f91382ec763f7aba0609cf9a6324e0b68)-[cites]->(c95383f251a62c63217586059c67f63507c3e839)-[authored_by]->(2125818054)",
+    "answer": "Mariama Drame",
+    "label": 0,
+    "qa_id": "q_two_069"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(14bd7f40226ce130611115ff4e18a4e1912dafb0)-[authored_by]->(3087706)",
+    "answer": "Hyunjae Kim",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(eac21b22b2bba3a2311820c3f98702fa1d380ad5)-[cites]->(23b559b5ab27f2fca6f56c0a7b6478bcf69db509)",
+    "answer": "Dual Learning for Machine Translation",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(acc1150ac0b1b26257c1287084ae8b6ce380b8e3)-[cites]->(75d6b55e8b9146e3d9dce9091cfb03211a664b3a)",
+    "answer": "MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Who are the authors of the paper 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(94a47bf3bb8fffaabe75c6aa2b4b1b211b3e40d1)-[authored_by]->(2274341664)",
+    "answer": "F. Roa",
+    "label": 1,
+    "qa_id": "q_single_061"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(11663c4130486e1ea088906b19b72925f7d80213)-[cites]->(23609d9c1aaa438788696e8ef153ab2c4816cea9)",
+    "answer": "Boosting instance prototypes to detect local dermoscopic features",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(17dbd7b72029181327732e4d11b52a08ed4630d0)-[authored_by]->(2555924)",
+    "answer": "Andrew M. Dai",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2044763314)",
+    "answer": "G. Cola",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(8745ca0ffc4c06650cd795a532680cf6c1e61f89)-[cites]->(5292a00eff5f9864adc6a4d159591d3d476cba8c)",
+    "answer": "Hubless Nearest Neighbor Search for Bilingual Lexicon Induction",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(1e077413b25c4d34945cc2707e17e46ed4fe784a)",
+    "answer": "Universal Language Model Fine-tuning for Text Classification",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(8d17543c20f23b6a40bec9334d50e9c15a08c1c4)-[cites]->(1fa3c6e4d2054cb73f23442170fa3b84082e5970)",
+    "answer": "Sar-graphs: A language resource connecting linguistic knowledge with semantic relations from knowledge graphs",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)-[cites]->(8a25c9403d8a0e2fb8ca362a1b26262afd57417f)",
+    "answer": "DeepCoder: Learning to Write Programs",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(f7df82c5417b9ec7582def05b79ca080a07c4f3b)",
+    "answer": "R3: Reinforced Ranker-Reader for Open-Domain Question Answering",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(18d026ec5d0eebd17ee2c762da89540c0b3d7bde)-[cites]->(82d6b23e0970bfdc6e4e81665856abf142a21037)",
+    "answer": "Dual Transfer Learning",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cf490ef0613c5141f148e4b15ba2d8744e4db582)-[cites]->(f8e79ac0ea341056ef20f2616628b3e964764cfd)-[cites]->(f9f836d28f52ad260213d32224a6d227f8e8849a)",
+    "answer": "Object recognition from local scale-invariant features",
+    "label": 0,
+    "qa_id": "q_single_029"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(6bdb186ec4726e00a8051119636d4df3b94043b5)",
+    "answer": "Caffe: Convolutional Architecture for Fast Feature Embedding",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(2f4df08d9072fc2ac181b7fced6a245315ce05c8)-[cites]->(36f470a638d9a759132e2112689d2ce96646d4cb)",
+    "answer": "Object Detection",
+    "label": 1,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[cites]->(f9717d29840f4d8f1cc19d1b1e80c5d12ec40608)-[published_in]->(venue_science)",
+    "answer": "Science",
+    "label": 1,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(28692beece311a90f5fa1ca2ec9d0c2ce293d069)-[cites]->(d38b686b8b68d0b91b294fd8a55ac7dea191706f)",
+    "answer": "GSum: A General Framework for Guided Neural Abstractive Summarization",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[authored_by]->(2070114357)",
+    "answer": "Saeed Rahmani",
+    "label": 1,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(351ec42df2b60c6042addf96e6b98673bbaf4dfd)",
+    "answer": "The Fourth PASCAL Recognizing Textual Entailment Challenge",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[cites]->(119baf88111d8015dfbd38c79aaa3f7348d7e042)-[cites]->(162d958ff885f1462aeda91cd72582323fd6a1f4)",
+    "answer": "Gradient-based learning applied to document recognition",
+    "label": 0,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(60b05f32c32519a809f21642ef1eb3eaf3848008)",
+    "answer": "ROUGE: A Package for Automatic Evaluation of Summaries",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(18d026ec5d0eebd17ee2c762da89540c0b3d7bde)-[cites]->(a43db7ca59b2dee8f2b8d3f85587b3529762ee25)",
+    "answer": "Collaborative Dual-PLSA: mining distinction and commonality across multiple domains for text classification",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(0b0debb710366cdff461938c80763eace1651af6)",
+    "answer": "Code Llama: Open Foundation Models for Code",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(ba2174de42ec07a9a4dbaa34dac955bbb3dcfc76)-[authored_by]->(1804906)",
+    "answer": "H. Llorens",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(c6850869aa5e78a107c378d2e8bfa39633158c0c)",
+    "answer": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which paper has more citations: 'Attentive Moment Retrieval in Videos' or 'Multimodal sentiment analysis based on multi-head attention mechanism'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(519da94369c1d87e09c592f239b55cc9486b5b7c)-[authored_by]->(2028246830)",
+    "answer": "Baoquan Chen",
+    "label": 0,
+    "qa_id": "q_comp_029"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(a0d9cb1f91382ec763f7aba0609cf9a6324e0b68)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)",
+    "answer": "Attention is All you Need",
+    "label": 0,
+    "qa_id": "q_two_069"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "published_in"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[published_in]->(venue_applied_sciences)",
+    "answer": "Applied Sciences",
+    "label": 1,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(9721f9b2d5a77b878f6ffc6badd3470e1ade9415)",
+    "answer": "Feature Selective Anchor-Free Module for Single-Shot Object Detection",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(3c78c6df5eb1695b6a399e346dde880af27d1016)",
+    "answer": "Simple and Effective Multi-Paragraph Reading Comprehension",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(dc200ab22bf63e10e8b2af328a9e072d82cf75b7)-[cites]->(dc2e78581e12132fe446fc3c515feaf8239d8215)",
+    "answer": "Joint SFM and detection cues for monocular 3D localization in road scenes",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[authored_by]->(2045771075)",
+    "answer": "Satyarth Katiyar",
+    "label": 1,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(6e795c6e9916174ae12349f5dc3f516570c17ce8)",
+    "answer": "Skip-Thought Vectors",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(6aa7647b1ba8e08e7b3bfdbabc2967c953da7746)-[cites]->(425d6a85bc0b81c6e288480f5c6f5dddba0f1089)",
+    "answer": "MAG: A Multilingual, Knowledge-base Agnostic and Deterministic Entity Linking Approach",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(7536bce1007a765fd097a7cc8ea62208a8c89b85)-[authored_by]->(31843833)",
+    "answer": "Xiaogang Wang",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "When was the paper 'A review On reinforcement learning: Introduction and applications in industrial process control' published?",
+    "path": [
+      "published_year"
+    ],
+    "path_str": "(bd21ae0360e410708c4d286ddb403aeecfd7a4b8)-[published_year]->(year_2020)",
+    "answer": "2020",
+    "label": 1,
+    "qa_id": "q_single_011"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(66ce56946214ab496c260012d828f7883ebfca22)-[cites]->(4fa89f6ffef921580718222c55fa17973a7c366d)",
+    "answer": "Shadow Detection with Conditional Generative Adversarial Networks",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[authored_by]->(2233293602)",
+    "answer": "Fabian Gloeckle",
+    "label": 1,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(536d456c16e77482b1a5ddbee91795901520288f)",
+    "answer": "Answering",
+    "label": 1,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(7536bce1007a765fd097a7cc8ea62208a8c89b85)-[cites]->(df093d69cd98cf4b26542f53614a79754754eb78)",
+    "answer": "Meta-Learning for Semi-Supervised Few-Shot Classification",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(a4c6cb385a90441061218f50abe2871d5e384a2e)",
+    "answer": "IntelliCode compose: code generation using transformer",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(17dbd7b72029181327732e4d11b52a08ed4630d0)-[authored_by]->(145024664)",
+    "answer": "Llion Jones",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Where was the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(a23a4b04c487585792ecf45bce4ea43aa71bac2f)-[cites]->(c8b25fab5608c3e033d34b4483ec47e68ba109b7)-[cites]->(48a6aadf7fd6a1de64a6971ae3eeb24aae007bb5)",
+    "answer": "ResMLP: Feedforward Networks for Image Classification With Data-Efficient Training",
+    "label": 0,
+    "qa_id": "q_single_036"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(811df72e210e20de99719539505da54762a11c6d)-[cites]->(ee1ac4a86cafa34e4905327f3436fea2d5994fc8)",
+    "answer": "The Reactor: A fast and sample-efficient Actor-Critic agent for Reinforcement Learning",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(33690ff21ef1efb576410e656f2e60c89d0307d6)-[cites]->(dce6f9d4017b1785979e7520fd0834ef8cf02f4b)",
+    "answer": "Proximal Policy Optimization Algorithms",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(cb0f3ee1e98faf92429d601cdcd76c69c1e484eb)",
+    "answer": "Neural Network Acceptability Judgments",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which papers cite 'Zero-shot Entity Linking with Dense Entity Retrieval' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(592a6691373f3936631bc4ac122f69df09c842bd)-[cites]->(919bace2acf13bc2580222bb16c0454eb792ae93)-[cites]->(c9a1e8e1ba2913ef0bdf1c5eaaa1ac0a79be3716)",
+    "answer": "YouTube-8M: A Large-Scale Video Classification Benchmark",
+    "label": 0,
+    "qa_id": "q_two_021"
+  },
+  {
+    "question": "Where was the paper 'Learned Image Compression with Mixed Transformer-CNN Architectures' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(a23a4b04c487585792ecf45bce4ea43aa71bac2f)-[cites]->(c8b25fab5608c3e033d34b4483ec47e68ba109b7)-[cites]->(654247d5b184495fca18c6aa7e840e4f4559fef0)",
+    "answer": "Do We Really Need Explicit Position Encodings for Vision Transformers?",
+    "label": 0,
+    "qa_id": "q_single_036"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(8d17543c20f23b6a40bec9334d50e9c15a08c1c4)-[cites]->(3dcd38e2b341f727abbaa4c02c7ca1995e3cb169)",
+    "answer": "Object-oriented Neural Programming (OONP) for Document Understanding",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(feb420a4ac7c5719d51480053cd3e8669d5f2062)",
+    "answer": "Findings of the 2015 Workshop on Statistical Machine Translation",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(fe3e91e40a950c6b6601b8f0a641884774d949ae)-[authored_by]->(1708654)",
+    "answer": "R. Munos",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(f4c491f2a54e9b1c2b18500d0787cc7a72522bff)-[cites]->(8d48441fcf5dd900955036761972cecd18110813)",
+    "answer": "NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2273678394)",
+    "answer": "Sander Schulhoff",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(7536bce1007a765fd097a7cc8ea62208a8c89b85)-[cites]->(44b05ac0fc80fa42c94ed54f2ddeac388faa958b)",
+    "answer": "Object Categorization: Computer and Human Vision Perspectives",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(340f48901f72278f6bf78a04ee5b01df208cc508)-[authored_by]->(48348688)",
+    "answer": "Stig Petersen",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(7af7f2f539cd3479faae4c66bbef49b0f66202fa)-[cites]->(0aebb32494c8a2b1b94023eaf4df7b1acfce362f)",
+    "answer": "Autonomous visual navigation of a mobile robot using a human-guided experience",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Who are the authors of the paper 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(94a47bf3bb8fffaabe75c6aa2b4b1b211b3e40d1)-[authored_by]->(1971124)",
+    "answer": "C. Jaramillo",
+    "label": 1,
+    "qa_id": "q_single_061"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(990a7b4eceedb6e053e6386269481bdfc42a1094)-[cites]->(29de7c0fb3c09eaf55b20619bceaeafe72fd87a6)",
+    "answer": "Hierarchical Neural Story Generation",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(1b93ebee92672c7f8d8245e56fd5f9f853acf7c3)-[cites]->(0127ff209c2ee559c0a68daefc3fc9f263a6941f)",
+    "answer": "Spike-driven Transformer",
+    "label": 1,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(7ca8ac34767d6e6cb389eeebcdabc4225b39edfe)",
+    "answer": "Advances in Neural Information Processing Systems pp MIT Press Generalization in Reinforcement Learning Successful Examples Using Sparse Coarse Coding",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(644a079073969a92674f69483c4a85679d066545)",
+    "answer": "Double Q-learning",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "has_topic"
+    ],
+    "path_str": "(956731bd10fed0c994c56e93c2b17b1d2918d0fb)-[cites]->(1eb09fecd75eb27825dce4f964b97f4f5cc399d7)-[has_topic]->(topic_mathematics)",
+    "answer": "Mathematics",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(f4c491f2a54e9b1c2b18500d0787cc7a72522bff)-[cites]->(572c12e81319ccd47cc0c637c82efadd03fd05ab)",
+    "answer": "Autoregressive Entity Retrieval",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which paper has more citations: 'Temporal Reasoning via Audio Question Answering' or 'Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips'?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(bfa437129daef8533708924c395c3fd0c5c3bf81)-[cites]->(4aa6298b606941a282d735fa3143da293199d2ca)-[published_in]->(venue_international_conference_on_learning_representations)",
+    "answer": "International Conference on Learning Representations",
+    "label": 0,
+    "qa_id": "q_comp_026"
+  },
+  {
+    "question": "Which papers cite 'Unsupervised Question Decomposition for Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(a0d9cb1f91382ec763f7aba0609cf9a6324e0b68)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[cites]->(5e4eb58d5b47ac1c73f4cf189497170e75ae6237)",
+    "answer": "Neural GPUs Learn Algorithms",
+    "label": 0,
+    "qa_id": "q_two_069"
+  },
+  {
+    "question": "Which papers cite 'SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(9cda754187545c3cc8f9e9f134c08707269d0fae)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[cites]->(735d547fc75e0772d2a78c46a1cc5fad7da1474c)",
+    "answer": "Can Active Memory Replace Attention?",
+    "label": 0,
+    "qa_id": "q_two_014"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2325904890)",
+    "answer": "Jun Jet Tai",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(1478c3c0225368419f68aabc6b67033531d3b4c1)-[cites]->(492f57ee9ceb61fb5a47ad7aebfec1121887a175)-[cites]->(3efd851140aa28e95221b55fcc5659eea97b172d)",
+    "answer": "The Graph Neural Network Model",
+    "label": 0,
+    "qa_id": "q_two_005"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(8745ca0ffc4c06650cd795a532680cf6c1e61f89)-[cites]->(e3d772986d176057aca2f5e3eb783da53b559134)",
+    "answer": "Unsupervised Machine Translation Using Monolingual Corpora Only",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "When was the paper 'TimeR^4 : Time-aware Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4cf85f9436bb8b5b1c68715f44d6b67254413ef8)-[cites]->(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(5f19ae1135a9500940978104ec15a5b8751bc7d2)",
+    "answer": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+    "label": 0,
+    "qa_id": "q_single_017"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[cites]->(f9717d29840f4d8f1cc19d1b1e80c5d12ec40608)-[authored_by]->(35099444)",
+    "answer": "A. Guez",
+    "label": 0,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269)-[authored_by]->(40055795)",
+    "answer": "Vedant Misra",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(ef7deb66968225905c6951d0c3596854243ba0d8)",
+    "answer": "Question Answering",
+    "label": 1,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(ad7129af0644dbcafa9aa2f111cb76526ea444a1)",
+    "answer": "Defending Against Neural Fake News",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(df2ce576eca0b3db177c83bc6cf0f9fe2c7714f0)",
+    "answer": "Dynamically Fused Graph Network for Multi-hop Reasoning",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cf490ef0613c5141f148e4b15ba2d8744e4db582)-[cites]->(d8adfa796b1666e0332d3715c9708a0d8d85097a)-[cites]->(96c7e85fd50680c2c0125d53d525ae9b9742f719)",
+    "answer": "YOLO v4 Based Human Detection System Using Aerial Thermal Imaging for UAV Based Surveillance Applications",
+    "label": 0,
+    "qa_id": "q_single_029"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(4ee802a58d32aa049d549d06be440ac947b53987)-[cites]->(a644aedba14f640f43195ee9f6a93f66b313929f)",
+    "answer": "Generalized compressed network search",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(ab8fe99d75808a1d5212ef1ea0183f4023130519)-[cites]->(ab523efdc55535373a8c3434ef44a3afd853c743)",
+    "answer": "Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[authored_by]->(40348417)",
+    "answer": "Ashish Vaswani",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Who are the authors of the paper 'Better & Faster Large Language Models via Multi-token Prediction'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(17dbd7b72029181327732e4d11b52a08ed4630d0)-[cites]->(f04df4e20a18358ea2f689b4c129781628ef7fc1)",
+    "answer": "A large annotated corpus for learning natural language inference",
+    "label": 0,
+    "qa_id": "q_single_022"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(c05c38b2464641fe79253c3ac658324f954bb113)",
+    "answer": "A survey on real-time event detection from the Twitter data stream",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(cf4aa38ae31b43fd07abe13b4ffdb265babb7be1)",
+    "answer": "The Curious Case of Neural Text Degeneration",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(2a94c84383ee3de5e6211d43d16e7de387f68878)-[cites]->(1c4e9156ca07705531e45960b7a919dc473abb51)",
+    "answer": "Wide Residual Networks",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(75e924bd79d27a23f3f93d9b1ab62a779505c8d2)-[cites]->(4efb9a950f252138a30eeb942ed02663a3ea29d1)",
+    "answer": "MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(6f0aba8102d63938ce0b48ec23ff5ddd8110f2e8)-[cites]->(d2946a868682e4141beabc288d79253ae254c6e1)",
+    "answer": "DBpedia - A large-scale, multilingual knowledge base extracted from Wikipedia",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(204e3073870fae3d05bcbc2f6a8e263d9b72e776)-[cites]->(98445f4172659ec5e891e031d8202c102135c644)",
+    "answer": "Neural Machine Translation in Linear Time",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(a9e6222e71dd101d444b7192b3a0636c71edb0a4)",
+    "answer": "Differentiable Reasoning over a Virtual Knowledge Base",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(e8242eafea95037ccbca8ba2d6d931d5aadc90a6)-[cites]->(4739be9b4e8cec5c05dda9d3cf3d91e33d727c1c)",
+    "answer": "A structural approach to the automatic adjudication of word sense disagreements",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which paper has more citations: 'Is MAP Decoding All You Need? The Inadequacy of the Mode in Neural Machine Translation' or 'GluonCV and GluonNLP: Deep Learning in Computer Vision and Natural Language Processing'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(8b6c9adf85a9d6391e3ccd503c2e5af929a36735)-[cites]->(31f531484e963da69c21f0d72ae0d59142d9e7db)-[cites]->(b9124861e4e874bbc477b4b726adf94f7d2ecdc4)",
+    "answer": "Learning",
+    "label": 1,
+    "qa_id": "q_comp_042"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(acc1150ac0b1b26257c1287084ae8b6ce380b8e3)-[cites]->(e51e557cf4701510916bb1444074f62e6a04f889)",
+    "answer": "Anonymous Walk Embeddings",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "published_in"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(eb37e7b76d26b75463df22b2a3aa32b6a765c672)-[published_in]->(venue_conference_on_robot_learning)",
+    "answer": "Conference on Robot Learning",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "Which papers cite 'Transfer Learning in Magnetic Resonance Brain Imaging: A Systematic Review' and are about Engineering?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(225baabe00a8cfe32fbb906fbd18c859329e2d2d)-[cites]->(11663c4130486e1ea088906b19b72925f7d80213)-[cites]->(6d431f835c06afdea45dff6b24486bf301ebdef0)",
+    "answer": "An Overview of Multi-Task Learning in Deep Neural Networks",
+    "label": 0,
+    "qa_id": "q_two_045"
+  },
+  {
+    "question": "Which papers cite 'Dynamic Multiscale Graph Neural Networks for 3D Skeleton Based Human Motion Prediction' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(1478c3c0225368419f68aabc6b67033531d3b4c1)-[cites]->(bac377d3a051899dbe0d7249ed5d3d0b22d57310)",
+    "answer": "Human3.6M: Large Scale Datasets and Predictive Methods for 3D Human Sensing in Natural Environments",
+    "label": 1,
+    "qa_id": "q_two_005"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693)-[cites]->(6d54a70d06fcd2cc34f3d99163c5fc7194106027)",
+    "answer": "MR-GNN: Multi-Resolution and Dual Graph Neural Network for Predicting Structured Entity Interactions",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(0bc855f84668b35cb65618d996d09f6e434d28c9)",
+    "answer": "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(a9e3e5dd7b30890553b7ae1c41f932e99192bb44)-[cites]->(290732e9fb08a29af8892a7c1f73c9d2a1b9d7db)",
+    "answer": "Language models show human-like content effects on reasoning",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Where was the paper 'Multi-Agent Reinforcement Learning: A Review of Challenges and Applications' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dbaf7ae5e96776c79588320aea2770b3b3acf4f7)-[cites]->(3f5f13c6f5c659754086a7faa51d6bc60f577cd1)-[cites]->(c38e624c8d176153a23ada19978f334c9ec94bae)",
+    "answer": "MAVEN: Multi-Agent Variational Exploration",
+    "label": 0,
+    "qa_id": "q_single_102"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(016e9cc85c658c6a69710b4c617609ad2a5d3a74)",
+    "answer": "Scaling question answering to the Web",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Which papers cite 'Conversational Entity Linking: Problem Definition and Datasets' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(0d2c76843f43d6f7219c7c3ad69a17beac19205b)-[cites]->(a33a06ddc762fb855b6954c08d5aca603080b011)",
+    "answer": "Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset",
+    "label": 0,
+    "qa_id": "q_two_065"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(395de0bd3837fdf4b4b5e5f04835bcc69c279481)-[authored_by]->(39589154)",
+    "answer": "Naman Goyal",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(91dddb9263842b39c0bcba863a4840655d2ffe67)-[cites]->(447b4e961791d3620f6ef4609bda814c2e874c3f)",
+    "answer": "Points of Significance: Classification and regression trees",
+    "label": 0,
+    "qa_id": "q_single_006"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[authored_by]->(122064392)",
+    "answer": "Ellen Jiang",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[authored_by]->(2312755837)",
+    "answer": "Andrea Pierr'e",
+    "label": 1,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Who are the authors of the paper 'Gymnasium: A Standard Interface for Reinforcement Learning Environments'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cafe66a9bdcef9ec43c91d57ece9087203b0a0e3)-[cites]->(b19729b27a1b4c24b52f87308c907653300afa7f)-[cites]->(eefa0df7c5678fa6004f8b48dbbc1c2696702fee)",
+    "answer": "An Empirical Model of Large-Batch Training",
+    "label": 0,
+    "qa_id": "q_single_094"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(8c7bf2ed2e4d8e43dce662c67518b8a9a2cdef84)",
+    "answer": "LC-QuAD 2.0: A Large Dataset for Complex Question Answering over Wikidata and DBpedia",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Who are the authors of the paper 'Computers' Interpretations of Knowledge Representation Using Pre-Conceptual Schemas: An Approach Based on the BERT and Llama 2-Chat Models'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(94a47bf3bb8fffaabe75c6aa2b4b1b211b3e40d1)-[authored_by]->(1920878)",
+    "answer": "Jes\u00fas Insuasti",
+    "label": 1,
+    "qa_id": "q_single_061"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(c1f4ef741242d629d1f56e442a09a7ba29595a0e)-[cites]->(d6e45f4a3a24a8cf1c4a4138db8f7ca0d07812db)",
+    "answer": "An Expectation Maximization Algorithm for Continuous Markov Decision Processes with Arbitrary Reward",
+    "label": 0,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(dd18782960f9ee4c66b79e1518b342ad3f8d19e7)-[cites]->(e65b346d442e9962a4276dc1c1af2956d9d5f1eb)",
+    "answer": "Self-Instruct: Aligning Language Models with Self-Generated Instructions",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "published_in"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[published_in]->(venue_international_conference_on_machine_learning)",
+    "answer": "International Conference on Machine Learning",
+    "label": 1,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(5d833331b0e22ff359db05c62a8bca18c4f04b68)",
+    "answer": "One billion word benchmark for measuring progress in statistical language modeling",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(024a2c03be8e468e7c4fdf9bda36cdc0eaae85fb)",
+    "answer": "Array programming with NumPy",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "Which papers cite 'Improving Candidate Retrieval with Entity Profile Generation for Wikidata Entity Linking' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bd21e04ad2e4a7f816796388ff80374d272df596)-[cites]->(95d3c251faf934831b9728e47851453f91265048)-[cites]->(9c7f4412b8f0310a91334aed79b8553b2ad70908)",
+    "answer": "Constructing Biological Knowledge Bases by Extracting Information from Text Sources",
+    "label": 0,
+    "qa_id": "q_two_049"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cf490ef0613c5141f148e4b15ba2d8744e4db582)-[cites]->(d8adfa796b1666e0332d3715c9708a0d8d85097a)-[cites]->(433000c371d0d8121cc7699f93987ade7ddd1055)",
+    "answer": "Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks",
+    "label": 0,
+    "qa_id": "q_single_029"
+  },
+  {
+    "question": "Which papers cite 'Knowledge-Augmented Language Model Prompting for Zero-Shot Knowledge Graph Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(678cfca72b7de72b005f71207bc8a522ea9ac62c)-[cites]->(d7d64d6d91c46c16e69141d0a79f165bde90e1ce)-[authored_by]->(2109143854)",
+    "answer": "K. Singh",
+    "label": 0,
+    "qa_id": "q_two_009"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[cites]->(81a4fd3004df0eb05d6c1cef96ad33d5407820df)-[cites]->(afbf13acbc28549ff57cdf0b89506785f494c346)",
+    "answer": "Binarized attributed network embedding",
+    "label": 0,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which papers cite 'An Introduction to Deep Reinforcement Learning' and are about Computer Science?",
+    "path": [
+      "cites"
+    ],
+    "path_str": "(4b61c25a86083c20730c9b12737ac6ac4178c364)-[cites]->(f2ac2a3fd7b341f2b1be752b4dd46ed9abcf0751)",
+    "answer": "Deep Reinforcement Learning",
+    "label": 1,
+    "qa_id": "q_two_079"
+  },
+  {
+    "question": "When was the paper 'Statistical Analysis of Design Aspects of Various YOLO-Based Deep Learning Models for Object Detection' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(cf490ef0613c5141f148e4b15ba2d8744e4db582)-[cites]->(3aed4648f7857c1d5e9b1da4c3afaf97463138c3)-[cites]->(8edbef15781042b5eec5c025aaae3637ae7460ce)",
+    "answer": "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection",
+    "label": 0,
+    "qa_id": "q_single_029"
+  },
+  {
+    "question": "When was the paper 'MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models' published?",
+    "path": [
+      "cites",
+      "authored_by"
+    ],
+    "path_str": "(77b1f1c6d1658d120456b9046667cf009ceb39ce)-[cites]->(d766bffc357127e0dc86dd69561d5aeb520d6f4c)-[authored_by]->(2115903168)",
+    "answer": "Xu Jiang",
+    "label": 0,
+    "qa_id": "q_single_032"
+  },
+  {
+    "question": "Who are the authors of the paper 'Efficient Pneumonia Detection in Chest Xray Images Using Deep Transfer Learning'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(4715230901b765a2638edd61f8aa91da25a29590)-[authored_by]->(38986955)",
+    "answer": "Mohammad Farukh Hashmi",
+    "label": 1,
+    "qa_id": "q_single_085"
+  },
+  {
+    "question": "Which papers cite 'Retrieving and Reading: A Comprehensive Survey on Open-domain Question Answering' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(db9296eaa252231e24d066e8413bf29fb058ee45)-[cites]->(6c4b76232bb72897685d19b3d264c6ee3005bc2b)-[cites]->(d7b6753a2d4a2b286c396854063bde3a91b75535)",
+    "answer": "A Simple Method for Commonsense Reasoning",
+    "label": 0,
+    "qa_id": "q_two_035"
+  },
+  {
+    "question": "Where was the paper 'Better & Faster Large Language Models via Multi-token Prediction' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(b9c289f141c54ab465a885fb7be7936d98e8c853)-[cites]->(a38e0f993e4805ba8a9beae4c275c91ffcec01df)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)",
+    "answer": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "label": 0,
+    "qa_id": "q_single_024"
+  },
+  {
+    "question": "Which papers cite 'Multi-task learning for natural language processing in the 2020s: where are we going?' and are about Computer Science?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(09bfe057c9285577242636950c6835b8731a07fb)-[cites]->(df2b0e26d0599ce3e70df8a9da02e51594e0e992)-[cites]->(e0222a1ae6874f7fff128c3da8769ab95963da04)",
+    "answer": "Reinforced Mnemonic Reader for Machine Reading Comprehension",
+    "label": 0,
+    "qa_id": "q_two_008"
+  },
+  {
+    "question": "Who are the authors of the paper 'Graph Neural Networks for Intelligent Transportation Systems: A Survey'?",
+    "path": [
+      "authored_by"
+    ],
+    "path_str": "(116c1eab038d7c5d3f2ff3d1103cdd1fefdd2ef8)-[authored_by]->(47698696)",
+    "answer": "Z. Patterson",
+    "label": 1,
+    "qa_id": "q_single_046"
+  },
+  {
+    "question": "Which paper has more citations: 'A Survey of Deep Learning-Based Object Detection' or 'Attention Mechanism in Machine Translation'?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(dfbeb3ca7a01fe80c49b76baa50bf092f71eef4a)-[cites]->(92a368ae1c4602f90f1ef931432f8eaba981c868)-[cites]->(dfad8f616bd2a05c8cae5f61060f743f966ece85)",
+    "answer": "Realtime Multi-person 2D Pose Estimation Using Part Affinity Fields",
+    "label": 0,
+    "qa_id": "q_comp_017"
+  },
+  {
+    "question": "Where was the paper 'A literature review on question answering techniques, paradigms and systems' published?",
+    "path": [
+      "cites",
+      "cites"
+    ],
+    "path_str": "(bf4f4ebd43ac87431fdf978988c2a90b1034e994)-[cites]->(91dddb9263842b39c0bcba863a4840655d2ffe67)-[cites]->(c9a1613f01435f0df4c42dc4ce1e62601cf10400)",
+    "answer": "Automatic construction of a large-scale situation ontology by mining how-to instructions from the web",
+    "label": 0,
+    "qa_id": "q_single_006"
+  }
+]
